@@ -1,0 +1,1449 @@
+review_id,order_id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
+demo_review_000001,demo_order_000001,4,Satisfied,Order arrived and matched the request,2017-08-12 15:24:00,2017-08-14 15:24:00
+demo_review_000002,demo_order_000002,4,Satisfied,Order arrived and matched the request,2017-08-07 21:06:00,2017-08-07 21:06:00
+demo_review_000003,demo_order_000003,3,Average experience,The order was acceptable,2016-11-10 08:46:00,2016-11-10 08:46:00
+demo_review_000004,demo_order_000005,2,Could be better,Delivery took longer than expected,2018-09-11 08:05:00,2018-09-12 08:05:00
+demo_review_000005,demo_order_000006,4,Satisfied,Order arrived and matched the request,2017-12-22 19:48:00,2017-12-23 19:48:00
+demo_review_000006,demo_order_000007,5,Satisfied,Order arrived and matched the request,2018-01-17 14:53:00,2018-01-19 14:53:00
+demo_review_000007,demo_order_000008,4,Satisfied,Order arrived and matched the request,2017-04-15 15:20:00,2017-04-17 15:20:00
+demo_review_000008,demo_order_000011,3,Average experience,The order was acceptable,2017-08-18 21:02:00,2017-08-19 21:02:00
+demo_review_000009,demo_order_000012,4,Satisfied,Order arrived and matched the request,2017-11-20 18:26:00,2017-11-20 18:26:00
+demo_review_000010,demo_order_000013,4,Satisfied,Order arrived and matched the request,2017-11-11 08:41:00,2017-11-13 08:41:00
+demo_review_000011,demo_order_000016,4,Satisfied,Order arrived and matched the request,2016-11-08 15:53:00,2016-11-10 15:53:00
+demo_review_000012,demo_order_000017,5,Satisfied,Order arrived and matched the request,2017-11-01 20:26:00,2017-11-02 20:26:00
+demo_review_000013,demo_order_000019,4,Satisfied,Order arrived and matched the request,2018-01-19 13:41:00,2018-01-21 13:41:00
+demo_review_000014,demo_order_000020,2,Could be better,The order did not meet expectations,2018-09-12 21:19:00,2018-09-14 21:19:00
+demo_review_000015,demo_order_000021,4,Satisfied,Order arrived and matched the request,2017-06-14 13:41:00,2017-06-15 13:41:00
+demo_review_000016,demo_order_000022,5,Satisfied,Order arrived and matched the request,2017-05-29 10:11:00,2017-05-31 10:11:00
+demo_review_000017,demo_order_000023,3,Average experience,The order was acceptable,2017-04-01 14:57:00,2017-04-02 14:57:00
+demo_review_000018,demo_order_000026,4,Satisfied,Order arrived and matched the request,2018-02-12 20:52:00,2018-02-12 20:52:00
+demo_review_000019,demo_order_000027,4,Satisfied,Order arrived and matched the request,2017-04-02 19:55:00,2017-04-02 19:55:00
+demo_review_000020,demo_order_000028,1,Could be better,Delivery took longer than expected,2017-09-30 19:38:00,2017-09-30 19:38:00
+demo_review_000021,demo_order_000030,2,Could be better,The order did not meet expectations,2018-06-05 14:35:00,2018-06-05 14:35:00
+demo_review_000022,demo_order_000032,5,Satisfied,Order arrived and matched the request,2017-07-09 12:36:00,2017-07-09 12:36:00
+demo_review_000023,demo_order_000033,4,Satisfied,Order arrived and matched the request,2018-05-26 18:24:00,2018-05-28 18:24:00
+demo_review_000024,demo_order_000034,1,Could be better,Delivery took longer than expected,2016-12-22 21:51:00,2016-12-23 21:51:00
+demo_review_000025,demo_order_000036,4,Satisfied,Order arrived and matched the request,2018-05-10 19:09:00,2018-05-11 19:09:00
+demo_review_000026,demo_order_000037,4,Satisfied,Order arrived and matched the request,2017-02-24 16:51:00,2017-02-26 16:51:00
+demo_review_000027,demo_order_000039,3,Average experience,The order was acceptable,2017-01-18 19:56:00,2017-01-20 19:56:00
+demo_review_000028,demo_order_000041,4,Satisfied,Order arrived and matched the request,2018-05-25 20:05:00,2018-05-25 20:05:00
+demo_review_000029,demo_order_000043,4,Satisfied,Order arrived and matched the request,2018-03-01 15:51:00,2018-03-01 15:51:00
+demo_review_000030,demo_order_000044,4,Satisfied,Order arrived and matched the request,2016-11-05 18:23:00,2016-11-07 18:23:00
+demo_review_000031,demo_order_000045,5,Satisfied,Order arrived and matched the request,2017-02-19 14:40:00,2017-02-19 14:40:00
+demo_review_000032,demo_order_000046,4,Satisfied,Order arrived and matched the request,2017-11-12 17:53:00,2017-11-13 17:53:00
+demo_review_000033,demo_order_000047,2,Could be better,Delivery took longer than expected,2017-11-20 08:23:00,2017-11-20 08:23:00
+demo_review_000034,demo_order_000048,4,Satisfied,Order arrived and matched the request,2017-08-01 19:00:00,2017-08-01 19:00:00
+demo_review_000035,demo_order_000049,4,Satisfied,Order arrived and matched the request,2018-03-20 13:03:00,2018-03-20 13:03:00
+demo_review_000036,demo_order_000050,5,Satisfied,Order arrived and matched the request,2018-04-19 17:32:00,2018-04-21 17:32:00
+demo_review_000037,demo_order_000051,3,Average experience,The order was acceptable,2018-08-03 19:49:00,2018-08-04 19:49:00
+demo_review_000038,demo_order_000052,4,Satisfied,Order arrived and matched the request,2018-01-15 12:42:00,2018-01-17 12:42:00
+demo_review_000039,demo_order_000053,5,Satisfied,Order arrived and matched the request,2018-04-05 13:54:00,2018-04-05 13:54:00
+demo_review_000040,demo_order_000055,4,Satisfied,Order arrived and matched the request,2017-09-19 09:44:00,2017-09-19 09:44:00
+demo_review_000041,demo_order_000056,3,Average experience,The order was acceptable,2018-01-20 21:13:00,2018-01-21 21:13:00
+demo_review_000042,demo_order_000057,4,Satisfied,Order arrived and matched the request,2018-06-01 15:35:00,2018-06-03 15:35:00
+demo_review_000043,demo_order_000058,5,Satisfied,Order arrived and matched the request,2017-03-13 17:12:00,2017-03-15 17:12:00
+demo_review_000044,demo_order_000059,4,Satisfied,Order arrived and matched the request,2017-09-10 10:18:00,2017-09-12 10:18:00
+demo_review_000045,demo_order_000060,4,Satisfied,Order arrived and matched the request,2018-01-04 14:31:00,2018-01-06 14:31:00
+demo_review_000046,demo_order_000062,5,Satisfied,Order arrived and matched the request,2018-08-16 10:57:00,2018-08-17 10:57:00
+demo_review_000047,demo_order_000063,5,Satisfied,Order arrived and matched the request,2017-05-12 21:06:00,2017-05-12 21:06:00
+demo_review_000048,demo_order_000064,2,Could be better,The order did not meet expectations,2017-12-01 21:05:00,2017-12-01 21:05:00
+demo_review_000049,demo_order_000068,4,Satisfied,Order arrived and matched the request,2016-12-30 18:56:00,2016-12-30 18:56:00
+demo_review_000050,demo_order_000069,5,Satisfied,Order arrived and matched the request,2018-01-13 20:27:00,2018-01-14 20:27:00
+demo_review_000051,demo_order_000071,5,Satisfied,Order arrived and matched the request,2018-06-27 15:33:00,2018-06-29 15:33:00
+demo_review_000052,demo_order_000072,4,Satisfied,Order arrived and matched the request,2017-01-07 14:00:00,2017-01-09 14:00:00
+demo_review_000053,demo_order_000074,4,Satisfied,Order arrived and matched the request,2016-10-19 08:42:00,2016-10-21 08:42:00
+demo_review_000054,demo_order_000075,5,Satisfied,Order arrived and matched the request,2018-04-29 10:49:00,2018-04-29 10:49:00
+demo_review_000055,demo_order_000077,3,Average experience,The order was acceptable,2018-05-22 10:24:00,2018-05-23 10:24:00
+demo_review_000056,demo_order_000078,5,Satisfied,Order arrived and matched the request,2016-12-18 15:27:00,2016-12-18 15:27:00
+demo_review_000057,demo_order_000079,5,Satisfied,Order arrived and matched the request,2017-07-06 20:49:00,2017-07-08 20:49:00
+demo_review_000058,demo_order_000080,5,Satisfied,Order arrived and matched the request,2018-05-14 16:55:00,2018-05-15 16:55:00
+demo_review_000059,demo_order_000081,4,Satisfied,Order arrived and matched the request,2018-06-18 13:16:00,2018-06-20 13:16:00
+demo_review_000060,demo_order_000083,2,Could be better,Delivery took longer than expected,2017-12-08 17:01:00,2017-12-09 17:01:00
+demo_review_000061,demo_order_000084,4,Satisfied,Order arrived and matched the request,2018-04-24 21:21:00,2018-04-24 21:21:00
+demo_review_000062,demo_order_000086,4,Satisfied,Order arrived and matched the request,2017-12-08 12:46:00,2017-12-08 12:46:00
+demo_review_000063,demo_order_000087,5,Satisfied,Order arrived and matched the request,2018-01-02 10:59:00,2018-01-03 10:59:00
+demo_review_000064,demo_order_000088,4,Satisfied,Order arrived and matched the request,2018-03-12 15:33:00,2018-03-13 15:33:00
+demo_review_000065,demo_order_000089,5,Satisfied,Order arrived and matched the request,2017-12-29 08:51:00,2017-12-30 08:51:00
+demo_review_000066,demo_order_000090,3,Average experience,The order was acceptable,2017-09-16 12:44:00,2017-09-16 12:44:00
+demo_review_000067,demo_order_000092,3,Average experience,The order was acceptable,2017-04-16 10:00:00,2017-04-18 10:00:00
+demo_review_000068,demo_order_000093,5,Satisfied,Order arrived and matched the request,2018-08-01 19:56:00,2018-08-03 19:56:00
+demo_review_000069,demo_order_000094,3,Average experience,The order was acceptable,2017-01-18 17:40:00,2017-01-20 17:40:00
+demo_review_000070,demo_order_000095,4,Satisfied,Order arrived and matched the request,2018-03-02 19:54:00,2018-03-02 19:54:00
+demo_review_000071,demo_order_000096,4,Satisfied,Order arrived and matched the request,2017-01-05 09:46:00,2017-01-06 09:46:00
+demo_review_000072,demo_order_000097,5,Satisfied,Order arrived and matched the request,2018-07-25 20:35:00,2018-07-27 20:35:00
+demo_review_000073,demo_order_000098,5,Satisfied,Order arrived and matched the request,2017-04-06 21:30:00,2017-04-07 21:30:00
+demo_review_000074,demo_order_000100,5,Satisfied,Order arrived and matched the request,2018-08-28 12:59:00,2018-08-28 12:59:00
+demo_review_000075,demo_order_000101,4,Satisfied,Order arrived and matched the request,2018-05-14 13:44:00,2018-05-14 13:44:00
+demo_review_000076,demo_order_000102,4,Satisfied,Order arrived and matched the request,2017-06-21 09:32:00,2017-06-21 09:32:00
+demo_review_000077,demo_order_000103,2,Could be better,Delivery took longer than expected,2018-04-25 21:38:00,2018-04-26 21:38:00
+demo_review_000078,demo_order_000104,4,Satisfied,Order arrived and matched the request,2018-04-10 15:48:00,2018-04-11 15:48:00
+demo_review_000079,demo_order_000105,4,Satisfied,Order arrived and matched the request,2017-04-21 19:21:00,2017-04-23 19:21:00
+demo_review_000080,demo_order_000107,3,Average experience,The order was acceptable,2018-09-03 21:53:00,2018-09-05 21:53:00
+demo_review_000081,demo_order_000109,2,Could be better,The order did not meet expectations,2017-11-14 14:21:00,2017-11-15 14:21:00
+demo_review_000082,demo_order_000112,4,Satisfied,Order arrived and matched the request,2018-05-23 17:09:00,2018-05-23 17:09:00
+demo_review_000083,demo_order_000113,4,Satisfied,Order arrived and matched the request,2016-12-28 15:06:00,2016-12-28 15:06:00
+demo_review_000084,demo_order_000114,5,Satisfied,Order arrived and matched the request,2017-08-31 17:32:00,2017-09-01 17:32:00
+demo_review_000085,demo_order_000115,4,Satisfied,Order arrived and matched the request,2016-12-09 16:00:00,2016-12-10 16:00:00
+demo_review_000086,demo_order_000116,4,Satisfied,Order arrived and matched the request,2018-03-05 09:18:00,2018-03-06 09:18:00
+demo_review_000087,demo_order_000117,5,Satisfied,Order arrived and matched the request,2016-10-30 19:08:00,2016-10-30 19:08:00
+demo_review_000088,demo_order_000118,5,Satisfied,Order arrived and matched the request,2018-07-01 19:09:00,2018-07-02 19:09:00
+demo_review_000089,demo_order_000119,5,Satisfied,Order arrived and matched the request,2017-11-07 17:44:00,2017-11-09 17:44:00
+demo_review_000090,demo_order_000121,3,Average experience,The order was acceptable,2017-12-19 14:03:00,2017-12-19 14:03:00
+demo_review_000091,demo_order_000122,5,Satisfied,Order arrived and matched the request,2017-09-20 12:27:00,2017-09-21 12:27:00
+demo_review_000092,demo_order_000123,5,Satisfied,Order arrived and matched the request,2017-04-11 10:37:00,2017-04-12 10:37:00
+demo_review_000093,demo_order_000126,2,Could be better,Delivery took longer than expected,2017-02-02 13:27:00,2017-02-04 13:27:00
+demo_review_000094,demo_order_000127,4,Satisfied,Order arrived and matched the request,2018-01-13 15:09:00,2018-01-15 15:09:00
+demo_review_000095,demo_order_000129,2,Could be better,The order did not meet expectations,2018-08-18 10:09:00,2018-08-19 10:09:00
+demo_review_000096,demo_order_000131,4,Satisfied,Order arrived and matched the request,2017-01-11 20:51:00,2017-01-11 20:51:00
+demo_review_000097,demo_order_000132,4,Satisfied,Order arrived and matched the request,2017-11-07 13:17:00,2017-11-07 13:17:00
+demo_review_000098,demo_order_000133,3,Average experience,The order was acceptable,2018-08-31 16:58:00,2018-09-02 16:58:00
+demo_review_000099,demo_order_000134,4,Satisfied,Order arrived and matched the request,2018-07-09 09:04:00,2018-07-10 09:04:00
+demo_review_000100,demo_order_000135,5,Satisfied,Order arrived and matched the request,2016-11-07 08:26:00,2016-11-07 08:26:00
+demo_review_000101,demo_order_000136,2,Could be better,Delivery took longer than expected,2017-08-29 21:52:00,2017-08-31 21:52:00
+demo_review_000102,demo_order_000137,2,Could be better,Delivery took longer than expected,2018-05-14 19:16:00,2018-05-15 19:16:00
+demo_review_000103,demo_order_000138,5,Satisfied,Order arrived and matched the request,2018-04-25 21:35:00,2018-04-27 21:35:00
+demo_review_000104,demo_order_000139,3,Average experience,The order was acceptable,2018-06-25 08:05:00,2018-06-26 08:05:00
+demo_review_000105,demo_order_000141,2,Could be better,Delivery took longer than expected,2017-06-22 17:55:00,2017-06-22 17:55:00
+demo_review_000106,demo_order_000142,3,Average experience,The order was acceptable,2017-03-14 09:03:00,2017-03-14 09:03:00
+demo_review_000107,demo_order_000143,3,Average experience,The order was acceptable,2017-03-24 09:15:00,2017-03-25 09:15:00
+demo_review_000108,demo_order_000145,4,Satisfied,Order arrived and matched the request,2017-10-12 21:35:00,2017-10-13 21:35:00
+demo_review_000109,demo_order_000146,5,Satisfied,Order arrived and matched the request,2016-12-27 11:58:00,2016-12-27 11:58:00
+demo_review_000110,demo_order_000147,3,Average experience,The order was acceptable,2018-03-19 16:10:00,2018-03-19 16:10:00
+demo_review_000111,demo_order_000149,4,Satisfied,Order arrived and matched the request,2018-09-09 11:27:00,2018-09-09 11:27:00
+demo_review_000112,demo_order_000151,4,Satisfied,Order arrived and matched the request,2018-03-18 16:43:00,2018-03-20 16:43:00
+demo_review_000113,demo_order_000152,4,Satisfied,Order arrived and matched the request,2018-04-08 11:47:00,2018-04-10 11:47:00
+demo_review_000114,demo_order_000153,4,Satisfied,Order arrived and matched the request,2017-03-17 20:21:00,2017-03-17 20:21:00
+demo_review_000115,demo_order_000154,4,Satisfied,Order arrived and matched the request,2017-01-28 16:55:00,2017-01-30 16:55:00
+demo_review_000116,demo_order_000155,5,Satisfied,Order arrived and matched the request,2017-09-29 21:53:00,2017-09-29 21:53:00
+demo_review_000117,demo_order_000156,3,Average experience,The order was acceptable,2017-11-25 15:58:00,2017-11-25 15:58:00
+demo_review_000118,demo_order_000157,4,Satisfied,Order arrived and matched the request,2017-11-02 18:57:00,2017-11-04 18:57:00
+demo_review_000119,demo_order_000158,5,Satisfied,Order arrived and matched the request,2017-08-07 09:38:00,2017-08-08 09:38:00
+demo_review_000120,demo_order_000159,4,Satisfied,Order arrived and matched the request,2016-10-31 16:21:00,2016-11-01 16:21:00
+demo_review_000121,demo_order_000162,5,Satisfied,Order arrived and matched the request,2017-03-20 17:18:00,2017-03-20 17:18:00
+demo_review_000122,demo_order_000163,5,Satisfied,Order arrived and matched the request,2017-06-04 10:55:00,2017-06-04 10:55:00
+demo_review_000123,demo_order_000165,4,Satisfied,Order arrived and matched the request,2017-10-22 08:38:00,2017-10-22 08:38:00
+demo_review_000124,demo_order_000166,5,Satisfied,Order arrived and matched the request,2017-11-14 12:52:00,2017-11-14 12:52:00
+demo_review_000125,demo_order_000167,2,Could be better,Delivery took longer than expected,2017-05-09 18:10:00,2017-05-11 18:10:00
+demo_review_000126,demo_order_000169,4,Satisfied,Order arrived and matched the request,2017-12-04 17:35:00,2017-12-06 17:35:00
+demo_review_000127,demo_order_000170,5,Satisfied,Order arrived and matched the request,2017-11-23 08:38:00,2017-11-23 08:38:00
+demo_review_000128,demo_order_000171,4,Satisfied,Order arrived and matched the request,2017-11-08 15:33:00,2017-11-10 15:33:00
+demo_review_000129,demo_order_000172,4,Satisfied,Order arrived and matched the request,2017-05-19 19:40:00,2017-05-20 19:40:00
+demo_review_000130,demo_order_000173,4,Satisfied,Order arrived and matched the request,2017-10-18 17:49:00,2017-10-18 17:49:00
+demo_review_000131,demo_order_000174,5,Satisfied,Order arrived and matched the request,2018-02-27 14:45:00,2018-02-28 14:45:00
+demo_review_000132,demo_order_000175,4,Satisfied,Order arrived and matched the request,2018-07-28 09:36:00,2018-07-30 09:36:00
+demo_review_000133,demo_order_000176,1,Could be better,Delivery took longer than expected,2018-09-09 20:51:00,2018-09-11 20:51:00
+demo_review_000134,demo_order_000178,5,Satisfied,Order arrived and matched the request,2017-09-20 11:28:00,2017-09-21 11:28:00
+demo_review_000135,demo_order_000179,4,Satisfied,Order arrived and matched the request,2018-03-21 09:39:00,2018-03-21 09:39:00
+demo_review_000136,demo_order_000180,4,Satisfied,Order arrived and matched the request,2018-05-29 16:57:00,2018-05-30 16:57:00
+demo_review_000137,demo_order_000181,5,Satisfied,Order arrived and matched the request,2018-01-11 13:08:00,2018-01-11 13:08:00
+demo_review_000138,demo_order_000182,5,Satisfied,Order arrived and matched the request,2017-07-15 20:17:00,2017-07-17 20:17:00
+demo_review_000139,demo_order_000183,2,Could be better,The order did not meet expectations,2017-08-10 08:05:00,2017-08-11 08:05:00
+demo_review_000140,demo_order_000184,4,Satisfied,Order arrived and matched the request,2018-04-01 19:18:00,2018-04-02 19:18:00
+demo_review_000141,demo_order_000186,4,Satisfied,Order arrived and matched the request,2018-06-08 16:00:00,2018-06-10 16:00:00
+demo_review_000142,demo_order_000188,5,Satisfied,Order arrived and matched the request,2018-03-24 18:01:00,2018-03-24 18:01:00
+demo_review_000143,demo_order_000189,5,Satisfied,Order arrived and matched the request,2018-01-18 18:11:00,2018-01-19 18:11:00
+demo_review_000144,demo_order_000190,5,Satisfied,Order arrived and matched the request,2017-04-28 21:57:00,2017-04-28 21:57:00
+demo_review_000145,demo_order_000191,5,Satisfied,Order arrived and matched the request,2018-05-26 16:24:00,2018-05-28 16:24:00
+demo_review_000146,demo_order_000192,5,Satisfied,Order arrived and matched the request,2017-01-29 16:18:00,2017-01-30 16:18:00
+demo_review_000147,demo_order_000193,5,Satisfied,Order arrived and matched the request,2017-09-27 14:38:00,2017-09-27 14:38:00
+demo_review_000148,demo_order_000194,3,Average experience,The order was acceptable,2018-08-11 19:30:00,2018-08-11 19:30:00
+demo_review_000149,demo_order_000195,4,Satisfied,Order arrived and matched the request,2017-02-28 20:32:00,2017-03-02 20:32:00
+demo_review_000150,demo_order_000196,5,Satisfied,Order arrived and matched the request,2017-02-14 18:44:00,2017-02-16 18:44:00
+demo_review_000151,demo_order_000197,5,Satisfied,Order arrived and matched the request,2017-09-09 08:10:00,2017-09-09 08:10:00
+demo_review_000152,demo_order_000198,4,Satisfied,Order arrived and matched the request,2017-12-09 08:33:00,2017-12-10 08:33:00
+demo_review_000153,demo_order_000199,2,Could be better,The order did not meet expectations,2018-07-20 12:55:00,2018-07-20 12:55:00
+demo_review_000154,demo_order_000200,3,Average experience,The order was acceptable,2016-11-02 12:33:00,2016-11-03 12:33:00
+demo_review_000155,demo_order_000202,4,Satisfied,Order arrived and matched the request,2018-07-03 11:16:00,2018-07-04 11:16:00
+demo_review_000156,demo_order_000203,5,Satisfied,Order arrived and matched the request,2017-03-11 13:44:00,2017-03-12 13:44:00
+demo_review_000157,demo_order_000204,3,Average experience,The order was acceptable,2017-10-08 14:45:00,2017-10-09 14:45:00
+demo_review_000158,demo_order_000205,4,Satisfied,Order arrived and matched the request,2017-05-05 19:49:00,2017-05-06 19:49:00
+demo_review_000159,demo_order_000207,4,Satisfied,Order arrived and matched the request,2017-09-30 21:20:00,2017-10-01 21:20:00
+demo_review_000160,demo_order_000208,5,Satisfied,Order arrived and matched the request,2018-05-08 16:36:00,2018-05-10 16:36:00
+demo_review_000161,demo_order_000209,4,Satisfied,Order arrived and matched the request,2017-10-26 16:33:00,2017-10-28 16:33:00
+demo_review_000162,demo_order_000210,3,Average experience,The order was acceptable,2017-02-17 18:15:00,2017-02-19 18:15:00
+demo_review_000163,demo_order_000211,3,Average experience,The order was acceptable,2017-12-01 09:45:00,2017-12-01 09:45:00
+demo_review_000164,demo_order_000212,4,Satisfied,Order arrived and matched the request,2017-04-29 11:39:00,2017-04-29 11:39:00
+demo_review_000165,demo_order_000213,4,Satisfied,Order arrived and matched the request,2018-09-03 19:27:00,2018-09-05 19:27:00
+demo_review_000166,demo_order_000215,4,Satisfied,Order arrived and matched the request,2017-07-26 08:04:00,2017-07-26 08:04:00
+demo_review_000167,demo_order_000216,5,Satisfied,Order arrived and matched the request,2018-08-16 12:46:00,2018-08-18 12:46:00
+demo_review_000168,demo_order_000217,3,Average experience,The order was acceptable,2018-08-21 17:29:00,2018-08-22 17:29:00
+demo_review_000169,demo_order_000218,5,Satisfied,Order arrived and matched the request,2017-05-22 19:17:00,2017-05-23 19:17:00
+demo_review_000170,demo_order_000219,5,Satisfied,Order arrived and matched the request,2017-04-23 15:12:00,2017-04-25 15:12:00
+demo_review_000171,demo_order_000220,1,Could be better,Delivery took longer than expected,2018-03-19 11:52:00,2018-03-21 11:52:00
+demo_review_000172,demo_order_000221,5,Satisfied,Order arrived and matched the request,2018-08-29 14:22:00,2018-08-30 14:22:00
+demo_review_000173,demo_order_000222,5,Satisfied,Order arrived and matched the request,2017-03-19 10:28:00,2017-03-19 10:28:00
+demo_review_000174,demo_order_000223,5,Satisfied,Order arrived and matched the request,2017-05-15 14:54:00,2017-05-17 14:54:00
+demo_review_000175,demo_order_000225,4,Satisfied,Order arrived and matched the request,2018-05-06 14:50:00,2018-05-08 14:50:00
+demo_review_000176,demo_order_000227,5,Satisfied,Order arrived and matched the request,2018-07-16 19:00:00,2018-07-18 19:00:00
+demo_review_000177,demo_order_000228,4,Satisfied,Order arrived and matched the request,2017-09-24 19:54:00,2017-09-25 19:54:00
+demo_review_000178,demo_order_000231,4,Satisfied,Order arrived and matched the request,2018-02-04 09:48:00,2018-02-04 09:48:00
+demo_review_000179,demo_order_000232,3,Average experience,The order was acceptable,2018-05-05 16:52:00,2018-05-05 16:52:00
+demo_review_000180,demo_order_000233,1,Could be better,Delivery took longer than expected,2017-02-22 11:06:00,2017-02-24 11:06:00
+demo_review_000181,demo_order_000234,5,Satisfied,Order arrived and matched the request,2018-08-18 10:20:00,2018-08-18 10:20:00
+demo_review_000182,demo_order_000235,5,Satisfied,Order arrived and matched the request,2017-05-23 21:36:00,2017-05-25 21:36:00
+demo_review_000183,demo_order_000236,2,Could be better,Delivery took longer than expected,2017-06-26 14:40:00,2017-06-28 14:40:00
+demo_review_000184,demo_order_000237,4,Satisfied,Order arrived and matched the request,2018-04-06 10:55:00,2018-04-08 10:55:00
+demo_review_000185,demo_order_000238,3,Average experience,The order was acceptable,2016-12-06 08:26:00,2016-12-06 08:26:00
+demo_review_000186,demo_order_000240,5,Satisfied,Order arrived and matched the request,2017-04-13 08:06:00,2017-04-13 08:06:00
+demo_review_000187,demo_order_000242,5,Satisfied,Order arrived and matched the request,2016-10-29 19:06:00,2016-10-31 19:06:00
+demo_review_000188,demo_order_000243,5,Satisfied,Order arrived and matched the request,2018-05-30 12:29:00,2018-05-31 12:29:00
+demo_review_000189,demo_order_000244,5,Satisfied,Order arrived and matched the request,2016-12-29 18:09:00,2016-12-29 18:09:00
+demo_review_000190,demo_order_000245,4,Satisfied,Order arrived and matched the request,2018-02-06 15:38:00,2018-02-08 15:38:00
+demo_review_000191,demo_order_000246,5,Satisfied,Order arrived and matched the request,2018-06-20 08:02:00,2018-06-21 08:02:00
+demo_review_000192,demo_order_000247,5,Satisfied,Order arrived and matched the request,2017-10-06 18:52:00,2017-10-08 18:52:00
+demo_review_000193,demo_order_000248,4,Satisfied,Order arrived and matched the request,2017-10-06 09:33:00,2017-10-06 09:33:00
+demo_review_000194,demo_order_000249,3,Average experience,The order was acceptable,2017-05-27 15:02:00,2017-05-29 15:02:00
+demo_review_000195,demo_order_000250,4,Satisfied,Order arrived and matched the request,2017-03-02 08:03:00,2017-03-02 08:03:00
+demo_review_000196,demo_order_000251,5,Satisfied,Order arrived and matched the request,2017-03-29 10:23:00,2017-03-30 10:23:00
+demo_review_000197,demo_order_000255,3,Average experience,The order was acceptable,2018-05-26 14:56:00,2018-05-27 14:56:00
+demo_review_000198,demo_order_000256,4,Satisfied,Order arrived and matched the request,2017-11-26 18:38:00,2017-11-27 18:38:00
+demo_review_000199,demo_order_000257,5,Satisfied,Order arrived and matched the request,2017-01-29 15:10:00,2017-01-30 15:10:00
+demo_review_000200,demo_order_000258,4,Satisfied,Order arrived and matched the request,2017-06-26 19:46:00,2017-06-26 19:46:00
+demo_review_000201,demo_order_000259,2,Could be better,The order did not meet expectations,2018-05-27 09:32:00,2018-05-28 09:32:00
+demo_review_000202,demo_order_000260,5,Satisfied,Order arrived and matched the request,2017-06-26 13:55:00,2017-06-27 13:55:00
+demo_review_000203,demo_order_000261,3,Average experience,The order was acceptable,2017-01-08 14:38:00,2017-01-09 14:38:00
+demo_review_000204,demo_order_000262,4,Satisfied,Order arrived and matched the request,2017-09-14 20:04:00,2017-09-15 20:04:00
+demo_review_000205,demo_order_000263,5,Satisfied,Order arrived and matched the request,2017-10-17 12:49:00,2017-10-19 12:49:00
+demo_review_000206,demo_order_000264,4,Satisfied,Order arrived and matched the request,2018-09-01 11:46:00,2018-09-01 11:46:00
+demo_review_000207,demo_order_000265,5,Satisfied,Order arrived and matched the request,2016-12-18 08:45:00,2016-12-20 08:45:00
+demo_review_000208,demo_order_000266,4,Satisfied,Order arrived and matched the request,2018-03-09 17:10:00,2018-03-09 17:10:00
+demo_review_000209,demo_order_000267,4,Satisfied,Order arrived and matched the request,2018-08-16 13:28:00,2018-08-18 13:28:00
+demo_review_000210,demo_order_000268,5,Satisfied,Order arrived and matched the request,2017-09-04 11:28:00,2017-09-04 11:28:00
+demo_review_000211,demo_order_000270,4,Satisfied,Order arrived and matched the request,2018-03-13 19:18:00,2018-03-15 19:18:00
+demo_review_000212,demo_order_000271,3,Average experience,The order was acceptable,2017-06-20 19:08:00,2017-06-21 19:08:00
+demo_review_000213,demo_order_000272,5,Satisfied,Order arrived and matched the request,2017-04-29 10:49:00,2017-05-01 10:49:00
+demo_review_000214,demo_order_000273,4,Satisfied,Order arrived and matched the request,2017-05-11 12:29:00,2017-05-13 12:29:00
+demo_review_000215,demo_order_000276,4,Satisfied,Order arrived and matched the request,2016-12-05 18:51:00,2016-12-07 18:51:00
+demo_review_000216,demo_order_000278,3,Average experience,The order was acceptable,2017-04-30 17:11:00,2017-05-02 17:11:00
+demo_review_000217,demo_order_000279,2,Could be better,Delivery took longer than expected,2018-03-09 20:59:00,2018-03-10 20:59:00
+demo_review_000218,demo_order_000280,5,Satisfied,Order arrived and matched the request,2016-10-17 19:58:00,2016-10-19 19:58:00
+demo_review_000219,demo_order_000281,4,Satisfied,Order arrived and matched the request,2017-08-10 20:29:00,2017-08-11 20:29:00
+demo_review_000220,demo_order_000282,4,Satisfied,Order arrived and matched the request,2016-11-05 19:43:00,2016-11-06 19:43:00
+demo_review_000221,demo_order_000283,4,Satisfied,Order arrived and matched the request,2017-04-27 09:24:00,2017-04-28 09:24:00
+demo_review_000222,demo_order_000284,3,Average experience,The order was acceptable,2018-06-23 21:19:00,2018-06-25 21:19:00
+demo_review_000223,demo_order_000286,3,Average experience,The order was acceptable,2018-07-17 18:42:00,2018-07-18 18:42:00
+demo_review_000224,demo_order_000287,4,Satisfied,Order arrived and matched the request,2017-06-15 18:48:00,2017-06-17 18:48:00
+demo_review_000225,demo_order_000288,5,Satisfied,Order arrived and matched the request,2017-11-03 17:51:00,2017-11-03 17:51:00
+demo_review_000226,demo_order_000289,4,Satisfied,Order arrived and matched the request,2018-07-29 20:14:00,2018-07-30 20:14:00
+demo_review_000227,demo_order_000290,2,Could be better,The order did not meet expectations,2017-02-17 19:12:00,2017-02-19 19:12:00
+demo_review_000228,demo_order_000291,1,Could be better,Delivery took longer than expected,2016-11-17 15:15:00,2016-11-18 15:15:00
+demo_review_000229,demo_order_000293,5,Satisfied,Order arrived and matched the request,2018-06-06 11:51:00,2018-06-08 11:51:00
+demo_review_000230,demo_order_000295,5,Satisfied,Order arrived and matched the request,2016-11-11 09:14:00,2016-11-11 09:14:00
+demo_review_000231,demo_order_000296,4,Satisfied,Order arrived and matched the request,2016-11-08 21:21:00,2016-11-10 21:21:00
+demo_review_000232,demo_order_000297,5,Satisfied,Order arrived and matched the request,2018-05-27 10:57:00,2018-05-29 10:57:00
+demo_review_000233,demo_order_000298,4,Satisfied,Order arrived and matched the request,2018-01-13 08:49:00,2018-01-13 08:49:00
+demo_review_000234,demo_order_000299,5,Satisfied,Order arrived and matched the request,2018-06-20 14:09:00,2018-06-22 14:09:00
+demo_review_000235,demo_order_000300,3,Average experience,The order was acceptable,2017-07-01 19:27:00,2017-07-02 19:27:00
+demo_review_000236,demo_order_000301,5,Satisfied,Order arrived and matched the request,2018-09-10 12:51:00,2018-09-11 12:51:00
+demo_review_000237,demo_order_000302,3,Average experience,The order was acceptable,2017-10-02 14:33:00,2017-10-03 14:33:00
+demo_review_000238,demo_order_000303,4,Satisfied,Order arrived and matched the request,2018-05-09 17:16:00,2018-05-10 17:16:00
+demo_review_000239,demo_order_000304,5,Satisfied,Order arrived and matched the request,2018-04-03 16:12:00,2018-04-05 16:12:00
+demo_review_000240,demo_order_000305,4,Satisfied,Order arrived and matched the request,2017-02-13 18:02:00,2017-02-13 18:02:00
+demo_review_000241,demo_order_000306,5,Satisfied,Order arrived and matched the request,2017-04-21 10:36:00,2017-04-21 10:36:00
+demo_review_000242,demo_order_000307,3,Average experience,The order was acceptable,2018-08-04 08:08:00,2018-08-06 08:08:00
+demo_review_000243,demo_order_000308,4,Satisfied,Order arrived and matched the request,2018-06-27 21:25:00,2018-06-28 21:25:00
+demo_review_000244,demo_order_000309,4,Satisfied,Order arrived and matched the request,2017-05-13 08:37:00,2017-05-13 08:37:00
+demo_review_000245,demo_order_000310,5,Satisfied,Order arrived and matched the request,2017-02-20 10:25:00,2017-02-20 10:25:00
+demo_review_000246,demo_order_000311,4,Satisfied,Order arrived and matched the request,2017-07-12 11:23:00,2017-07-14 11:23:00
+demo_review_000247,demo_order_000312,5,Satisfied,Order arrived and matched the request,2018-08-03 16:20:00,2018-08-05 16:20:00
+demo_review_000248,demo_order_000313,3,Average experience,The order was acceptable,2018-07-17 14:52:00,2018-07-18 14:52:00
+demo_review_000249,demo_order_000314,4,Satisfied,Order arrived and matched the request,2018-06-14 09:37:00,2018-06-14 09:37:00
+demo_review_000250,demo_order_000315,4,Satisfied,Order arrived and matched the request,2017-03-17 09:03:00,2017-03-17 09:03:00
+demo_review_000251,demo_order_000316,4,Satisfied,Order arrived and matched the request,2018-06-21 13:24:00,2018-06-23 13:24:00
+demo_review_000252,demo_order_000318,4,Satisfied,Order arrived and matched the request,2017-11-23 13:47:00,2017-11-24 13:47:00
+demo_review_000253,demo_order_000319,4,Satisfied,Order arrived and matched the request,2018-08-05 19:18:00,2018-08-07 19:18:00
+demo_review_000254,demo_order_000320,3,Average experience,The order was acceptable,2017-06-20 19:32:00,2017-06-22 19:32:00
+demo_review_000255,demo_order_000321,4,Satisfied,Order arrived and matched the request,2017-12-13 10:09:00,2017-12-14 10:09:00
+demo_review_000256,demo_order_000323,5,Satisfied,Order arrived and matched the request,2017-11-28 12:41:00,2017-11-30 12:41:00
+demo_review_000257,demo_order_000324,2,Could be better,Delivery took longer than expected,2018-05-24 16:42:00,2018-05-26 16:42:00
+demo_review_000258,demo_order_000325,5,Satisfied,Order arrived and matched the request,2016-11-10 10:59:00,2016-11-11 10:59:00
+demo_review_000259,demo_order_000326,3,Average experience,The order was acceptable,2018-08-24 12:29:00,2018-08-24 12:29:00
+demo_review_000260,demo_order_000327,5,Satisfied,Order arrived and matched the request,2018-04-21 17:30:00,2018-04-21 17:30:00
+demo_review_000261,demo_order_000330,3,Average experience,The order was acceptable,2017-10-26 08:27:00,2017-10-28 08:27:00
+demo_review_000262,demo_order_000331,2,Could be better,Delivery took longer than expected,2016-12-29 21:26:00,2016-12-30 21:26:00
+demo_review_000263,demo_order_000332,4,Satisfied,Order arrived and matched the request,2018-08-19 12:12:00,2018-08-21 12:12:00
+demo_review_000264,demo_order_000333,5,Satisfied,Order arrived and matched the request,2018-04-08 18:27:00,2018-04-10 18:27:00
+demo_review_000265,demo_order_000335,4,Satisfied,Order arrived and matched the request,2016-12-26 21:03:00,2016-12-27 21:03:00
+demo_review_000266,demo_order_000336,5,Satisfied,Order arrived and matched the request,2017-01-10 18:11:00,2017-01-10 18:11:00
+demo_review_000267,demo_order_000337,4,Satisfied,Order arrived and matched the request,2018-09-05 19:15:00,2018-09-07 19:15:00
+demo_review_000268,demo_order_000338,5,Satisfied,Order arrived and matched the request,2018-05-06 10:24:00,2018-05-06 10:24:00
+demo_review_000269,demo_order_000340,5,Satisfied,Order arrived and matched the request,2017-06-01 09:15:00,2017-06-03 09:15:00
+demo_review_000270,demo_order_000341,5,Satisfied,Order arrived and matched the request,2017-11-23 19:19:00,2017-11-24 19:19:00
+demo_review_000271,demo_order_000342,4,Satisfied,Order arrived and matched the request,2017-10-06 21:59:00,2017-10-06 21:59:00
+demo_review_000272,demo_order_000343,4,Satisfied,Order arrived and matched the request,2018-07-01 16:42:00,2018-07-01 16:42:00
+demo_review_000273,demo_order_000344,5,Satisfied,Order arrived and matched the request,2017-05-28 14:40:00,2017-05-29 14:40:00
+demo_review_000274,demo_order_000345,3,Average experience,The order was acceptable,2018-04-17 21:02:00,2018-04-18 21:02:00
+demo_review_000275,demo_order_000346,4,Satisfied,Order arrived and matched the request,2018-05-27 12:55:00,2018-05-27 12:55:00
+demo_review_000276,demo_order_000348,4,Satisfied,Order arrived and matched the request,2018-06-27 21:04:00,2018-06-28 21:04:00
+demo_review_000277,demo_order_000350,5,Satisfied,Order arrived and matched the request,2018-07-17 17:05:00,2018-07-17 17:05:00
+demo_review_000278,demo_order_000351,5,Satisfied,Order arrived and matched the request,2018-06-10 13:07:00,2018-06-12 13:07:00
+demo_review_000279,demo_order_000352,4,Satisfied,Order arrived and matched the request,2017-01-09 21:38:00,2017-01-11 21:38:00
+demo_review_000280,demo_order_000353,4,Satisfied,Order arrived and matched the request,2018-08-28 14:07:00,2018-08-28 14:07:00
+demo_review_000281,demo_order_000354,3,Average experience,The order was acceptable,2017-07-14 18:01:00,2017-07-15 18:01:00
+demo_review_000282,demo_order_000356,5,Satisfied,Order arrived and matched the request,2018-01-20 12:26:00,2018-01-22 12:26:00
+demo_review_000283,demo_order_000357,4,Satisfied,Order arrived and matched the request,2017-10-03 14:00:00,2017-10-03 14:00:00
+demo_review_000284,demo_order_000358,5,Satisfied,Order arrived and matched the request,2018-01-01 17:20:00,2018-01-01 17:20:00
+demo_review_000285,demo_order_000359,4,Satisfied,Order arrived and matched the request,2017-11-25 20:49:00,2017-11-25 20:49:00
+demo_review_000286,demo_order_000361,4,Satisfied,Order arrived and matched the request,2017-12-11 18:51:00,2017-12-11 18:51:00
+demo_review_000287,demo_order_000362,5,Satisfied,Order arrived and matched the request,2017-06-10 09:34:00,2017-06-12 09:34:00
+demo_review_000288,demo_order_000363,5,Satisfied,Order arrived and matched the request,2016-11-11 16:01:00,2016-11-13 16:01:00
+demo_review_000289,demo_order_000364,1,Could be better,Delivery took longer than expected,2018-05-01 19:14:00,2018-05-02 19:14:00
+demo_review_000290,demo_order_000365,3,Average experience,The order was acceptable,2017-12-13 12:20:00,2017-12-13 12:20:00
+demo_review_000291,demo_order_000366,3,Average experience,The order was acceptable,2018-07-26 18:44:00,2018-07-28 18:44:00
+demo_review_000292,demo_order_000367,5,Satisfied,Order arrived and matched the request,2018-06-03 14:40:00,2018-06-05 14:40:00
+demo_review_000293,demo_order_000368,1,Could be better,Delivery took longer than expected,2017-12-17 21:20:00,2017-12-17 21:20:00
+demo_review_000294,demo_order_000369,4,Satisfied,Order arrived and matched the request,2018-06-21 09:33:00,2018-06-21 09:33:00
+demo_review_000295,demo_order_000370,5,Satisfied,Order arrived and matched the request,2018-03-12 20:14:00,2018-03-13 20:14:00
+demo_review_000296,demo_order_000371,3,Average experience,The order was acceptable,2018-09-06 09:53:00,2018-09-08 09:53:00
+demo_review_000297,demo_order_000372,5,Satisfied,Order arrived and matched the request,2018-07-15 16:34:00,2018-07-16 16:34:00
+demo_review_000298,demo_order_000374,3,Average experience,The order was acceptable,2017-12-06 18:36:00,2017-12-07 18:36:00
+demo_review_000299,demo_order_000375,4,Satisfied,Order arrived and matched the request,2017-12-11 12:00:00,2017-12-11 12:00:00
+demo_review_000300,demo_order_000377,1,Could be better,Delivery took longer than expected,2017-06-08 17:24:00,2017-06-10 17:24:00
+demo_review_000301,demo_order_000379,4,Satisfied,Order arrived and matched the request,2018-07-12 15:04:00,2018-07-14 15:04:00
+demo_review_000302,demo_order_000380,4,Satisfied,Order arrived and matched the request,2018-01-14 21:01:00,2018-01-15 21:01:00
+demo_review_000303,demo_order_000381,5,Satisfied,Order arrived and matched the request,2017-10-21 08:35:00,2017-10-23 08:35:00
+demo_review_000304,demo_order_000382,5,Satisfied,Order arrived and matched the request,2017-02-23 14:51:00,2017-02-25 14:51:00
+demo_review_000305,demo_order_000383,5,Satisfied,Order arrived and matched the request,2017-04-17 18:02:00,2017-04-17 18:02:00
+demo_review_000306,demo_order_000384,5,Satisfied,Order arrived and matched the request,2017-01-27 09:45:00,2017-01-29 09:45:00
+demo_review_000307,demo_order_000385,4,Satisfied,Order arrived and matched the request,2018-06-01 20:03:00,2018-06-03 20:03:00
+demo_review_000308,demo_order_000387,3,Average experience,The order was acceptable,2017-11-17 16:02:00,2017-11-18 16:02:00
+demo_review_000309,demo_order_000388,5,Satisfied,Order arrived and matched the request,2018-03-07 10:05:00,2018-03-07 10:05:00
+demo_review_000310,demo_order_000390,5,Satisfied,Order arrived and matched the request,2016-10-23 14:06:00,2016-10-25 14:06:00
+demo_review_000311,demo_order_000391,5,Satisfied,Order arrived and matched the request,2018-06-05 12:37:00,2018-06-06 12:37:00
+demo_review_000312,demo_order_000392,5,Satisfied,Order arrived and matched the request,2017-07-24 10:12:00,2017-07-25 10:12:00
+demo_review_000313,demo_order_000393,5,Satisfied,Order arrived and matched the request,2018-08-15 18:47:00,2018-08-15 18:47:00
+demo_review_000314,demo_order_000395,5,Satisfied,Order arrived and matched the request,2017-12-06 11:08:00,2017-12-06 11:08:00
+demo_review_000315,demo_order_000396,5,Satisfied,Order arrived and matched the request,2018-03-28 17:13:00,2018-03-30 17:13:00
+demo_review_000316,demo_order_000398,1,Could be better,Delivery took longer than expected,2018-07-08 16:55:00,2018-07-10 16:55:00
+demo_review_000317,demo_order_000399,4,Satisfied,Order arrived and matched the request,2016-12-24 10:26:00,2016-12-25 10:26:00
+demo_review_000318,demo_order_000401,5,Satisfied,Order arrived and matched the request,2017-11-07 12:34:00,2017-11-09 12:34:00
+demo_review_000319,demo_order_000402,3,Average experience,The order was acceptable,2017-08-11 12:36:00,2017-08-11 12:36:00
+demo_review_000320,demo_order_000403,4,Satisfied,Order arrived and matched the request,2017-07-16 09:48:00,2017-07-18 09:48:00
+demo_review_000321,demo_order_000404,3,Average experience,The order was acceptable,2017-05-26 19:21:00,2017-05-28 19:21:00
+demo_review_000322,demo_order_000405,4,Satisfied,Order arrived and matched the request,2018-05-09 21:23:00,2018-05-09 21:23:00
+demo_review_000323,demo_order_000406,2,Could be better,Delivery took longer than expected,2017-01-02 20:12:00,2017-01-03 20:12:00
+demo_review_000324,demo_order_000407,5,Satisfied,Order arrived and matched the request,2018-02-24 20:08:00,2018-02-24 20:08:00
+demo_review_000325,demo_order_000408,5,Satisfied,Order arrived and matched the request,2016-12-22 20:06:00,2016-12-22 20:06:00
+demo_review_000326,demo_order_000409,5,Satisfied,Order arrived and matched the request,2017-11-21 13:56:00,2017-11-22 13:56:00
+demo_review_000327,demo_order_000410,4,Satisfied,Order arrived and matched the request,2017-09-09 18:48:00,2017-09-09 18:48:00
+demo_review_000328,demo_order_000412,4,Satisfied,Order arrived and matched the request,2018-06-02 10:19:00,2018-06-04 10:19:00
+demo_review_000329,demo_order_000414,5,Satisfied,Order arrived and matched the request,2018-09-01 17:19:00,2018-09-01 17:19:00
+demo_review_000330,demo_order_000415,4,Satisfied,Order arrived and matched the request,2018-04-19 08:37:00,2018-04-19 08:37:00
+demo_review_000331,demo_order_000416,4,Satisfied,Order arrived and matched the request,2018-08-16 17:41:00,2018-08-18 17:41:00
+demo_review_000332,demo_order_000417,4,Satisfied,Order arrived and matched the request,2017-05-13 19:54:00,2017-05-15 19:54:00
+demo_review_000333,demo_order_000420,3,Average experience,The order was acceptable,2017-10-27 14:58:00,2017-10-27 14:58:00
+demo_review_000334,demo_order_000421,4,Satisfied,Order arrived and matched the request,2018-01-14 18:46:00,2018-01-14 18:46:00
+demo_review_000335,demo_order_000422,4,Satisfied,Order arrived and matched the request,2018-08-11 18:19:00,2018-08-13 18:19:00
+demo_review_000336,demo_order_000423,2,Could be better,Delivery took longer than expected,2017-09-13 13:59:00,2017-09-14 13:59:00
+demo_review_000337,demo_order_000424,5,Satisfied,Order arrived and matched the request,2017-06-21 13:35:00,2017-06-21 13:35:00
+demo_review_000338,demo_order_000425,4,Satisfied,Order arrived and matched the request,2017-05-27 09:25:00,2017-05-27 09:25:00
+demo_review_000339,demo_order_000426,3,Average experience,The order was acceptable,2018-05-13 17:06:00,2018-05-15 17:06:00
+demo_review_000340,demo_order_000427,3,Average experience,The order was acceptable,2018-03-30 10:24:00,2018-04-01 10:24:00
+demo_review_000341,demo_order_000428,4,Satisfied,Order arrived and matched the request,2017-12-09 08:23:00,2017-12-11 08:23:00
+demo_review_000342,demo_order_000429,3,Average experience,The order was acceptable,2017-02-20 20:26:00,2017-02-21 20:26:00
+demo_review_000343,demo_order_000432,4,Satisfied,Order arrived and matched the request,2018-04-15 18:33:00,2018-04-17 18:33:00
+demo_review_000344,demo_order_000433,3,Average experience,The order was acceptable,2018-07-07 10:56:00,2018-07-07 10:56:00
+demo_review_000345,demo_order_000434,3,Average experience,The order was acceptable,2018-04-02 15:56:00,2018-04-04 15:56:00
+demo_review_000346,demo_order_000435,5,Satisfied,Order arrived and matched the request,2018-08-03 11:41:00,2018-08-03 11:41:00
+demo_review_000347,demo_order_000437,2,Could be better,Delivery took longer than expected,2018-07-09 09:02:00,2018-07-11 09:02:00
+demo_review_000348,demo_order_000438,3,Average experience,The order was acceptable,2017-12-15 19:09:00,2017-12-15 19:09:00
+demo_review_000349,demo_order_000439,5,Satisfied,Order arrived and matched the request,2018-06-28 16:55:00,2018-06-29 16:55:00
+demo_review_000350,demo_order_000440,5,Satisfied,Order arrived and matched the request,2018-09-06 13:32:00,2018-09-06 13:32:00
+demo_review_000351,demo_order_000441,5,Satisfied,Order arrived and matched the request,2017-08-08 19:15:00,2017-08-09 19:15:00
+demo_review_000352,demo_order_000442,4,Satisfied,Order arrived and matched the request,2017-11-30 16:41:00,2017-12-02 16:41:00
+demo_review_000353,demo_order_000443,5,Satisfied,Order arrived and matched the request,2017-06-05 14:19:00,2017-06-06 14:19:00
+demo_review_000354,demo_order_000444,4,Satisfied,Order arrived and matched the request,2018-01-15 21:10:00,2018-01-17 21:10:00
+demo_review_000355,demo_order_000445,4,Satisfied,Order arrived and matched the request,2018-07-26 15:56:00,2018-07-28 15:56:00
+demo_review_000356,demo_order_000446,4,Satisfied,Order arrived and matched the request,2018-09-06 10:15:00,2018-09-06 10:15:00
+demo_review_000357,demo_order_000447,4,Satisfied,Order arrived and matched the request,2017-12-25 20:57:00,2017-12-27 20:57:00
+demo_review_000358,demo_order_000448,4,Satisfied,Order arrived and matched the request,2017-06-06 08:10:00,2017-06-06 08:10:00
+demo_review_000359,demo_order_000449,4,Satisfied,Order arrived and matched the request,2017-01-14 11:09:00,2017-01-14 11:09:00
+demo_review_000360,demo_order_000450,3,Average experience,The order was acceptable,2018-02-21 15:15:00,2018-02-22 15:15:00
+demo_review_000361,demo_order_000451,4,Satisfied,Order arrived and matched the request,2017-11-19 21:48:00,2017-11-20 21:48:00
+demo_review_000362,demo_order_000455,3,Average experience,The order was acceptable,2018-07-20 18:11:00,2018-07-20 18:11:00
+demo_review_000363,demo_order_000457,4,Satisfied,Order arrived and matched the request,2018-06-15 18:53:00,2018-06-15 18:53:00
+demo_review_000364,demo_order_000462,4,Satisfied,Order arrived and matched the request,2018-04-28 13:26:00,2018-04-30 13:26:00
+demo_review_000365,demo_order_000464,3,Average experience,The order was acceptable,2017-03-13 13:37:00,2017-03-15 13:37:00
+demo_review_000366,demo_order_000465,4,Satisfied,Order arrived and matched the request,2018-02-20 14:23:00,2018-02-20 14:23:00
+demo_review_000367,demo_order_000466,5,Satisfied,Order arrived and matched the request,2018-07-09 19:27:00,2018-07-09 19:27:00
+demo_review_000368,demo_order_000468,3,Average experience,The order was acceptable,2018-03-06 13:48:00,2018-03-07 13:48:00
+demo_review_000369,demo_order_000469,5,Satisfied,Order arrived and matched the request,2018-04-01 14:17:00,2018-04-01 14:17:00
+demo_review_000370,demo_order_000470,5,Satisfied,Order arrived and matched the request,2017-01-13 15:23:00,2017-01-14 15:23:00
+demo_review_000371,demo_order_000471,4,Satisfied,Order arrived and matched the request,2018-01-09 20:15:00,2018-01-10 20:15:00
+demo_review_000372,demo_order_000472,2,Could be better,Delivery took longer than expected,2017-02-04 19:17:00,2017-02-05 19:17:00
+demo_review_000373,demo_order_000473,4,Satisfied,Order arrived and matched the request,2017-01-26 14:36:00,2017-01-26 14:36:00
+demo_review_000374,demo_order_000474,5,Satisfied,Order arrived and matched the request,2017-10-29 12:12:00,2017-10-31 12:12:00
+demo_review_000375,demo_order_000475,4,Satisfied,Order arrived and matched the request,2018-01-06 09:57:00,2018-01-06 09:57:00
+demo_review_000376,demo_order_000476,4,Satisfied,Order arrived and matched the request,2018-05-27 14:18:00,2018-05-28 14:18:00
+demo_review_000377,demo_order_000477,4,Satisfied,Order arrived and matched the request,2017-05-18 17:47:00,2017-05-18 17:47:00
+demo_review_000378,demo_order_000478,4,Satisfied,Order arrived and matched the request,2017-02-11 19:51:00,2017-02-12 19:51:00
+demo_review_000379,demo_order_000479,4,Satisfied,Order arrived and matched the request,2018-01-25 20:28:00,2018-01-25 20:28:00
+demo_review_000380,demo_order_000480,4,Satisfied,Order arrived and matched the request,2017-03-30 10:17:00,2017-04-01 10:17:00
+demo_review_000381,demo_order_000481,4,Satisfied,Order arrived and matched the request,2016-12-23 08:48:00,2016-12-23 08:48:00
+demo_review_000382,demo_order_000482,4,Satisfied,Order arrived and matched the request,2017-06-15 12:26:00,2017-06-17 12:26:00
+demo_review_000383,demo_order_000484,5,Satisfied,Order arrived and matched the request,2017-11-27 21:40:00,2017-11-28 21:40:00
+demo_review_000384,demo_order_000486,5,Satisfied,Order arrived and matched the request,2018-05-18 16:08:00,2018-05-18 16:08:00
+demo_review_000385,demo_order_000487,4,Satisfied,Order arrived and matched the request,2017-04-22 18:00:00,2017-04-24 18:00:00
+demo_review_000386,demo_order_000488,4,Satisfied,Order arrived and matched the request,2018-04-17 13:40:00,2018-04-19 13:40:00
+demo_review_000387,demo_order_000489,4,Satisfied,Order arrived and matched the request,2018-01-18 09:03:00,2018-01-18 09:03:00
+demo_review_000388,demo_order_000490,4,Satisfied,Order arrived and matched the request,2017-05-04 20:53:00,2017-05-06 20:53:00
+demo_review_000389,demo_order_000491,5,Satisfied,Order arrived and matched the request,2017-08-24 20:16:00,2017-08-25 20:16:00
+demo_review_000390,demo_order_000492,4,Satisfied,Order arrived and matched the request,2018-01-29 10:29:00,2018-01-30 10:29:00
+demo_review_000391,demo_order_000494,3,Average experience,The order was acceptable,2017-04-21 10:50:00,2017-04-21 10:50:00
+demo_review_000392,demo_order_000495,4,Satisfied,Order arrived and matched the request,2018-08-31 19:52:00,2018-09-02 19:52:00
+demo_review_000393,demo_order_000496,4,Satisfied,Order arrived and matched the request,2018-09-13 11:29:00,2018-09-14 11:29:00
+demo_review_000394,demo_order_000497,4,Satisfied,Order arrived and matched the request,2017-12-25 20:31:00,2017-12-25 20:31:00
+demo_review_000395,demo_order_000498,2,Could be better,Delivery took longer than expected,2018-01-11 16:23:00,2018-01-13 16:23:00
+demo_review_000396,demo_order_000500,4,Satisfied,Order arrived and matched the request,2017-12-29 15:56:00,2017-12-30 15:56:00
+demo_review_000397,demo_order_000501,3,Average experience,The order was acceptable,2017-09-11 11:58:00,2017-09-11 11:58:00
+demo_review_000398,demo_order_000502,5,Satisfied,Order arrived and matched the request,2017-09-25 16:14:00,2017-09-27 16:14:00
+demo_review_000399,demo_order_000503,3,Average experience,The order was acceptable,2018-03-30 21:53:00,2018-03-31 21:53:00
+demo_review_000400,demo_order_000505,4,Satisfied,Order arrived and matched the request,2017-06-28 16:21:00,2017-06-29 16:21:00
+demo_review_000401,demo_order_000506,5,Satisfied,Order arrived and matched the request,2018-04-22 17:41:00,2018-04-24 17:41:00
+demo_review_000402,demo_order_000507,3,Average experience,The order was acceptable,2018-08-03 12:50:00,2018-08-04 12:50:00
+demo_review_000403,demo_order_000508,5,Satisfied,Order arrived and matched the request,2017-03-11 08:43:00,2017-03-12 08:43:00
+demo_review_000404,demo_order_000509,4,Satisfied,Order arrived and matched the request,2018-03-24 18:17:00,2018-03-26 18:17:00
+demo_review_000405,demo_order_000510,3,Average experience,The order was acceptable,2017-02-11 15:24:00,2017-02-13 15:24:00
+demo_review_000406,demo_order_000511,3,Average experience,The order was acceptable,2018-02-12 13:17:00,2018-02-12 13:17:00
+demo_review_000407,demo_order_000512,5,Satisfied,Order arrived and matched the request,2018-05-02 08:27:00,2018-05-02 08:27:00
+demo_review_000408,demo_order_000513,3,Average experience,The order was acceptable,2017-11-26 15:36:00,2017-11-28 15:36:00
+demo_review_000409,demo_order_000514,4,Satisfied,Order arrived and matched the request,2018-08-27 09:30:00,2018-08-27 09:30:00
+demo_review_000410,demo_order_000515,4,Satisfied,Order arrived and matched the request,2017-06-14 16:11:00,2017-06-15 16:11:00
+demo_review_000411,demo_order_000516,4,Satisfied,Order arrived and matched the request,2017-10-30 20:00:00,2017-10-31 20:00:00
+demo_review_000412,demo_order_000517,5,Satisfied,Order arrived and matched the request,2018-01-16 20:41:00,2018-01-17 20:41:00
+demo_review_000413,demo_order_000518,5,Satisfied,Order arrived and matched the request,2018-02-12 11:07:00,2018-02-14 11:07:00
+demo_review_000414,demo_order_000519,4,Satisfied,Order arrived and matched the request,2018-02-25 17:18:00,2018-02-27 17:18:00
+demo_review_000415,demo_order_000521,5,Satisfied,Order arrived and matched the request,2017-11-11 20:51:00,2017-11-13 20:51:00
+demo_review_000416,demo_order_000522,5,Satisfied,Order arrived and matched the request,2016-12-27 12:15:00,2016-12-28 12:15:00
+demo_review_000417,demo_order_000523,2,Could be better,Delivery took longer than expected,2018-06-08 15:29:00,2018-06-10 15:29:00
+demo_review_000418,demo_order_000524,4,Satisfied,Order arrived and matched the request,2017-07-09 13:50:00,2017-07-11 13:50:00
+demo_review_000419,demo_order_000525,4,Satisfied,Order arrived and matched the request,2018-08-23 15:33:00,2018-08-25 15:33:00
+demo_review_000420,demo_order_000526,5,Satisfied,Order arrived and matched the request,2017-05-09 18:42:00,2017-05-11 18:42:00
+demo_review_000421,demo_order_000527,4,Satisfied,Order arrived and matched the request,2017-12-21 09:03:00,2017-12-21 09:03:00
+demo_review_000422,demo_order_000528,4,Satisfied,Order arrived and matched the request,2018-08-12 13:23:00,2018-08-12 13:23:00
+demo_review_000423,demo_order_000529,3,Average experience,The order was acceptable,2017-12-29 11:27:00,2017-12-30 11:27:00
+demo_review_000424,demo_order_000530,4,Satisfied,Order arrived and matched the request,2017-08-12 15:51:00,2017-08-14 15:51:00
+demo_review_000425,demo_order_000532,2,Could be better,Delivery took longer than expected,2017-10-06 20:14:00,2017-10-07 20:14:00
+demo_review_000426,demo_order_000534,3,Average experience,The order was acceptable,2016-12-12 18:28:00,2016-12-13 18:28:00
+demo_review_000427,demo_order_000535,5,Satisfied,Order arrived and matched the request,2017-08-31 16:41:00,2017-09-02 16:41:00
+demo_review_000428,demo_order_000536,4,Satisfied,Order arrived and matched the request,2018-04-06 11:34:00,2018-04-06 11:34:00
+demo_review_000429,demo_order_000537,5,Satisfied,Order arrived and matched the request,2018-09-12 15:32:00,2018-09-14 15:32:00
+demo_review_000430,demo_order_000538,4,Satisfied,Order arrived and matched the request,2017-10-30 08:44:00,2017-10-30 08:44:00
+demo_review_000431,demo_order_000539,2,Could be better,The order did not meet expectations,2018-09-09 18:16:00,2018-09-09 18:16:00
+demo_review_000432,demo_order_000540,4,Satisfied,Order arrived and matched the request,2018-03-22 16:23:00,2018-03-24 16:23:00
+demo_review_000433,demo_order_000541,5,Satisfied,Order arrived and matched the request,2018-04-07 10:01:00,2018-04-07 10:01:00
+demo_review_000434,demo_order_000542,5,Satisfied,Order arrived and matched the request,2017-08-30 18:53:00,2017-08-30 18:53:00
+demo_review_000435,demo_order_000543,3,Average experience,The order was acceptable,2017-08-19 09:34:00,2017-08-21 09:34:00
+demo_review_000436,demo_order_000544,3,Average experience,The order was acceptable,2016-11-26 19:46:00,2016-11-27 19:46:00
+demo_review_000437,demo_order_000545,4,Satisfied,Order arrived and matched the request,2018-05-27 09:20:00,2018-05-29 09:20:00
+demo_review_000438,demo_order_000546,4,Satisfied,Order arrived and matched the request,2016-12-08 21:05:00,2016-12-10 21:05:00
+demo_review_000439,demo_order_000547,4,Satisfied,Order arrived and matched the request,2018-02-27 20:30:00,2018-02-28 20:30:00
+demo_review_000440,demo_order_000548,4,Satisfied,Order arrived and matched the request,2018-03-31 18:43:00,2018-04-02 18:43:00
+demo_review_000441,demo_order_000549,5,Satisfied,Order arrived and matched the request,2018-03-29 15:07:00,2018-03-29 15:07:00
+demo_review_000442,demo_order_000550,5,Satisfied,Order arrived and matched the request,2018-06-22 21:20:00,2018-06-24 21:20:00
+demo_review_000443,demo_order_000551,3,Average experience,The order was acceptable,2017-08-14 10:22:00,2017-08-16 10:22:00
+demo_review_000444,demo_order_000552,4,Satisfied,Order arrived and matched the request,2017-02-18 21:35:00,2017-02-18 21:35:00
+demo_review_000445,demo_order_000553,3,Average experience,The order was acceptable,2018-03-27 16:07:00,2018-03-27 16:07:00
+demo_review_000446,demo_order_000554,5,Satisfied,Order arrived and matched the request,2017-12-21 14:49:00,2017-12-23 14:49:00
+demo_review_000447,demo_order_000555,4,Satisfied,Order arrived and matched the request,2017-03-12 10:31:00,2017-03-13 10:31:00
+demo_review_000448,demo_order_000556,4,Satisfied,Order arrived and matched the request,2016-12-02 12:52:00,2016-12-04 12:52:00
+demo_review_000449,demo_order_000559,3,Average experience,The order was acceptable,2018-04-04 17:30:00,2018-04-04 17:30:00
+demo_review_000450,demo_order_000560,4,Satisfied,Order arrived and matched the request,2017-09-30 13:25:00,2017-10-02 13:25:00
+demo_review_000451,demo_order_000561,5,Satisfied,Order arrived and matched the request,2017-12-07 17:46:00,2017-12-07 17:46:00
+demo_review_000452,demo_order_000562,3,Average experience,The order was acceptable,2018-01-27 19:29:00,2018-01-28 19:29:00
+demo_review_000453,demo_order_000563,4,Satisfied,Order arrived and matched the request,2017-06-25 14:17:00,2017-06-25 14:17:00
+demo_review_000454,demo_order_000564,3,Average experience,The order was acceptable,2017-06-07 10:49:00,2017-06-09 10:49:00
+demo_review_000455,demo_order_000566,4,Satisfied,Order arrived and matched the request,2018-07-10 20:56:00,2018-07-10 20:56:00
+demo_review_000456,demo_order_000567,3,Average experience,The order was acceptable,2016-12-15 10:31:00,2016-12-16 10:31:00
+demo_review_000457,demo_order_000568,3,Average experience,The order was acceptable,2017-03-24 14:09:00,2017-03-25 14:09:00
+demo_review_000458,demo_order_000569,4,Satisfied,Order arrived and matched the request,2018-04-20 15:55:00,2018-04-22 15:55:00
+demo_review_000459,demo_order_000570,4,Satisfied,Order arrived and matched the request,2016-12-09 21:23:00,2016-12-10 21:23:00
+demo_review_000460,demo_order_000571,5,Satisfied,Order arrived and matched the request,2017-04-09 12:26:00,2017-04-10 12:26:00
+demo_review_000461,demo_order_000573,4,Satisfied,Order arrived and matched the request,2018-09-10 15:35:00,2018-09-12 15:35:00
+demo_review_000462,demo_order_000575,2,Could be better,Delivery took longer than expected,2017-12-17 12:26:00,2017-12-18 12:26:00
+demo_review_000463,demo_order_000576,4,Satisfied,Order arrived and matched the request,2018-02-18 14:24:00,2018-02-19 14:24:00
+demo_review_000464,demo_order_000577,4,Satisfied,Order arrived and matched the request,2017-04-15 18:41:00,2017-04-16 18:41:00
+demo_review_000465,demo_order_000578,5,Satisfied,Order arrived and matched the request,2017-06-22 21:24:00,2017-06-22 21:24:00
+demo_review_000466,demo_order_000580,3,Average experience,The order was acceptable,2018-09-07 19:45:00,2018-09-07 19:45:00
+demo_review_000467,demo_order_000582,4,Satisfied,Order arrived and matched the request,2017-12-01 10:16:00,2017-12-02 10:16:00
+demo_review_000468,demo_order_000583,5,Satisfied,Order arrived and matched the request,2018-08-25 11:53:00,2018-08-26 11:53:00
+demo_review_000469,demo_order_000584,1,Could be better,Delivery took longer than expected,2018-03-07 09:25:00,2018-03-07 09:25:00
+demo_review_000470,demo_order_000585,5,Satisfied,Order arrived and matched the request,2017-07-25 20:08:00,2017-07-25 20:08:00
+demo_review_000471,demo_order_000586,3,Average experience,The order was acceptable,2018-01-28 20:19:00,2018-01-28 20:19:00
+demo_review_000472,demo_order_000587,3,Average experience,The order was acceptable,2018-08-18 16:41:00,2018-08-18 16:41:00
+demo_review_000473,demo_order_000588,5,Satisfied,Order arrived and matched the request,2017-11-27 10:23:00,2017-11-27 10:23:00
+demo_review_000474,demo_order_000589,5,Satisfied,Order arrived and matched the request,2017-07-29 14:29:00,2017-07-29 14:29:00
+demo_review_000475,demo_order_000590,3,Average experience,The order was acceptable,2018-02-08 11:36:00,2018-02-08 11:36:00
+demo_review_000476,demo_order_000591,4,Satisfied,Order arrived and matched the request,2017-11-20 20:33:00,2017-11-20 20:33:00
+demo_review_000477,demo_order_000592,5,Satisfied,Order arrived and matched the request,2017-11-19 12:06:00,2017-11-20 12:06:00
+demo_review_000478,demo_order_000593,5,Satisfied,Order arrived and matched the request,2017-06-30 19:14:00,2017-07-01 19:14:00
+demo_review_000479,demo_order_000594,3,Average experience,The order was acceptable,2018-08-23 20:41:00,2018-08-25 20:41:00
+demo_review_000480,demo_order_000597,5,Satisfied,Order arrived and matched the request,2017-11-17 10:01:00,2017-11-18 10:01:00
+demo_review_000481,demo_order_000598,5,Satisfied,Order arrived and matched the request,2017-07-14 12:51:00,2017-07-14 12:51:00
+demo_review_000482,demo_order_000599,5,Satisfied,Order arrived and matched the request,2018-05-20 17:26:00,2018-05-21 17:26:00
+demo_review_000483,demo_order_000601,4,Satisfied,Order arrived and matched the request,2017-10-05 08:22:00,2017-10-07 08:22:00
+demo_review_000484,demo_order_000603,5,Satisfied,Order arrived and matched the request,2017-12-26 10:44:00,2017-12-26 10:44:00
+demo_review_000485,demo_order_000604,3,Average experience,The order was acceptable,2017-08-27 10:39:00,2017-08-28 10:39:00
+demo_review_000486,demo_order_000605,5,Satisfied,Order arrived and matched the request,2017-06-22 12:44:00,2017-06-22 12:44:00
+demo_review_000487,demo_order_000606,5,Satisfied,Order arrived and matched the request,2018-03-22 12:05:00,2018-03-24 12:05:00
+demo_review_000488,demo_order_000607,4,Satisfied,Order arrived and matched the request,2018-03-13 14:43:00,2018-03-14 14:43:00
+demo_review_000489,demo_order_000608,5,Satisfied,Order arrived and matched the request,2018-05-30 10:53:00,2018-05-31 10:53:00
+demo_review_000490,demo_order_000609,5,Satisfied,Order arrived and matched the request,2016-12-14 14:01:00,2016-12-16 14:01:00
+demo_review_000491,demo_order_000612,5,Satisfied,Order arrived and matched the request,2017-05-20 13:31:00,2017-05-20 13:31:00
+demo_review_000492,demo_order_000613,5,Satisfied,Order arrived and matched the request,2017-11-14 13:05:00,2017-11-15 13:05:00
+demo_review_000493,demo_order_000614,3,Average experience,The order was acceptable,2016-11-26 20:50:00,2016-11-27 20:50:00
+demo_review_000494,demo_order_000615,5,Satisfied,Order arrived and matched the request,2018-05-22 10:41:00,2018-05-23 10:41:00
+demo_review_000495,demo_order_000616,4,Satisfied,Order arrived and matched the request,2018-01-10 10:54:00,2018-01-12 10:54:00
+demo_review_000496,demo_order_000617,5,Satisfied,Order arrived and matched the request,2017-06-07 15:03:00,2017-06-08 15:03:00
+demo_review_000497,demo_order_000619,4,Satisfied,Order arrived and matched the request,2017-01-24 18:25:00,2017-01-25 18:25:00
+demo_review_000498,demo_order_000620,5,Satisfied,Order arrived and matched the request,2017-01-27 14:08:00,2017-01-28 14:08:00
+demo_review_000499,demo_order_000621,4,Satisfied,Order arrived and matched the request,2018-07-08 12:13:00,2018-07-09 12:13:00
+demo_review_000500,demo_order_000622,4,Satisfied,Order arrived and matched the request,2018-05-13 19:44:00,2018-05-14 19:44:00
+demo_review_000501,demo_order_000623,5,Satisfied,Order arrived and matched the request,2018-06-05 13:23:00,2018-06-07 13:23:00
+demo_review_000502,demo_order_000624,4,Satisfied,Order arrived and matched the request,2017-12-04 09:03:00,2017-12-04 09:03:00
+demo_review_000503,demo_order_000625,5,Satisfied,Order arrived and matched the request,2017-03-27 19:54:00,2017-03-28 19:54:00
+demo_review_000504,demo_order_000626,5,Satisfied,Order arrived and matched the request,2017-12-30 18:36:00,2017-12-30 18:36:00
+demo_review_000505,demo_order_000627,4,Satisfied,Order arrived and matched the request,2018-03-23 13:29:00,2018-03-25 13:29:00
+demo_review_000506,demo_order_000628,4,Satisfied,Order arrived and matched the request,2016-12-13 15:45:00,2016-12-14 15:45:00
+demo_review_000507,demo_order_000629,5,Satisfied,Order arrived and matched the request,2018-01-07 21:04:00,2018-01-09 21:04:00
+demo_review_000508,demo_order_000630,5,Satisfied,Order arrived and matched the request,2018-02-09 16:40:00,2018-02-10 16:40:00
+demo_review_000509,demo_order_000631,5,Satisfied,Order arrived and matched the request,2017-04-30 11:58:00,2017-05-01 11:58:00
+demo_review_000510,demo_order_000632,5,Satisfied,Order arrived and matched the request,2017-06-21 21:27:00,2017-06-22 21:27:00
+demo_review_000511,demo_order_000633,4,Satisfied,Order arrived and matched the request,2016-11-12 09:52:00,2016-11-12 09:52:00
+demo_review_000512,demo_order_000634,3,Average experience,The order was acceptable,2017-06-30 13:53:00,2017-06-30 13:53:00
+demo_review_000513,demo_order_000635,4,Satisfied,Order arrived and matched the request,2016-10-31 15:30:00,2016-11-02 15:30:00
+demo_review_000514,demo_order_000636,4,Satisfied,Order arrived and matched the request,2018-02-20 16:43:00,2018-02-20 16:43:00
+demo_review_000515,demo_order_000637,4,Satisfied,Order arrived and matched the request,2017-11-16 14:34:00,2017-11-18 14:34:00
+demo_review_000516,demo_order_000638,4,Satisfied,Order arrived and matched the request,2017-06-07 16:20:00,2017-06-07 16:20:00
+demo_review_000517,demo_order_000639,5,Satisfied,Order arrived and matched the request,2017-09-18 14:01:00,2017-09-20 14:01:00
+demo_review_000518,demo_order_000640,2,Could be better,Delivery took longer than expected,2017-06-07 17:56:00,2017-06-08 17:56:00
+demo_review_000519,demo_order_000641,4,Satisfied,Order arrived and matched the request,2017-09-08 10:13:00,2017-09-09 10:13:00
+demo_review_000520,demo_order_000642,4,Satisfied,Order arrived and matched the request,2017-01-30 08:54:00,2017-01-30 08:54:00
+demo_review_000521,demo_order_000643,5,Satisfied,Order arrived and matched the request,2018-07-01 08:52:00,2018-07-01 08:52:00
+demo_review_000522,demo_order_000645,4,Satisfied,Order arrived and matched the request,2018-02-04 10:32:00,2018-02-05 10:32:00
+demo_review_000523,demo_order_000646,3,Average experience,The order was acceptable,2018-07-21 20:39:00,2018-07-21 20:39:00
+demo_review_000524,demo_order_000647,4,Satisfied,Order arrived and matched the request,2017-12-26 09:16:00,2017-12-28 09:16:00
+demo_review_000525,demo_order_000648,5,Satisfied,Order arrived and matched the request,2017-11-05 17:14:00,2017-11-06 17:14:00
+demo_review_000526,demo_order_000650,5,Satisfied,Order arrived and matched the request,2017-04-14 09:10:00,2017-04-14 09:10:00
+demo_review_000527,demo_order_000651,5,Satisfied,Order arrived and matched the request,2018-02-04 11:35:00,2018-02-05 11:35:00
+demo_review_000528,demo_order_000652,3,Average experience,The order was acceptable,2018-01-30 20:33:00,2018-01-31 20:33:00
+demo_review_000529,demo_order_000654,4,Satisfied,Order arrived and matched the request,2017-06-17 08:12:00,2017-06-19 08:12:00
+demo_review_000530,demo_order_000656,5,Satisfied,Order arrived and matched the request,2017-12-05 13:03:00,2017-12-07 13:03:00
+demo_review_000531,demo_order_000657,5,Satisfied,Order arrived and matched the request,2017-11-14 15:42:00,2017-11-15 15:42:00
+demo_review_000532,demo_order_000659,4,Satisfied,Order arrived and matched the request,2017-08-21 19:51:00,2017-08-21 19:51:00
+demo_review_000533,demo_order_000660,4,Satisfied,Order arrived and matched the request,2017-08-09 17:00:00,2017-08-09 17:00:00
+demo_review_000534,demo_order_000661,5,Satisfied,Order arrived and matched the request,2018-05-11 16:14:00,2018-05-13 16:14:00
+demo_review_000535,demo_order_000664,3,Average experience,The order was acceptable,2017-09-21 15:26:00,2017-09-23 15:26:00
+demo_review_000536,demo_order_000665,5,Satisfied,Order arrived and matched the request,2016-12-17 18:54:00,2016-12-18 18:54:00
+demo_review_000537,demo_order_000666,4,Satisfied,Order arrived and matched the request,2017-12-30 18:43:00,2017-12-31 18:43:00
+demo_review_000538,demo_order_000667,5,Satisfied,Order arrived and matched the request,2018-03-19 20:28:00,2018-03-21 20:28:00
+demo_review_000539,demo_order_000669,1,Could be better,Delivery took longer than expected,2018-01-02 16:40:00,2018-01-04 16:40:00
+demo_review_000540,demo_order_000671,4,Satisfied,Order arrived and matched the request,2017-10-24 09:30:00,2017-10-26 09:30:00
+demo_review_000541,demo_order_000672,4,Satisfied,Order arrived and matched the request,2017-04-16 11:17:00,2017-04-16 11:17:00
+demo_review_000542,demo_order_000674,5,Satisfied,Order arrived and matched the request,2017-12-17 12:13:00,2017-12-19 12:13:00
+demo_review_000543,demo_order_000676,4,Satisfied,Order arrived and matched the request,2018-06-19 11:02:00,2018-06-21 11:02:00
+demo_review_000544,demo_order_000677,3,Average experience,The order was acceptable,2018-05-27 13:43:00,2018-05-27 13:43:00
+demo_review_000545,demo_order_000680,4,Satisfied,Order arrived and matched the request,2017-04-23 10:01:00,2017-04-23 10:01:00
+demo_review_000546,demo_order_000681,3,Average experience,The order was acceptable,2016-11-04 19:14:00,2016-11-05 19:14:00
+demo_review_000547,demo_order_000682,4,Satisfied,Order arrived and matched the request,2017-12-21 20:57:00,2017-12-22 20:57:00
+demo_review_000548,demo_order_000683,5,Satisfied,Order arrived and matched the request,2017-05-03 21:23:00,2017-05-04 21:23:00
+demo_review_000549,demo_order_000684,3,Average experience,The order was acceptable,2017-11-10 10:59:00,2017-11-12 10:59:00
+demo_review_000550,demo_order_000686,3,Average experience,The order was acceptable,2018-03-28 15:04:00,2018-03-29 15:04:00
+demo_review_000551,demo_order_000687,4,Satisfied,Order arrived and matched the request,2018-01-12 20:35:00,2018-01-12 20:35:00
+demo_review_000552,demo_order_000688,5,Satisfied,Order arrived and matched the request,2018-08-07 13:21:00,2018-08-07 13:21:00
+demo_review_000553,demo_order_000689,4,Satisfied,Order arrived and matched the request,2017-04-27 15:21:00,2017-04-27 15:21:00
+demo_review_000554,demo_order_000690,3,Average experience,The order was acceptable,2017-03-30 15:01:00,2017-03-30 15:01:00
+demo_review_000555,demo_order_000691,4,Satisfied,Order arrived and matched the request,2017-07-23 12:40:00,2017-07-23 12:40:00
+demo_review_000556,demo_order_000692,3,Average experience,The order was acceptable,2018-04-03 10:36:00,2018-04-03 10:36:00
+demo_review_000557,demo_order_000693,4,Satisfied,Order arrived and matched the request,2018-07-15 18:45:00,2018-07-16 18:45:00
+demo_review_000558,demo_order_000694,4,Satisfied,Order arrived and matched the request,2016-12-19 10:53:00,2016-12-20 10:53:00
+demo_review_000559,demo_order_000695,4,Satisfied,Order arrived and matched the request,2018-05-21 20:41:00,2018-05-22 20:41:00
+demo_review_000560,demo_order_000696,5,Satisfied,Order arrived and matched the request,2018-06-17 08:11:00,2018-06-17 08:11:00
+demo_review_000561,demo_order_000697,5,Satisfied,Order arrived and matched the request,2018-03-12 19:36:00,2018-03-14 19:36:00
+demo_review_000562,demo_order_000698,3,Average experience,The order was acceptable,2018-06-20 12:23:00,2018-06-21 12:23:00
+demo_review_000563,demo_order_000699,2,Could be better,Delivery took longer than expected,2017-07-28 10:58:00,2017-07-30 10:58:00
+demo_review_000564,demo_order_000700,4,Satisfied,Order arrived and matched the request,2018-01-01 17:58:00,2018-01-02 17:58:00
+demo_review_000565,demo_order_000702,3,Average experience,The order was acceptable,2017-01-15 13:32:00,2017-01-16 13:32:00
+demo_review_000566,demo_order_000703,5,Satisfied,Order arrived and matched the request,2018-04-10 15:23:00,2018-04-12 15:23:00
+demo_review_000567,demo_order_000704,4,Satisfied,Order arrived and matched the request,2017-06-08 09:03:00,2017-06-10 09:03:00
+demo_review_000568,demo_order_000705,4,Satisfied,Order arrived and matched the request,2017-06-13 15:21:00,2017-06-13 15:21:00
+demo_review_000569,demo_order_000706,4,Satisfied,Order arrived and matched the request,2018-04-07 10:21:00,2018-04-09 10:21:00
+demo_review_000570,demo_order_000709,4,Satisfied,Order arrived and matched the request,2017-09-21 18:36:00,2017-09-21 18:36:00
+demo_review_000571,demo_order_000710,4,Satisfied,Order arrived and matched the request,2017-01-01 13:21:00,2017-01-01 13:21:00
+demo_review_000572,demo_order_000711,3,Average experience,The order was acceptable,2017-07-26 13:58:00,2017-07-27 13:58:00
+demo_review_000573,demo_order_000712,5,Satisfied,Order arrived and matched the request,2018-08-27 20:08:00,2018-08-28 20:08:00
+demo_review_000574,demo_order_000713,4,Satisfied,Order arrived and matched the request,2017-12-14 08:02:00,2017-12-16 08:02:00
+demo_review_000575,demo_order_000715,5,Satisfied,Order arrived and matched the request,2017-05-02 20:47:00,2017-05-03 20:47:00
+demo_review_000576,demo_order_000716,3,Average experience,The order was acceptable,2017-01-06 08:16:00,2017-01-06 08:16:00
+demo_review_000577,demo_order_000717,3,Average experience,The order was acceptable,2018-05-10 10:52:00,2018-05-10 10:52:00
+demo_review_000578,demo_order_000718,5,Satisfied,Order arrived and matched the request,2018-04-25 17:00:00,2018-04-25 17:00:00
+demo_review_000579,demo_order_000719,4,Satisfied,Order arrived and matched the request,2017-04-25 14:26:00,2017-04-27 14:26:00
+demo_review_000580,demo_order_000720,5,Satisfied,Order arrived and matched the request,2017-07-22 08:43:00,2017-07-22 08:43:00
+demo_review_000581,demo_order_000721,4,Satisfied,Order arrived and matched the request,2017-12-14 13:09:00,2017-12-16 13:09:00
+demo_review_000582,demo_order_000722,4,Satisfied,Order arrived and matched the request,2018-01-26 11:00:00,2018-01-27 11:00:00
+demo_review_000583,demo_order_000724,4,Satisfied,Order arrived and matched the request,2018-07-13 13:15:00,2018-07-15 13:15:00
+demo_review_000584,demo_order_000725,5,Satisfied,Order arrived and matched the request,2017-04-19 11:19:00,2017-04-21 11:19:00
+demo_review_000585,demo_order_000726,4,Satisfied,Order arrived and matched the request,2018-08-27 18:19:00,2018-08-28 18:19:00
+demo_review_000586,demo_order_000727,5,Satisfied,Order arrived and matched the request,2017-02-01 08:06:00,2017-02-01 08:06:00
+demo_review_000587,demo_order_000729,3,Average experience,The order was acceptable,2018-09-10 21:22:00,2018-09-12 21:22:00
+demo_review_000588,demo_order_000731,4,Satisfied,Order arrived and matched the request,2018-04-01 16:39:00,2018-04-01 16:39:00
+demo_review_000589,demo_order_000732,5,Satisfied,Order arrived and matched the request,2018-08-01 15:34:00,2018-08-02 15:34:00
+demo_review_000590,demo_order_000734,5,Satisfied,Order arrived and matched the request,2017-11-11 11:42:00,2017-11-11 11:42:00
+demo_review_000591,demo_order_000735,3,Average experience,The order was acceptable,2018-05-12 08:36:00,2018-05-12 08:36:00
+demo_review_000592,demo_order_000736,4,Satisfied,Order arrived and matched the request,2017-05-20 14:59:00,2017-05-22 14:59:00
+demo_review_000593,demo_order_000738,4,Satisfied,Order arrived and matched the request,2017-01-01 13:04:00,2017-01-02 13:04:00
+demo_review_000594,demo_order_000739,4,Satisfied,Order arrived and matched the request,2018-05-04 09:29:00,2018-05-06 09:29:00
+demo_review_000595,demo_order_000740,4,Satisfied,Order arrived and matched the request,2017-05-30 18:14:00,2017-05-31 18:14:00
+demo_review_000596,demo_order_000742,3,Average experience,The order was acceptable,2017-03-25 16:08:00,2017-03-27 16:08:00
+demo_review_000597,demo_order_000744,4,Satisfied,Order arrived and matched the request,2018-09-01 11:09:00,2018-09-03 11:09:00
+demo_review_000598,demo_order_000745,4,Satisfied,Order arrived and matched the request,2017-12-30 10:46:00,2017-12-30 10:46:00
+demo_review_000599,demo_order_000746,2,Could be better,Delivery took longer than expected,2017-11-24 13:02:00,2017-11-25 13:02:00
+demo_review_000600,demo_order_000747,4,Satisfied,Order arrived and matched the request,2018-06-09 19:18:00,2018-06-10 19:18:00
+demo_review_000601,demo_order_000748,4,Satisfied,Order arrived and matched the request,2016-12-23 11:46:00,2016-12-23 11:46:00
+demo_review_000602,demo_order_000750,5,Satisfied,Order arrived and matched the request,2017-08-12 16:33:00,2017-08-13 16:33:00
+demo_review_000603,demo_order_000751,5,Satisfied,Order arrived and matched the request,2018-05-27 10:18:00,2018-05-27 10:18:00
+demo_review_000604,demo_order_000752,2,Could be better,The order did not meet expectations,2018-07-14 11:52:00,2018-07-15 11:52:00
+demo_review_000605,demo_order_000753,5,Satisfied,Order arrived and matched the request,2017-12-31 17:42:00,2017-12-31 17:42:00
+demo_review_000606,demo_order_000755,2,Could be better,Delivery took longer than expected,2017-05-11 18:49:00,2017-05-11 18:49:00
+demo_review_000607,demo_order_000756,5,Satisfied,Order arrived and matched the request,2018-02-23 13:32:00,2018-02-23 13:32:00
+demo_review_000608,demo_order_000759,5,Satisfied,Order arrived and matched the request,2017-11-10 09:31:00,2017-11-10 09:31:00
+demo_review_000609,demo_order_000760,4,Satisfied,Order arrived and matched the request,2017-11-19 16:42:00,2017-11-19 16:42:00
+demo_review_000610,demo_order_000762,1,Could be better,Delivery took longer than expected,2017-04-06 08:21:00,2017-04-06 08:21:00
+demo_review_000611,demo_order_000763,4,Satisfied,Order arrived and matched the request,2017-04-06 16:19:00,2017-04-08 16:19:00
+demo_review_000612,demo_order_000764,4,Satisfied,Order arrived and matched the request,2018-03-17 11:55:00,2018-03-18 11:55:00
+demo_review_000613,demo_order_000766,4,Satisfied,Order arrived and matched the request,2018-07-13 08:06:00,2018-07-13 08:06:00
+demo_review_000614,demo_order_000767,4,Satisfied,Order arrived and matched the request,2017-11-10 09:35:00,2017-11-10 09:35:00
+demo_review_000615,demo_order_000768,4,Satisfied,Order arrived and matched the request,2018-08-28 12:50:00,2018-08-28 12:50:00
+demo_review_000616,demo_order_000769,4,Satisfied,Order arrived and matched the request,2018-07-05 14:53:00,2018-07-05 14:53:00
+demo_review_000617,demo_order_000770,5,Satisfied,Order arrived and matched the request,2018-06-01 17:53:00,2018-06-03 17:53:00
+demo_review_000618,demo_order_000771,4,Satisfied,Order arrived and matched the request,2017-02-20 12:28:00,2017-02-22 12:28:00
+demo_review_000619,demo_order_000772,5,Satisfied,Order arrived and matched the request,2016-12-09 19:53:00,2016-12-11 19:53:00
+demo_review_000620,demo_order_000773,2,Could be better,Delivery took longer than expected,2017-10-13 20:13:00,2017-10-14 20:13:00
+demo_review_000621,demo_order_000774,4,Satisfied,Order arrived and matched the request,2017-02-01 17:58:00,2017-02-03 17:58:00
+demo_review_000622,demo_order_000775,5,Satisfied,Order arrived and matched the request,2017-10-16 13:32:00,2017-10-17 13:32:00
+demo_review_000623,demo_order_000776,5,Satisfied,Order arrived and matched the request,2016-12-13 17:21:00,2016-12-14 17:21:00
+demo_review_000624,demo_order_000777,5,Satisfied,Order arrived and matched the request,2017-08-23 17:32:00,2017-08-23 17:32:00
+demo_review_000625,demo_order_000778,2,Could be better,Delivery took longer than expected,2017-09-28 08:59:00,2017-09-29 08:59:00
+demo_review_000626,demo_order_000779,4,Satisfied,Order arrived and matched the request,2017-12-26 17:40:00,2017-12-26 17:40:00
+demo_review_000627,demo_order_000780,4,Satisfied,Order arrived and matched the request,2017-03-15 17:24:00,2017-03-16 17:24:00
+demo_review_000628,demo_order_000782,5,Satisfied,Order arrived and matched the request,2018-01-31 15:47:00,2018-01-31 15:47:00
+demo_review_000629,demo_order_000783,3,Average experience,The order was acceptable,2017-08-16 11:34:00,2017-08-18 11:34:00
+demo_review_000630,demo_order_000784,4,Satisfied,Order arrived and matched the request,2017-05-26 14:51:00,2017-05-27 14:51:00
+demo_review_000631,demo_order_000785,4,Satisfied,Order arrived and matched the request,2018-07-09 17:45:00,2018-07-09 17:45:00
+demo_review_000632,demo_order_000786,4,Satisfied,Order arrived and matched the request,2017-11-17 12:24:00,2017-11-19 12:24:00
+demo_review_000633,demo_order_000787,5,Satisfied,Order arrived and matched the request,2017-02-04 20:18:00,2017-02-04 20:18:00
+demo_review_000634,demo_order_000788,2,Could be better,Delivery took longer than expected,2017-03-22 15:05:00,2017-03-22 15:05:00
+demo_review_000635,demo_order_000790,4,Satisfied,Order arrived and matched the request,2017-07-26 17:34:00,2017-07-28 17:34:00
+demo_review_000636,demo_order_000791,5,Satisfied,Order arrived and matched the request,2017-12-22 16:11:00,2017-12-22 16:11:00
+demo_review_000637,demo_order_000792,4,Satisfied,Order arrived and matched the request,2017-03-05 14:02:00,2017-03-05 14:02:00
+demo_review_000638,demo_order_000793,4,Satisfied,Order arrived and matched the request,2017-11-30 18:28:00,2017-12-01 18:28:00
+demo_review_000639,demo_order_000794,5,Satisfied,Order arrived and matched the request,2018-06-02 11:35:00,2018-06-04 11:35:00
+demo_review_000640,demo_order_000796,2,Could be better,Delivery took longer than expected,2017-11-05 09:06:00,2017-11-06 09:06:00
+demo_review_000641,demo_order_000797,5,Satisfied,Order arrived and matched the request,2018-07-29 18:11:00,2018-07-29 18:11:00
+demo_review_000642,demo_order_000798,5,Satisfied,Order arrived and matched the request,2017-11-19 16:39:00,2017-11-21 16:39:00
+demo_review_000643,demo_order_000799,5,Satisfied,Order arrived and matched the request,2018-07-25 17:55:00,2018-07-25 17:55:00
+demo_review_000644,demo_order_000800,5,Satisfied,Order arrived and matched the request,2017-12-24 17:50:00,2017-12-25 17:50:00
+demo_review_000645,demo_order_000801,5,Satisfied,Order arrived and matched the request,2018-06-15 10:15:00,2018-06-16 10:15:00
+demo_review_000646,demo_order_000803,4,Satisfied,Order arrived and matched the request,2018-02-01 08:29:00,2018-02-03 08:29:00
+demo_review_000647,demo_order_000804,4,Satisfied,Order arrived and matched the request,2018-08-25 15:19:00,2018-08-25 15:19:00
+demo_review_000648,demo_order_000805,5,Satisfied,Order arrived and matched the request,2018-06-29 17:15:00,2018-06-29 17:15:00
+demo_review_000649,demo_order_000806,4,Satisfied,Order arrived and matched the request,2017-03-05 21:30:00,2017-03-05 21:30:00
+demo_review_000650,demo_order_000807,4,Satisfied,Order arrived and matched the request,2018-05-20 11:19:00,2018-05-21 11:19:00
+demo_review_000651,demo_order_000808,4,Satisfied,Order arrived and matched the request,2018-07-03 14:41:00,2018-07-05 14:41:00
+demo_review_000652,demo_order_000809,3,Average experience,The order was acceptable,2018-01-04 21:45:00,2018-01-06 21:45:00
+demo_review_000653,demo_order_000810,4,Satisfied,Order arrived and matched the request,2018-09-03 08:26:00,2018-09-05 08:26:00
+demo_review_000654,demo_order_000812,4,Satisfied,Order arrived and matched the request,2017-04-29 15:42:00,2017-05-01 15:42:00
+demo_review_000655,demo_order_000813,4,Satisfied,Order arrived and matched the request,2017-11-15 09:41:00,2017-11-17 09:41:00
+demo_review_000656,demo_order_000814,4,Satisfied,Order arrived and matched the request,2018-08-06 21:04:00,2018-08-07 21:04:00
+demo_review_000657,demo_order_000815,4,Satisfied,Order arrived and matched the request,2017-04-11 13:39:00,2017-04-11 13:39:00
+demo_review_000658,demo_order_000816,1,Could be better,Delivery took longer than expected,2018-09-06 08:20:00,2018-09-08 08:20:00
+demo_review_000659,demo_order_000817,4,Satisfied,Order arrived and matched the request,2017-06-16 17:31:00,2017-06-17 17:31:00
+demo_review_000660,demo_order_000818,3,Average experience,The order was acceptable,2017-08-07 11:01:00,2017-08-09 11:01:00
+demo_review_000661,demo_order_000820,2,Could be better,The order did not meet expectations,2018-02-06 09:19:00,2018-02-07 09:19:00
+demo_review_000662,demo_order_000822,3,Average experience,The order was acceptable,2017-01-04 09:43:00,2017-01-04 09:43:00
+demo_review_000663,demo_order_000823,4,Satisfied,Order arrived and matched the request,2018-07-12 17:37:00,2018-07-12 17:37:00
+demo_review_000664,demo_order_000824,3,Average experience,The order was acceptable,2017-06-29 21:32:00,2017-06-29 21:32:00
+demo_review_000665,demo_order_000825,5,Satisfied,Order arrived and matched the request,2018-02-09 17:11:00,2018-02-11 17:11:00
+demo_review_000666,demo_order_000826,3,Average experience,The order was acceptable,2017-04-07 16:39:00,2017-04-09 16:39:00
+demo_review_000667,demo_order_000828,5,Satisfied,Order arrived and matched the request,2017-10-06 13:16:00,2017-10-07 13:16:00
+demo_review_000668,demo_order_000829,3,Average experience,The order was acceptable,2018-04-05 17:51:00,2018-04-05 17:51:00
+demo_review_000669,demo_order_000830,2,Could be better,Delivery took longer than expected,2018-05-10 16:35:00,2018-05-12 16:35:00
+demo_review_000670,demo_order_000831,4,Satisfied,Order arrived and matched the request,2016-10-20 17:57:00,2016-10-20 17:57:00
+demo_review_000671,demo_order_000832,5,Satisfied,Order arrived and matched the request,2018-08-16 19:13:00,2018-08-18 19:13:00
+demo_review_000672,demo_order_000833,4,Satisfied,Order arrived and matched the request,2018-04-16 08:43:00,2018-04-18 08:43:00
+demo_review_000673,demo_order_000835,5,Satisfied,Order arrived and matched the request,2018-04-05 13:02:00,2018-04-07 13:02:00
+demo_review_000674,demo_order_000838,4,Satisfied,Order arrived and matched the request,2017-12-13 10:17:00,2017-12-15 10:17:00
+demo_review_000675,demo_order_000839,5,Satisfied,Order arrived and matched the request,2018-05-14 13:59:00,2018-05-15 13:59:00
+demo_review_000676,demo_order_000840,4,Satisfied,Order arrived and matched the request,2017-08-14 19:03:00,2017-08-14 19:03:00
+demo_review_000677,demo_order_000841,5,Satisfied,Order arrived and matched the request,2016-12-17 11:14:00,2016-12-19 11:14:00
+demo_review_000678,demo_order_000843,4,Satisfied,Order arrived and matched the request,2017-09-12 11:43:00,2017-09-13 11:43:00
+demo_review_000679,demo_order_000844,4,Satisfied,Order arrived and matched the request,2017-05-11 20:12:00,2017-05-12 20:12:00
+demo_review_000680,demo_order_000845,4,Satisfied,Order arrived and matched the request,2016-10-30 08:45:00,2016-10-31 08:45:00
+demo_review_000681,demo_order_000846,4,Satisfied,Order arrived and matched the request,2017-02-09 15:23:00,2017-02-11 15:23:00
+demo_review_000682,demo_order_000847,3,Average experience,The order was acceptable,2017-09-20 16:48:00,2017-09-22 16:48:00
+demo_review_000683,demo_order_000848,3,Average experience,The order was acceptable,2016-12-07 13:45:00,2016-12-09 13:45:00
+demo_review_000684,demo_order_000849,5,Satisfied,Order arrived and matched the request,2017-08-08 20:22:00,2017-08-10 20:22:00
+demo_review_000685,demo_order_000851,4,Satisfied,Order arrived and matched the request,2018-04-27 14:17:00,2018-04-29 14:17:00
+demo_review_000686,demo_order_000852,5,Satisfied,Order arrived and matched the request,2018-05-25 12:32:00,2018-05-26 12:32:00
+demo_review_000687,demo_order_000853,4,Satisfied,Order arrived and matched the request,2017-03-22 18:25:00,2017-03-24 18:25:00
+demo_review_000688,demo_order_000854,4,Satisfied,Order arrived and matched the request,2018-03-25 19:15:00,2018-03-26 19:15:00
+demo_review_000689,demo_order_000855,4,Satisfied,Order arrived and matched the request,2017-02-14 08:03:00,2017-02-14 08:03:00
+demo_review_000690,demo_order_000856,4,Satisfied,Order arrived and matched the request,2017-12-07 12:53:00,2017-12-07 12:53:00
+demo_review_000691,demo_order_000857,4,Satisfied,Order arrived and matched the request,2017-09-27 16:18:00,2017-09-28 16:18:00
+demo_review_000692,demo_order_000858,5,Satisfied,Order arrived and matched the request,2018-09-04 16:16:00,2018-09-04 16:16:00
+demo_review_000693,demo_order_000859,5,Satisfied,Order arrived and matched the request,2017-07-10 12:23:00,2017-07-11 12:23:00
+demo_review_000694,demo_order_000860,4,Satisfied,Order arrived and matched the request,2017-09-12 15:43:00,2017-09-12 15:43:00
+demo_review_000695,demo_order_000862,4,Satisfied,Order arrived and matched the request,2017-01-11 13:47:00,2017-01-12 13:47:00
+demo_review_000696,demo_order_000863,4,Satisfied,Order arrived and matched the request,2016-11-23 14:59:00,2016-11-23 14:59:00
+demo_review_000697,demo_order_000864,4,Satisfied,Order arrived and matched the request,2018-01-19 14:22:00,2018-01-21 14:22:00
+demo_review_000698,demo_order_000865,5,Satisfied,Order arrived and matched the request,2017-11-02 19:50:00,2017-11-02 19:50:00
+demo_review_000699,demo_order_000866,5,Satisfied,Order arrived and matched the request,2018-08-14 11:34:00,2018-08-16 11:34:00
+demo_review_000700,demo_order_000867,5,Satisfied,Order arrived and matched the request,2016-10-27 20:43:00,2016-10-27 20:43:00
+demo_review_000701,demo_order_000868,4,Satisfied,Order arrived and matched the request,2017-05-10 10:28:00,2017-05-12 10:28:00
+demo_review_000702,demo_order_000869,1,Could be better,Delivery took longer than expected,2017-05-02 19:14:00,2017-05-03 19:14:00
+demo_review_000703,demo_order_000870,4,Satisfied,Order arrived and matched the request,2017-09-08 10:00:00,2017-09-09 10:00:00
+demo_review_000704,demo_order_000871,4,Satisfied,Order arrived and matched the request,2017-10-10 18:01:00,2017-10-10 18:01:00
+demo_review_000705,demo_order_000873,5,Satisfied,Order arrived and matched the request,2018-08-17 10:54:00,2018-08-19 10:54:00
+demo_review_000706,demo_order_000874,4,Satisfied,Order arrived and matched the request,2017-06-02 14:12:00,2017-06-04 14:12:00
+demo_review_000707,demo_order_000875,5,Satisfied,Order arrived and matched the request,2018-05-15 17:38:00,2018-05-17 17:38:00
+demo_review_000708,demo_order_000876,4,Satisfied,Order arrived and matched the request,2017-04-18 18:04:00,2017-04-19 18:04:00
+demo_review_000709,demo_order_000877,5,Satisfied,Order arrived and matched the request,2017-01-21 10:37:00,2017-01-23 10:37:00
+demo_review_000710,demo_order_000878,4,Satisfied,Order arrived and matched the request,2017-12-03 12:37:00,2017-12-05 12:37:00
+demo_review_000711,demo_order_000880,5,Satisfied,Order arrived and matched the request,2018-07-23 10:39:00,2018-07-23 10:39:00
+demo_review_000712,demo_order_000881,4,Satisfied,Order arrived and matched the request,2016-11-15 14:12:00,2016-11-15 14:12:00
+demo_review_000713,demo_order_000882,5,Satisfied,Order arrived and matched the request,2017-02-02 20:57:00,2017-02-02 20:57:00
+demo_review_000714,demo_order_000884,4,Satisfied,Order arrived and matched the request,2017-04-08 21:58:00,2017-04-09 21:58:00
+demo_review_000715,demo_order_000885,1,Could be better,Delivery took longer than expected,2017-10-29 18:19:00,2017-10-30 18:19:00
+demo_review_000716,demo_order_000886,4,Satisfied,Order arrived and matched the request,2018-06-18 11:14:00,2018-06-20 11:14:00
+demo_review_000717,demo_order_000887,5,Satisfied,Order arrived and matched the request,2017-01-28 16:13:00,2017-01-28 16:13:00
+demo_review_000718,demo_order_000889,5,Satisfied,Order arrived and matched the request,2018-01-21 13:09:00,2018-01-23 13:09:00
+demo_review_000719,demo_order_000890,5,Satisfied,Order arrived and matched the request,2018-01-18 11:39:00,2018-01-19 11:39:00
+demo_review_000720,demo_order_000891,5,Satisfied,Order arrived and matched the request,2016-10-16 17:00:00,2016-10-17 17:00:00
+demo_review_000721,demo_order_000894,2,Could be better,Delivery took longer than expected,2017-11-17 20:32:00,2017-11-19 20:32:00
+demo_review_000722,demo_order_000895,2,Could be better,Delivery took longer than expected,2018-07-24 11:37:00,2018-07-25 11:37:00
+demo_review_000723,demo_order_000897,4,Satisfied,Order arrived and matched the request,2016-12-30 12:51:00,2017-01-01 12:51:00
+demo_review_000724,demo_order_000899,4,Satisfied,Order arrived and matched the request,2018-02-10 19:05:00,2018-02-11 19:05:00
+demo_review_000725,demo_order_000900,4,Satisfied,Order arrived and matched the request,2017-03-07 13:26:00,2017-03-09 13:26:00
+demo_review_000726,demo_order_000901,5,Satisfied,Order arrived and matched the request,2017-04-03 09:00:00,2017-04-04 09:00:00
+demo_review_000727,demo_order_000904,4,Satisfied,Order arrived and matched the request,2017-07-08 16:36:00,2017-07-09 16:36:00
+demo_review_000728,demo_order_000905,1,Could be better,Delivery took longer than expected,2017-07-06 13:42:00,2017-07-08 13:42:00
+demo_review_000729,demo_order_000906,4,Satisfied,Order arrived and matched the request,2018-06-16 18:03:00,2018-06-18 18:03:00
+demo_review_000730,demo_order_000907,1,Could be better,Delivery took longer than expected,2017-03-30 14:18:00,2017-03-31 14:18:00
+demo_review_000731,demo_order_000908,4,Satisfied,Order arrived and matched the request,2018-07-02 10:23:00,2018-07-04 10:23:00
+demo_review_000732,demo_order_000909,5,Satisfied,Order arrived and matched the request,2017-09-07 15:03:00,2017-09-08 15:03:00
+demo_review_000733,demo_order_000910,5,Satisfied,Order arrived and matched the request,2018-05-25 16:01:00,2018-05-26 16:01:00
+demo_review_000734,demo_order_000911,2,Could be better,Delivery took longer than expected,2016-11-22 10:05:00,2016-11-23 10:05:00
+demo_review_000735,demo_order_000912,4,Satisfied,Order arrived and matched the request,2018-06-05 08:27:00,2018-06-06 08:27:00
+demo_review_000736,demo_order_000913,5,Satisfied,Order arrived and matched the request,2017-06-18 08:55:00,2017-06-19 08:55:00
+demo_review_000737,demo_order_000915,2,Could be better,Delivery took longer than expected,2018-04-02 13:46:00,2018-04-04 13:46:00
+demo_review_000738,demo_order_000916,4,Satisfied,Order arrived and matched the request,2016-12-13 17:10:00,2016-12-15 17:10:00
+demo_review_000739,demo_order_000917,5,Satisfied,Order arrived and matched the request,2017-01-13 11:16:00,2017-01-14 11:16:00
+demo_review_000740,demo_order_000918,4,Satisfied,Order arrived and matched the request,2018-05-31 16:40:00,2018-06-01 16:40:00
+demo_review_000741,demo_order_000919,3,Average experience,The order was acceptable,2017-12-06 13:05:00,2017-12-06 13:05:00
+demo_review_000742,demo_order_000920,4,Satisfied,Order arrived and matched the request,2018-03-08 15:27:00,2018-03-08 15:27:00
+demo_review_000743,demo_order_000921,4,Satisfied,Order arrived and matched the request,2018-08-21 19:26:00,2018-08-21 19:26:00
+demo_review_000744,demo_order_000922,1,Could be better,Delivery took longer than expected,2017-12-03 18:14:00,2017-12-03 18:14:00
+demo_review_000745,demo_order_000924,5,Satisfied,Order arrived and matched the request,2017-03-27 08:27:00,2017-03-27 08:27:00
+demo_review_000746,demo_order_000926,3,Average experience,The order was acceptable,2017-12-26 17:15:00,2017-12-27 17:15:00
+demo_review_000747,demo_order_000927,3,Average experience,The order was acceptable,2017-12-04 21:21:00,2017-12-04 21:21:00
+demo_review_000748,demo_order_000928,4,Satisfied,Order arrived and matched the request,2017-12-07 10:12:00,2017-12-08 10:12:00
+demo_review_000749,demo_order_000929,3,Average experience,The order was acceptable,2017-01-07 09:15:00,2017-01-09 09:15:00
+demo_review_000750,demo_order_000930,4,Satisfied,Order arrived and matched the request,2018-04-22 21:58:00,2018-04-23 21:58:00
+demo_review_000751,demo_order_000932,3,Average experience,The order was acceptable,2017-07-06 11:51:00,2017-07-08 11:51:00
+demo_review_000752,demo_order_000933,5,Satisfied,Order arrived and matched the request,2017-06-01 12:15:00,2017-06-01 12:15:00
+demo_review_000753,demo_order_000934,3,Average experience,The order was acceptable,2017-02-19 17:52:00,2017-02-21 17:52:00
+demo_review_000754,demo_order_000935,2,Could be better,Delivery took longer than expected,2018-07-07 19:56:00,2018-07-07 19:56:00
+demo_review_000755,demo_order_000936,4,Satisfied,Order arrived and matched the request,2017-10-25 15:20:00,2017-10-25 15:20:00
+demo_review_000756,demo_order_000937,2,Could be better,Delivery took longer than expected,2017-07-17 15:12:00,2017-07-17 15:12:00
+demo_review_000757,demo_order_000939,5,Satisfied,Order arrived and matched the request,2018-07-11 11:17:00,2018-07-11 11:17:00
+demo_review_000758,demo_order_000940,4,Satisfied,Order arrived and matched the request,2016-12-14 08:19:00,2016-12-14 08:19:00
+demo_review_000759,demo_order_000941,4,Satisfied,Order arrived and matched the request,2018-06-25 10:37:00,2018-06-25 10:37:00
+demo_review_000760,demo_order_000942,5,Satisfied,Order arrived and matched the request,2016-11-30 20:14:00,2016-12-02 20:14:00
+demo_review_000761,demo_order_000943,5,Satisfied,Order arrived and matched the request,2016-11-30 18:14:00,2016-12-02 18:14:00
+demo_review_000762,demo_order_000944,5,Satisfied,Order arrived and matched the request,2017-07-09 15:07:00,2017-07-09 15:07:00
+demo_review_000763,demo_order_000945,5,Satisfied,Order arrived and matched the request,2017-09-28 18:19:00,2017-09-28 18:19:00
+demo_review_000764,demo_order_000946,5,Satisfied,Order arrived and matched the request,2017-04-11 08:27:00,2017-04-12 08:27:00
+demo_review_000765,demo_order_000947,4,Satisfied,Order arrived and matched the request,2017-11-19 12:13:00,2017-11-21 12:13:00
+demo_review_000766,demo_order_000948,5,Satisfied,Order arrived and matched the request,2018-01-02 21:30:00,2018-01-03 21:30:00
+demo_review_000767,demo_order_000949,5,Satisfied,Order arrived and matched the request,2018-06-13 19:32:00,2018-06-13 19:32:00
+demo_review_000768,demo_order_000950,4,Satisfied,Order arrived and matched the request,2018-05-10 14:10:00,2018-05-10 14:10:00
+demo_review_000769,demo_order_000951,5,Satisfied,Order arrived and matched the request,2017-07-06 11:50:00,2017-07-06 11:50:00
+demo_review_000770,demo_order_000952,5,Satisfied,Order arrived and matched the request,2017-05-31 16:05:00,2017-06-02 16:05:00
+demo_review_000771,demo_order_000953,5,Satisfied,Order arrived and matched the request,2018-03-22 11:58:00,2018-03-22 11:58:00
+demo_review_000772,demo_order_000954,3,Average experience,The order was acceptable,2018-07-27 10:53:00,2018-07-29 10:53:00
+demo_review_000773,demo_order_000955,5,Satisfied,Order arrived and matched the request,2017-02-23 21:07:00,2017-02-25 21:07:00
+demo_review_000774,demo_order_000956,4,Satisfied,Order arrived and matched the request,2017-05-02 17:35:00,2017-05-02 17:35:00
+demo_review_000775,demo_order_000957,4,Satisfied,Order arrived and matched the request,2018-06-02 18:54:00,2018-06-04 18:54:00
+demo_review_000776,demo_order_000958,5,Satisfied,Order arrived and matched the request,2017-12-05 19:43:00,2017-12-05 19:43:00
+demo_review_000777,demo_order_000959,4,Satisfied,Order arrived and matched the request,2018-03-22 20:47:00,2018-03-24 20:47:00
+demo_review_000778,demo_order_000961,5,Satisfied,Order arrived and matched the request,2018-09-18 21:13:00,2018-09-19 21:13:00
+demo_review_000779,demo_order_000962,4,Satisfied,Order arrived and matched the request,2017-12-04 08:35:00,2017-12-06 08:35:00
+demo_review_000780,demo_order_000963,3,Average experience,The order was acceptable,2018-02-28 17:54:00,2018-03-02 17:54:00
+demo_review_000781,demo_order_000965,3,Average experience,The order was acceptable,2017-07-11 12:59:00,2017-07-13 12:59:00
+demo_review_000782,demo_order_000966,4,Satisfied,Order arrived and matched the request,2018-01-20 08:23:00,2018-01-20 08:23:00
+demo_review_000783,demo_order_000968,2,Could be better,Delivery took longer than expected,2017-10-31 20:44:00,2017-11-01 20:44:00
+demo_review_000784,demo_order_000969,4,Satisfied,Order arrived and matched the request,2017-07-11 15:49:00,2017-07-11 15:49:00
+demo_review_000785,demo_order_000970,4,Satisfied,Order arrived and matched the request,2017-02-07 18:10:00,2017-02-09 18:10:00
+demo_review_000786,demo_order_000971,4,Satisfied,Order arrived and matched the request,2017-04-25 19:53:00,2017-04-25 19:53:00
+demo_review_000787,demo_order_000972,5,Satisfied,Order arrived and matched the request,2017-10-27 13:06:00,2017-10-27 13:06:00
+demo_review_000788,demo_order_000973,3,Average experience,The order was acceptable,2017-09-08 19:17:00,2017-09-09 19:17:00
+demo_review_000789,demo_order_000974,4,Satisfied,Order arrived and matched the request,2017-12-24 21:27:00,2017-12-24 21:27:00
+demo_review_000790,demo_order_000975,4,Satisfied,Order arrived and matched the request,2017-06-09 16:38:00,2017-06-10 16:38:00
+demo_review_000791,demo_order_000976,4,Satisfied,Order arrived and matched the request,2018-03-06 18:06:00,2018-03-08 18:06:00
+demo_review_000792,demo_order_000977,5,Satisfied,Order arrived and matched the request,2017-10-13 17:52:00,2017-10-14 17:52:00
+demo_review_000793,demo_order_000980,1,Could be better,Delivery took longer than expected,2017-09-22 14:41:00,2017-09-24 14:41:00
+demo_review_000794,demo_order_000981,5,Satisfied,Order arrived and matched the request,2017-05-12 09:13:00,2017-05-14 09:13:00
+demo_review_000795,demo_order_000982,5,Satisfied,Order arrived and matched the request,2018-07-31 20:24:00,2018-08-01 20:24:00
+demo_review_000796,demo_order_000983,3,Average experience,The order was acceptable,2016-11-21 09:42:00,2016-11-23 09:42:00
+demo_review_000797,demo_order_000984,3,Average experience,The order was acceptable,2018-01-09 17:22:00,2018-01-11 17:22:00
+demo_review_000798,demo_order_000985,3,Average experience,The order was acceptable,2017-03-18 14:25:00,2017-03-18 14:25:00
+demo_review_000799,demo_order_000986,5,Satisfied,Order arrived and matched the request,2017-07-03 10:18:00,2017-07-04 10:18:00
+demo_review_000800,demo_order_000988,5,Satisfied,Order arrived and matched the request,2017-08-08 10:43:00,2017-08-08 10:43:00
+demo_review_000801,demo_order_000989,4,Satisfied,Order arrived and matched the request,2018-05-06 12:28:00,2018-05-08 12:28:00
+demo_review_000802,demo_order_000990,4,Satisfied,Order arrived and matched the request,2018-02-17 09:27:00,2018-02-19 09:27:00
+demo_review_000803,demo_order_000991,5,Satisfied,Order arrived and matched the request,2017-09-29 11:50:00,2017-10-01 11:50:00
+demo_review_000804,demo_order_000992,4,Satisfied,Order arrived and matched the request,2018-01-06 12:12:00,2018-01-08 12:12:00
+demo_review_000805,demo_order_000993,2,Could be better,Delivery took longer than expected,2018-04-17 13:43:00,2018-04-19 13:43:00
+demo_review_000806,demo_order_000994,5,Satisfied,Order arrived and matched the request,2018-02-18 16:36:00,2018-02-18 16:36:00
+demo_review_000807,demo_order_000995,4,Satisfied,Order arrived and matched the request,2017-08-18 17:28:00,2017-08-18 17:28:00
+demo_review_000808,demo_order_000996,4,Satisfied,Order arrived and matched the request,2017-04-24 12:41:00,2017-04-25 12:41:00
+demo_review_000809,demo_order_000997,4,Satisfied,Order arrived and matched the request,2017-05-20 16:16:00,2017-05-21 16:16:00
+demo_review_000810,demo_order_000998,3,Average experience,The order was acceptable,2017-03-01 18:43:00,2017-03-02 18:43:00
+demo_review_000811,demo_order_000999,5,Satisfied,Order arrived and matched the request,2018-05-23 14:01:00,2018-05-24 14:01:00
+demo_review_000812,demo_order_001000,4,Satisfied,Order arrived and matched the request,2017-04-30 10:44:00,2017-04-30 10:44:00
+demo_review_000813,demo_order_001003,3,Average experience,The order was acceptable,2018-04-16 14:57:00,2018-04-17 14:57:00
+demo_review_000814,demo_order_001004,3,Average experience,The order was acceptable,2017-04-26 12:27:00,2017-04-27 12:27:00
+demo_review_000815,demo_order_001007,5,Satisfied,Order arrived and matched the request,2018-08-21 15:52:00,2018-08-21 15:52:00
+demo_review_000816,demo_order_001008,4,Satisfied,Order arrived and matched the request,2018-01-12 16:23:00,2018-01-13 16:23:00
+demo_review_000817,demo_order_001009,4,Satisfied,Order arrived and matched the request,2017-09-16 19:15:00,2017-09-18 19:15:00
+demo_review_000818,demo_order_001010,5,Satisfied,Order arrived and matched the request,2017-05-03 19:18:00,2017-05-04 19:18:00
+demo_review_000819,demo_order_001012,4,Satisfied,Order arrived and matched the request,2018-07-04 11:55:00,2018-07-04 11:55:00
+demo_review_000820,demo_order_001013,4,Satisfied,Order arrived and matched the request,2017-07-02 14:23:00,2017-07-04 14:23:00
+demo_review_000821,demo_order_001014,5,Satisfied,Order arrived and matched the request,2018-01-19 21:46:00,2018-01-21 21:46:00
+demo_review_000822,demo_order_001015,4,Satisfied,Order arrived and matched the request,2017-07-28 13:10:00,2017-07-28 13:10:00
+demo_review_000823,demo_order_001016,4,Satisfied,Order arrived and matched the request,2017-01-05 19:52:00,2017-01-07 19:52:00
+demo_review_000824,demo_order_001017,3,Average experience,The order was acceptable,2017-11-18 21:44:00,2017-11-20 21:44:00
+demo_review_000825,demo_order_001019,2,Could be better,Delivery took longer than expected,2018-01-15 17:50:00,2018-01-16 17:50:00
+demo_review_000826,demo_order_001020,4,Satisfied,Order arrived and matched the request,2017-11-30 12:59:00,2017-12-02 12:59:00
+demo_review_000827,demo_order_001021,5,Satisfied,Order arrived and matched the request,2018-04-10 16:46:00,2018-04-12 16:46:00
+demo_review_000828,demo_order_001023,3,Average experience,The order was acceptable,2018-08-27 10:21:00,2018-08-29 10:21:00
+demo_review_000829,demo_order_001024,4,Satisfied,Order arrived and matched the request,2018-09-12 19:43:00,2018-09-13 19:43:00
+demo_review_000830,demo_order_001025,4,Satisfied,Order arrived and matched the request,2018-04-12 12:10:00,2018-04-14 12:10:00
+demo_review_000831,demo_order_001026,5,Satisfied,Order arrived and matched the request,2017-09-20 14:37:00,2017-09-21 14:37:00
+demo_review_000832,demo_order_001027,5,Satisfied,Order arrived and matched the request,2017-06-30 21:58:00,2017-06-30 21:58:00
+demo_review_000833,demo_order_001028,5,Satisfied,Order arrived and matched the request,2017-05-09 09:17:00,2017-05-09 09:17:00
+demo_review_000834,demo_order_001030,2,Could be better,Delivery took longer than expected,2017-03-11 20:19:00,2017-03-13 20:19:00
+demo_review_000835,demo_order_001031,5,Satisfied,Order arrived and matched the request,2018-01-24 16:51:00,2018-01-26 16:51:00
+demo_review_000836,demo_order_001032,5,Satisfied,Order arrived and matched the request,2017-12-01 14:01:00,2017-12-02 14:01:00
+demo_review_000837,demo_order_001036,1,Could be better,Delivery took longer than expected,2017-07-05 19:51:00,2017-07-07 19:51:00
+demo_review_000838,demo_order_001037,4,Satisfied,Order arrived and matched the request,2018-05-22 18:02:00,2018-05-22 18:02:00
+demo_review_000839,demo_order_001038,5,Satisfied,Order arrived and matched the request,2017-08-10 09:03:00,2017-08-11 09:03:00
+demo_review_000840,demo_order_001039,4,Satisfied,Order arrived and matched the request,2017-03-04 20:17:00,2017-03-05 20:17:00
+demo_review_000841,demo_order_001040,4,Satisfied,Order arrived and matched the request,2017-03-05 10:01:00,2017-03-07 10:01:00
+demo_review_000842,demo_order_001041,3,Average experience,The order was acceptable,2017-08-02 13:59:00,2017-08-02 13:59:00
+demo_review_000843,demo_order_001044,3,Average experience,The order was acceptable,2017-05-10 17:33:00,2017-05-11 17:33:00
+demo_review_000844,demo_order_001045,3,Average experience,The order was acceptable,2017-03-10 16:15:00,2017-03-11 16:15:00
+demo_review_000845,demo_order_001046,4,Satisfied,Order arrived and matched the request,2018-06-27 20:38:00,2018-06-28 20:38:00
+demo_review_000846,demo_order_001048,4,Satisfied,Order arrived and matched the request,2017-07-22 15:15:00,2017-07-22 15:15:00
+demo_review_000847,demo_order_001049,4,Satisfied,Order arrived and matched the request,2017-11-17 17:22:00,2017-11-17 17:22:00
+demo_review_000848,demo_order_001050,4,Satisfied,Order arrived and matched the request,2017-09-18 19:55:00,2017-09-19 19:55:00
+demo_review_000849,demo_order_001052,4,Satisfied,Order arrived and matched the request,2018-02-04 16:35:00,2018-02-06 16:35:00
+demo_review_000850,demo_order_001053,4,Satisfied,Order arrived and matched the request,2017-05-25 12:32:00,2017-05-26 12:32:00
+demo_review_000851,demo_order_001054,4,Satisfied,Order arrived and matched the request,2018-02-16 21:54:00,2018-02-17 21:54:00
+demo_review_000852,demo_order_001056,3,Average experience,The order was acceptable,2018-01-04 13:13:00,2018-01-05 13:13:00
+demo_review_000853,demo_order_001057,4,Satisfied,Order arrived and matched the request,2017-04-23 15:40:00,2017-04-24 15:40:00
+demo_review_000854,demo_order_001059,3,Average experience,The order was acceptable,2017-11-29 10:03:00,2017-11-30 10:03:00
+demo_review_000855,demo_order_001060,4,Satisfied,Order arrived and matched the request,2018-03-25 15:27:00,2018-03-26 15:27:00
+demo_review_000856,demo_order_001061,5,Satisfied,Order arrived and matched the request,2018-08-20 17:07:00,2018-08-20 17:07:00
+demo_review_000857,demo_order_001062,5,Satisfied,Order arrived and matched the request,2018-01-29 14:49:00,2018-01-31 14:49:00
+demo_review_000858,demo_order_001064,5,Satisfied,Order arrived and matched the request,2017-10-19 12:00:00,2017-10-21 12:00:00
+demo_review_000859,demo_order_001066,3,Average experience,The order was acceptable,2017-06-27 19:27:00,2017-06-28 19:27:00
+demo_review_000860,demo_order_001067,5,Satisfied,Order arrived and matched the request,2017-12-02 15:01:00,2017-12-04 15:01:00
+demo_review_000861,demo_order_001068,5,Satisfied,Order arrived and matched the request,2018-03-27 11:58:00,2018-03-28 11:58:00
+demo_review_000862,demo_order_001069,4,Satisfied,Order arrived and matched the request,2016-11-17 18:37:00,2016-11-18 18:37:00
+demo_review_000863,demo_order_001071,4,Satisfied,Order arrived and matched the request,2017-06-26 19:16:00,2017-06-28 19:16:00
+demo_review_000864,demo_order_001072,4,Satisfied,Order arrived and matched the request,2017-05-26 18:41:00,2017-05-28 18:41:00
+demo_review_000865,demo_order_001073,4,Satisfied,Order arrived and matched the request,2017-11-29 12:33:00,2017-11-29 12:33:00
+demo_review_000866,demo_order_001075,5,Satisfied,Order arrived and matched the request,2018-08-13 11:14:00,2018-08-13 11:14:00
+demo_review_000867,demo_order_001077,5,Satisfied,Order arrived and matched the request,2016-11-24 20:44:00,2016-11-25 20:44:00
+demo_review_000868,demo_order_001078,4,Satisfied,Order arrived and matched the request,2018-07-12 19:09:00,2018-07-13 19:09:00
+demo_review_000869,demo_order_001079,4,Satisfied,Order arrived and matched the request,2018-04-17 16:32:00,2018-04-17 16:32:00
+demo_review_000870,demo_order_001080,4,Satisfied,Order arrived and matched the request,2018-04-14 09:05:00,2018-04-16 09:05:00
+demo_review_000871,demo_order_001081,5,Satisfied,Order arrived and matched the request,2016-10-31 08:52:00,2016-10-31 08:52:00
+demo_review_000872,demo_order_001085,4,Satisfied,Order arrived and matched the request,2016-11-01 17:33:00,2016-11-02 17:33:00
+demo_review_000873,demo_order_001087,5,Satisfied,Order arrived and matched the request,2018-06-14 21:45:00,2018-06-15 21:45:00
+demo_review_000874,demo_order_001088,5,Satisfied,Order arrived and matched the request,2018-03-11 17:14:00,2018-03-11 17:14:00
+demo_review_000875,demo_order_001089,5,Satisfied,Order arrived and matched the request,2018-01-28 17:03:00,2018-01-29 17:03:00
+demo_review_000876,demo_order_001090,4,Satisfied,Order arrived and matched the request,2018-05-24 20:13:00,2018-05-25 20:13:00
+demo_review_000877,demo_order_001091,4,Satisfied,Order arrived and matched the request,2017-09-24 14:30:00,2017-09-26 14:30:00
+demo_review_000878,demo_order_001092,1,Could be better,Delivery took longer than expected,2017-03-19 16:49:00,2017-03-19 16:49:00
+demo_review_000879,demo_order_001094,3,Average experience,The order was acceptable,2018-03-14 09:16:00,2018-03-15 09:16:00
+demo_review_000880,demo_order_001095,5,Satisfied,Order arrived and matched the request,2018-02-19 10:40:00,2018-02-21 10:40:00
+demo_review_000881,demo_order_001096,3,Average experience,The order was acceptable,2017-11-24 17:14:00,2017-11-24 17:14:00
+demo_review_000882,demo_order_001098,4,Satisfied,Order arrived and matched the request,2016-11-18 16:43:00,2016-11-18 16:43:00
+demo_review_000883,demo_order_001100,4,Satisfied,Order arrived and matched the request,2017-04-08 10:04:00,2017-04-09 10:04:00
+demo_review_000884,demo_order_001101,4,Satisfied,Order arrived and matched the request,2018-04-29 18:02:00,2018-04-30 18:02:00
+demo_review_000885,demo_order_001102,4,Satisfied,Order arrived and matched the request,2017-06-13 18:47:00,2017-06-14 18:47:00
+demo_review_000886,demo_order_001103,5,Satisfied,Order arrived and matched the request,2018-04-02 12:10:00,2018-04-04 12:10:00
+demo_review_000887,demo_order_001104,5,Satisfied,Order arrived and matched the request,2018-05-21 19:59:00,2018-05-23 19:59:00
+demo_review_000888,demo_order_001105,5,Satisfied,Order arrived and matched the request,2017-02-17 10:12:00,2017-02-17 10:12:00
+demo_review_000889,demo_order_001107,5,Satisfied,Order arrived and matched the request,2017-05-29 11:43:00,2017-05-31 11:43:00
+demo_review_000890,demo_order_001108,5,Satisfied,Order arrived and matched the request,2018-07-05 19:25:00,2018-07-06 19:25:00
+demo_review_000891,demo_order_001109,5,Satisfied,Order arrived and matched the request,2018-01-15 19:34:00,2018-01-15 19:34:00
+demo_review_000892,demo_order_001111,5,Satisfied,Order arrived and matched the request,2018-03-27 19:25:00,2018-03-29 19:25:00
+demo_review_000893,demo_order_001112,4,Satisfied,Order arrived and matched the request,2018-06-27 21:36:00,2018-06-28 21:36:00
+demo_review_000894,demo_order_001114,4,Satisfied,Order arrived and matched the request,2017-11-13 21:39:00,2017-11-13 21:39:00
+demo_review_000895,demo_order_001116,5,Satisfied,Order arrived and matched the request,2017-09-06 13:38:00,2017-09-07 13:38:00
+demo_review_000896,demo_order_001117,4,Satisfied,Order arrived and matched the request,2018-05-12 21:53:00,2018-05-13 21:53:00
+demo_review_000897,demo_order_001119,2,Could be better,Delivery took longer than expected,2017-04-24 21:55:00,2017-04-24 21:55:00
+demo_review_000898,demo_order_001120,4,Satisfied,Order arrived and matched the request,2017-05-17 17:11:00,2017-05-18 17:11:00
+demo_review_000899,demo_order_001121,5,Satisfied,Order arrived and matched the request,2018-09-18 20:02:00,2018-09-20 20:02:00
+demo_review_000900,demo_order_001122,4,Satisfied,Order arrived and matched the request,2018-04-19 16:35:00,2018-04-20 16:35:00
+demo_review_000901,demo_order_001123,3,Average experience,The order was acceptable,2018-03-15 12:55:00,2018-03-16 12:55:00
+demo_review_000902,demo_order_001126,5,Satisfied,Order arrived and matched the request,2017-06-19 15:37:00,2017-06-19 15:37:00
+demo_review_000903,demo_order_001130,5,Satisfied,Order arrived and matched the request,2016-12-07 15:12:00,2016-12-08 15:12:00
+demo_review_000904,demo_order_001132,4,Satisfied,Order arrived and matched the request,2017-11-09 20:34:00,2017-11-09 20:34:00
+demo_review_000905,demo_order_001133,4,Satisfied,Order arrived and matched the request,2018-05-14 19:45:00,2018-05-14 19:45:00
+demo_review_000906,demo_order_001134,2,Could be better,Delivery took longer than expected,2017-10-27 11:16:00,2017-10-28 11:16:00
+demo_review_000907,demo_order_001135,4,Satisfied,Order arrived and matched the request,2017-06-01 12:47:00,2017-06-01 12:47:00
+demo_review_000908,demo_order_001136,5,Satisfied,Order arrived and matched the request,2018-08-17 17:15:00,2018-08-19 17:15:00
+demo_review_000909,demo_order_001138,4,Satisfied,Order arrived and matched the request,2018-08-10 17:04:00,2018-08-10 17:04:00
+demo_review_000910,demo_order_001139,5,Satisfied,Order arrived and matched the request,2017-05-30 18:14:00,2017-06-01 18:14:00
+demo_review_000911,demo_order_001140,5,Satisfied,Order arrived and matched the request,2016-12-09 09:08:00,2016-12-09 09:08:00
+demo_review_000912,demo_order_001141,4,Satisfied,Order arrived and matched the request,2017-04-10 19:41:00,2017-04-10 19:41:00
+demo_review_000913,demo_order_001143,5,Satisfied,Order arrived and matched the request,2017-01-27 20:03:00,2017-01-28 20:03:00
+demo_review_000914,demo_order_001144,4,Satisfied,Order arrived and matched the request,2018-08-01 11:17:00,2018-08-03 11:17:00
+demo_review_000915,demo_order_001145,3,Average experience,The order was acceptable,2017-12-28 16:47:00,2017-12-29 16:47:00
+demo_review_000916,demo_order_001146,4,Satisfied,Order arrived and matched the request,2017-01-27 13:36:00,2017-01-28 13:36:00
+demo_review_000917,demo_order_001147,4,Satisfied,Order arrived and matched the request,2017-05-21 18:53:00,2017-05-21 18:53:00
+demo_review_000918,demo_order_001149,5,Satisfied,Order arrived and matched the request,2018-09-02 16:09:00,2018-09-03 16:09:00
+demo_review_000919,demo_order_001151,4,Satisfied,Order arrived and matched the request,2018-03-09 20:33:00,2018-03-09 20:33:00
+demo_review_000920,demo_order_001153,4,Satisfied,Order arrived and matched the request,2018-02-20 19:18:00,2018-02-20 19:18:00
+demo_review_000921,demo_order_001154,5,Satisfied,Order arrived and matched the request,2017-03-02 16:38:00,2017-03-02 16:38:00
+demo_review_000922,demo_order_001155,5,Satisfied,Order arrived and matched the request,2017-12-03 15:34:00,2017-12-04 15:34:00
+demo_review_000923,demo_order_001158,3,Average experience,The order was acceptable,2018-08-15 15:06:00,2018-08-16 15:06:00
+demo_review_000924,demo_order_001159,4,Satisfied,Order arrived and matched the request,2018-05-03 14:43:00,2018-05-05 14:43:00
+demo_review_000925,demo_order_001162,5,Satisfied,Order arrived and matched the request,2018-06-29 19:59:00,2018-06-29 19:59:00
+demo_review_000926,demo_order_001163,5,Satisfied,Order arrived and matched the request,2018-09-07 17:19:00,2018-09-08 17:19:00
+demo_review_000927,demo_order_001164,5,Satisfied,Order arrived and matched the request,2018-05-10 10:18:00,2018-05-11 10:18:00
+demo_review_000928,demo_order_001165,3,Average experience,The order was acceptable,2017-06-21 19:00:00,2017-06-21 19:00:00
+demo_review_000929,demo_order_001166,4,Satisfied,Order arrived and matched the request,2016-11-17 14:40:00,2016-11-17 14:40:00
+demo_review_000930,demo_order_001167,4,Satisfied,Order arrived and matched the request,2018-05-13 13:04:00,2018-05-14 13:04:00
+demo_review_000931,demo_order_001168,4,Satisfied,Order arrived and matched the request,2018-07-30 16:24:00,2018-07-30 16:24:00
+demo_review_000932,demo_order_001169,5,Satisfied,Order arrived and matched the request,2018-01-04 15:14:00,2018-01-06 15:14:00
+demo_review_000933,demo_order_001170,4,Satisfied,Order arrived and matched the request,2017-10-14 17:54:00,2017-10-16 17:54:00
+demo_review_000934,demo_order_001171,2,Could be better,Delivery took longer than expected,2017-10-08 18:40:00,2017-10-10 18:40:00
+demo_review_000935,demo_order_001172,2,Could be better,Delivery took longer than expected,2018-02-03 19:20:00,2018-02-04 19:20:00
+demo_review_000936,demo_order_001173,4,Satisfied,Order arrived and matched the request,2018-03-08 15:09:00,2018-03-10 15:09:00
+demo_review_000937,demo_order_001175,4,Satisfied,Order arrived and matched the request,2018-07-16 08:05:00,2018-07-18 08:05:00
+demo_review_000938,demo_order_001176,4,Satisfied,Order arrived and matched the request,2016-10-30 08:40:00,2016-10-30 08:40:00
+demo_review_000939,demo_order_001178,3,Average experience,The order was acceptable,2017-05-25 19:42:00,2017-05-27 19:42:00
+demo_review_000940,demo_order_001179,3,Average experience,The order was acceptable,2018-05-18 14:23:00,2018-05-19 14:23:00
+demo_review_000941,demo_order_001180,2,Could be better,Delivery took longer than expected,2016-12-10 14:59:00,2016-12-12 14:59:00
+demo_review_000942,demo_order_001181,5,Satisfied,Order arrived and matched the request,2018-09-10 19:56:00,2018-09-10 19:56:00
+demo_review_000943,demo_order_001182,4,Satisfied,Order arrived and matched the request,2018-08-05 20:15:00,2018-08-07 20:15:00
+demo_review_000944,demo_order_001183,3,Average experience,The order was acceptable,2017-06-20 11:19:00,2017-06-20 11:19:00
+demo_review_000945,demo_order_001184,4,Satisfied,Order arrived and matched the request,2017-03-10 10:06:00,2017-03-12 10:06:00
+demo_review_000946,demo_order_001187,4,Satisfied,Order arrived and matched the request,2017-07-23 18:09:00,2017-07-24 18:09:00
+demo_review_000947,demo_order_001189,5,Satisfied,Order arrived and matched the request,2017-01-01 11:57:00,2017-01-03 11:57:00
+demo_review_000948,demo_order_001190,4,Satisfied,Order arrived and matched the request,2017-04-12 11:05:00,2017-04-12 11:05:00
+demo_review_000949,demo_order_001191,2,Could be better,Delivery took longer than expected,2016-12-20 11:20:00,2016-12-22 11:20:00
+demo_review_000950,demo_order_001193,4,Satisfied,Order arrived and matched the request,2017-07-08 11:19:00,2017-07-08 11:19:00
+demo_review_000951,demo_order_001194,5,Satisfied,Order arrived and matched the request,2018-08-24 13:55:00,2018-08-24 13:55:00
+demo_review_000952,demo_order_001195,4,Satisfied,Order arrived and matched the request,2018-05-11 16:34:00,2018-05-12 16:34:00
+demo_review_000953,demo_order_001196,5,Satisfied,Order arrived and matched the request,2018-01-04 15:30:00,2018-01-04 15:30:00
+demo_review_000954,demo_order_001197,5,Satisfied,Order arrived and matched the request,2018-07-20 21:17:00,2018-07-22 21:17:00
+demo_review_000955,demo_order_001198,5,Satisfied,Order arrived and matched the request,2017-12-02 18:12:00,2017-12-02 18:12:00
+demo_review_000956,demo_order_001199,4,Satisfied,Order arrived and matched the request,2017-05-27 17:06:00,2017-05-28 17:06:00
+demo_review_000957,demo_order_001200,3,Average experience,The order was acceptable,2017-01-11 20:21:00,2017-01-11 20:21:00
+demo_review_000958,demo_order_001201,4,Satisfied,Order arrived and matched the request,2017-11-30 10:49:00,2017-12-01 10:49:00
+demo_review_000959,demo_order_001202,5,Satisfied,Order arrived and matched the request,2018-01-23 13:53:00,2018-01-25 13:53:00
+demo_review_000960,demo_order_001203,1,Could be better,Delivery took longer than expected,2017-03-24 15:03:00,2017-03-25 15:03:00
+demo_review_000961,demo_order_001204,5,Satisfied,Order arrived and matched the request,2018-06-25 17:12:00,2018-06-25 17:12:00
+demo_review_000962,demo_order_001205,5,Satisfied,Order arrived and matched the request,2017-03-02 19:35:00,2017-03-04 19:35:00
+demo_review_000963,demo_order_001206,3,Average experience,The order was acceptable,2018-08-27 10:27:00,2018-08-29 10:27:00
+demo_review_000964,demo_order_001207,4,Satisfied,Order arrived and matched the request,2018-02-11 16:34:00,2018-02-13 16:34:00
+demo_review_000965,demo_order_001208,4,Satisfied,Order arrived and matched the request,2017-04-13 15:50:00,2017-04-13 15:50:00
+demo_review_000966,demo_order_001209,4,Satisfied,Order arrived and matched the request,2016-11-11 09:01:00,2016-11-12 09:01:00
+demo_review_000967,demo_order_001210,5,Satisfied,Order arrived and matched the request,2018-06-13 18:16:00,2018-06-14 18:16:00
+demo_review_000968,demo_order_001211,3,Average experience,The order was acceptable,2016-11-25 21:13:00,2016-11-27 21:13:00
+demo_review_000969,demo_order_001212,5,Satisfied,Order arrived and matched the request,2017-01-06 12:55:00,2017-01-06 12:55:00
+demo_review_000970,demo_order_001213,4,Satisfied,Order arrived and matched the request,2018-07-17 14:20:00,2018-07-19 14:20:00
+demo_review_000971,demo_order_001215,5,Satisfied,Order arrived and matched the request,2017-02-16 18:38:00,2017-02-16 18:38:00
+demo_review_000972,demo_order_001216,5,Satisfied,Order arrived and matched the request,2017-10-03 11:54:00,2017-10-04 11:54:00
+demo_review_000973,demo_order_001217,5,Satisfied,Order arrived and matched the request,2018-05-26 19:25:00,2018-05-26 19:25:00
+demo_review_000974,demo_order_001218,3,Average experience,The order was acceptable,2016-10-27 17:15:00,2016-10-27 17:15:00
+demo_review_000975,demo_order_001219,5,Satisfied,Order arrived and matched the request,2018-08-23 09:01:00,2018-08-23 09:01:00
+demo_review_000976,demo_order_001222,5,Satisfied,Order arrived and matched the request,2018-08-30 10:14:00,2018-08-30 10:14:00
+demo_review_000977,demo_order_001223,4,Satisfied,Order arrived and matched the request,2017-12-29 20:10:00,2017-12-31 20:10:00
+demo_review_000978,demo_order_001224,5,Satisfied,Order arrived and matched the request,2017-06-14 10:03:00,2017-06-14 10:03:00
+demo_review_000979,demo_order_001225,4,Satisfied,Order arrived and matched the request,2017-12-12 08:35:00,2017-12-14 08:35:00
+demo_review_000980,demo_order_001226,5,Satisfied,Order arrived and matched the request,2018-02-26 13:48:00,2018-02-27 13:48:00
+demo_review_000981,demo_order_001227,5,Satisfied,Order arrived and matched the request,2018-05-19 20:23:00,2018-05-20 20:23:00
+demo_review_000982,demo_order_001228,4,Satisfied,Order arrived and matched the request,2018-06-20 20:06:00,2018-06-20 20:06:00
+demo_review_000983,demo_order_001229,5,Satisfied,Order arrived and matched the request,2017-10-08 13:27:00,2017-10-09 13:27:00
+demo_review_000984,demo_order_001230,5,Satisfied,Order arrived and matched the request,2017-02-18 10:03:00,2017-02-19 10:03:00
+demo_review_000985,demo_order_001231,4,Satisfied,Order arrived and matched the request,2018-06-24 10:10:00,2018-06-24 10:10:00
+demo_review_000986,demo_order_001233,3,Average experience,The order was acceptable,2017-04-17 19:21:00,2017-04-19 19:21:00
+demo_review_000987,demo_order_001234,5,Satisfied,Order arrived and matched the request,2017-12-02 20:21:00,2017-12-02 20:21:00
+demo_review_000988,demo_order_001235,3,Average experience,The order was acceptable,2017-11-28 13:24:00,2017-11-28 13:24:00
+demo_review_000989,demo_order_001236,4,Satisfied,Order arrived and matched the request,2017-01-23 08:37:00,2017-01-24 08:37:00
+demo_review_000990,demo_order_001237,5,Satisfied,Order arrived and matched the request,2017-07-15 08:12:00,2017-07-15 08:12:00
+demo_review_000991,demo_order_001238,5,Satisfied,Order arrived and matched the request,2018-07-10 21:42:00,2018-07-11 21:42:00
+demo_review_000992,demo_order_001239,5,Satisfied,Order arrived and matched the request,2018-01-19 12:48:00,2018-01-21 12:48:00
+demo_review_000993,demo_order_001240,5,Satisfied,Order arrived and matched the request,2018-04-22 10:57:00,2018-04-22 10:57:00
+demo_review_000994,demo_order_001241,3,Average experience,The order was acceptable,2018-08-12 12:21:00,2018-08-13 12:21:00
+demo_review_000995,demo_order_001243,3,Average experience,The order was acceptable,2018-05-29 18:13:00,2018-05-31 18:13:00
+demo_review_000996,demo_order_001244,2,Could be better,The order did not meet expectations,2017-12-20 19:00:00,2017-12-20 19:00:00
+demo_review_000997,demo_order_001245,3,Average experience,The order was acceptable,2017-09-24 08:09:00,2017-09-25 08:09:00
+demo_review_000998,demo_order_001246,5,Satisfied,Order arrived and matched the request,2017-02-02 16:39:00,2017-02-02 16:39:00
+demo_review_000999,demo_order_001248,4,Satisfied,Order arrived and matched the request,2017-06-11 12:30:00,2017-06-11 12:30:00
+demo_review_001000,demo_order_001249,3,Average experience,The order was acceptable,2018-01-08 21:04:00,2018-01-09 21:04:00
+demo_review_001001,demo_order_001250,4,Satisfied,Order arrived and matched the request,2017-10-15 16:00:00,2017-10-17 16:00:00
+demo_review_001002,demo_order_001251,4,Satisfied,Order arrived and matched the request,2018-07-19 18:00:00,2018-07-19 18:00:00
+demo_review_001003,demo_order_001252,3,Average experience,The order was acceptable,2017-09-25 11:33:00,2017-09-26 11:33:00
+demo_review_001004,demo_order_001255,3,Average experience,The order was acceptable,2017-11-20 20:09:00,2017-11-22 20:09:00
+demo_review_001005,demo_order_001260,5,Satisfied,Order arrived and matched the request,2017-10-30 09:14:00,2017-11-01 09:14:00
+demo_review_001006,demo_order_001261,4,Satisfied,Order arrived and matched the request,2018-08-15 13:46:00,2018-08-16 13:46:00
+demo_review_001007,demo_order_001262,4,Satisfied,Order arrived and matched the request,2017-12-11 19:50:00,2017-12-11 19:50:00
+demo_review_001008,demo_order_001263,5,Satisfied,Order arrived and matched the request,2017-06-04 18:20:00,2017-06-06 18:20:00
+demo_review_001009,demo_order_001264,5,Satisfied,Order arrived and matched the request,2016-12-14 13:13:00,2016-12-15 13:13:00
+demo_review_001010,demo_order_001265,3,Average experience,The order was acceptable,2017-08-15 17:29:00,2017-08-16 17:29:00
+demo_review_001011,demo_order_001266,3,Average experience,The order was acceptable,2017-02-04 17:32:00,2017-02-05 17:32:00
+demo_review_001012,demo_order_001267,4,Satisfied,Order arrived and matched the request,2017-06-14 12:21:00,2017-06-14 12:21:00
+demo_review_001013,demo_order_001269,5,Satisfied,Order arrived and matched the request,2018-09-11 18:23:00,2018-09-12 18:23:00
+demo_review_001014,demo_order_001270,5,Satisfied,Order arrived and matched the request,2018-05-29 20:28:00,2018-05-29 20:28:00
+demo_review_001015,demo_order_001271,4,Satisfied,Order arrived and matched the request,2017-05-18 15:12:00,2017-05-19 15:12:00
+demo_review_001016,demo_order_001275,4,Satisfied,Order arrived and matched the request,2018-04-12 14:39:00,2018-04-14 14:39:00
+demo_review_001017,demo_order_001276,4,Satisfied,Order arrived and matched the request,2018-04-20 16:40:00,2018-04-21 16:40:00
+demo_review_001018,demo_order_001277,2,Could be better,Delivery took longer than expected,2017-12-23 08:26:00,2017-12-24 08:26:00
+demo_review_001019,demo_order_001279,4,Satisfied,Order arrived and matched the request,2018-03-02 11:55:00,2018-03-03 11:55:00
+demo_review_001020,demo_order_001280,4,Satisfied,Order arrived and matched the request,2018-04-05 14:45:00,2018-04-05 14:45:00
+demo_review_001021,demo_order_001281,4,Satisfied,Order arrived and matched the request,2016-12-15 21:35:00,2016-12-16 21:35:00
+demo_review_001022,demo_order_001282,3,Average experience,The order was acceptable,2017-09-15 08:19:00,2017-09-17 08:19:00
+demo_review_001023,demo_order_001283,4,Satisfied,Order arrived and matched the request,2017-02-12 19:54:00,2017-02-13 19:54:00
+demo_review_001024,demo_order_001284,4,Satisfied,Order arrived and matched the request,2017-09-30 09:59:00,2017-10-01 09:59:00
+demo_review_001025,demo_order_001286,4,Satisfied,Order arrived and matched the request,2018-04-25 14:44:00,2018-04-27 14:44:00
+demo_review_001026,demo_order_001287,4,Satisfied,Order arrived and matched the request,2017-08-03 20:16:00,2017-08-03 20:16:00
+demo_review_001027,demo_order_001288,4,Satisfied,Order arrived and matched the request,2018-03-18 12:26:00,2018-03-20 12:26:00
+demo_review_001028,demo_order_001289,3,Average experience,The order was acceptable,2017-08-27 08:34:00,2017-08-29 08:34:00
+demo_review_001029,demo_order_001290,4,Satisfied,Order arrived and matched the request,2016-12-09 20:36:00,2016-12-11 20:36:00
+demo_review_001030,demo_order_001292,2,Could be better,Delivery took longer than expected,2018-07-12 19:58:00,2018-07-12 19:58:00
+demo_review_001031,demo_order_001293,4,Satisfied,Order arrived and matched the request,2017-11-18 21:46:00,2017-11-19 21:46:00
+demo_review_001032,demo_order_001294,3,Average experience,The order was acceptable,2017-11-17 15:52:00,2017-11-19 15:52:00
+demo_review_001033,demo_order_001295,5,Satisfied,Order arrived and matched the request,2018-05-17 14:53:00,2018-05-19 14:53:00
+demo_review_001034,demo_order_001297,5,Satisfied,Order arrived and matched the request,2016-12-21 09:17:00,2016-12-21 09:17:00
+demo_review_001035,demo_order_001299,2,Could be better,Delivery took longer than expected,2017-05-29 10:06:00,2017-05-31 10:06:00
+demo_review_001036,demo_order_001301,5,Satisfied,Order arrived and matched the request,2017-11-03 18:25:00,2017-11-03 18:25:00
+demo_review_001037,demo_order_001302,5,Satisfied,Order arrived and matched the request,2017-01-14 09:02:00,2017-01-14 09:02:00
+demo_review_001038,demo_order_001304,4,Satisfied,Order arrived and matched the request,2016-12-07 20:09:00,2016-12-09 20:09:00
+demo_review_001039,demo_order_001305,4,Satisfied,Order arrived and matched the request,2018-04-23 08:44:00,2018-04-25 08:44:00
+demo_review_001040,demo_order_001306,2,Could be better,Delivery took longer than expected,2018-01-14 17:25:00,2018-01-15 17:25:00
+demo_review_001041,demo_order_001307,1,Could be better,Delivery took longer than expected,2017-01-03 19:57:00,2017-01-04 19:57:00
+demo_review_001042,demo_order_001308,3,Average experience,The order was acceptable,2017-06-27 09:00:00,2017-06-27 09:00:00
+demo_review_001043,demo_order_001309,5,Satisfied,Order arrived and matched the request,2017-04-22 17:09:00,2017-04-23 17:09:00
+demo_review_001044,demo_order_001310,3,Average experience,The order was acceptable,2017-09-29 11:52:00,2017-10-01 11:52:00
+demo_review_001045,demo_order_001311,4,Satisfied,Order arrived and matched the request,2017-06-12 11:22:00,2017-06-12 11:22:00
+demo_review_001046,demo_order_001313,2,Could be better,Delivery took longer than expected,2018-07-15 17:43:00,2018-07-16 17:43:00
+demo_review_001047,demo_order_001314,3,Average experience,The order was acceptable,2018-04-30 10:15:00,2018-05-01 10:15:00
+demo_review_001048,demo_order_001315,5,Satisfied,Order arrived and matched the request,2017-07-01 10:40:00,2017-07-02 10:40:00
+demo_review_001049,demo_order_001316,2,Could be better,Delivery took longer than expected,2018-09-06 20:44:00,2018-09-07 20:44:00
+demo_review_001050,demo_order_001318,4,Satisfied,Order arrived and matched the request,2017-07-01 10:18:00,2017-07-01 10:18:00
+demo_review_001051,demo_order_001321,4,Satisfied,Order arrived and matched the request,2018-03-27 12:28:00,2018-03-28 12:28:00
+demo_review_001052,demo_order_001322,5,Satisfied,Order arrived and matched the request,2018-07-30 14:51:00,2018-07-30 14:51:00
+demo_review_001053,demo_order_001323,5,Satisfied,Order arrived and matched the request,2017-10-29 10:36:00,2017-10-31 10:36:00
+demo_review_001054,demo_order_001325,4,Satisfied,Order arrived and matched the request,2017-11-11 08:35:00,2017-11-11 08:35:00
+demo_review_001055,demo_order_001326,4,Satisfied,Order arrived and matched the request,2017-03-27 17:13:00,2017-03-28 17:13:00
+demo_review_001056,demo_order_001327,3,Average experience,The order was acceptable,2016-12-26 18:51:00,2016-12-26 18:51:00
+demo_review_001057,demo_order_001328,4,Satisfied,Order arrived and matched the request,2018-03-03 21:19:00,2018-03-04 21:19:00
+demo_review_001058,demo_order_001330,3,Average experience,The order was acceptable,2018-03-01 12:25:00,2018-03-02 12:25:00
+demo_review_001059,demo_order_001331,3,Average experience,The order was acceptable,2017-06-19 18:07:00,2017-06-21 18:07:00
+demo_review_001060,demo_order_001332,5,Satisfied,Order arrived and matched the request,2016-12-30 15:58:00,2016-12-31 15:58:00
+demo_review_001061,demo_order_001333,3,Average experience,The order was acceptable,2017-10-05 14:52:00,2017-10-05 14:52:00
+demo_review_001062,demo_order_001334,2,Could be better,Delivery took longer than expected,2017-01-28 20:35:00,2017-01-30 20:35:00
+demo_review_001063,demo_order_001335,3,Average experience,The order was acceptable,2018-02-18 13:06:00,2018-02-19 13:06:00
+demo_review_001064,demo_order_001336,5,Satisfied,Order arrived and matched the request,2017-12-04 16:11:00,2017-12-05 16:11:00
+demo_review_001065,demo_order_001339,3,Average experience,The order was acceptable,2017-05-23 11:44:00,2017-05-24 11:44:00
+demo_review_001066,demo_order_001340,5,Satisfied,Order arrived and matched the request,2017-11-20 19:37:00,2017-11-20 19:37:00
+demo_review_001067,demo_order_001341,3,Average experience,The order was acceptable,2018-01-14 08:06:00,2018-01-15 08:06:00
+demo_review_001068,demo_order_001342,4,Satisfied,Order arrived and matched the request,2018-09-08 18:09:00,2018-09-08 18:09:00
+demo_review_001069,demo_order_001344,4,Satisfied,Order arrived and matched the request,2017-10-31 20:43:00,2017-11-01 20:43:00
+demo_review_001070,demo_order_001345,4,Satisfied,Order arrived and matched the request,2017-07-20 11:01:00,2017-07-22 11:01:00
+demo_review_001071,demo_order_001347,3,Average experience,The order was acceptable,2018-04-22 19:27:00,2018-04-24 19:27:00
+demo_review_001072,demo_order_001348,5,Satisfied,Order arrived and matched the request,2017-05-11 21:32:00,2017-05-12 21:32:00
+demo_review_001073,demo_order_001349,5,Satisfied,Order arrived and matched the request,2017-10-16 17:14:00,2017-10-17 17:14:00
+demo_review_001074,demo_order_001350,5,Satisfied,Order arrived and matched the request,2018-05-16 11:22:00,2018-05-17 11:22:00
+demo_review_001075,demo_order_001351,5,Satisfied,Order arrived and matched the request,2018-09-01 09:26:00,2018-09-02 09:26:00
+demo_review_001076,demo_order_001353,5,Satisfied,Order arrived and matched the request,2017-05-31 16:04:00,2017-05-31 16:04:00
+demo_review_001077,demo_order_001354,3,Average experience,The order was acceptable,2017-05-04 18:33:00,2017-05-04 18:33:00
+demo_review_001078,demo_order_001355,3,Average experience,The order was acceptable,2018-03-12 21:19:00,2018-03-13 21:19:00
+demo_review_001079,demo_order_001356,5,Satisfied,Order arrived and matched the request,2018-05-12 12:18:00,2018-05-14 12:18:00
+demo_review_001080,demo_order_001358,4,Satisfied,Order arrived and matched the request,2018-01-05 11:31:00,2018-01-05 11:31:00
+demo_review_001081,demo_order_001359,4,Satisfied,Order arrived and matched the request,2017-01-01 18:51:00,2017-01-02 18:51:00
+demo_review_001082,demo_order_001360,4,Satisfied,Order arrived and matched the request,2017-12-19 11:56:00,2017-12-19 11:56:00
+demo_review_001083,demo_order_001363,4,Satisfied,Order arrived and matched the request,2017-09-02 19:07:00,2017-09-03 19:07:00
+demo_review_001084,demo_order_001364,5,Satisfied,Order arrived and matched the request,2018-01-05 13:48:00,2018-01-07 13:48:00
+demo_review_001085,demo_order_001365,5,Satisfied,Order arrived and matched the request,2017-01-19 20:06:00,2017-01-21 20:06:00
+demo_review_001086,demo_order_001366,4,Satisfied,Order arrived and matched the request,2017-09-01 12:30:00,2017-09-02 12:30:00
+demo_review_001087,demo_order_001367,5,Satisfied,Order arrived and matched the request,2018-09-11 21:21:00,2018-09-13 21:21:00
+demo_review_001088,demo_order_001368,4,Satisfied,Order arrived and matched the request,2017-06-15 08:26:00,2017-06-16 08:26:00
+demo_review_001089,demo_order_001369,4,Satisfied,Order arrived and matched the request,2017-06-10 14:29:00,2017-06-12 14:29:00
+demo_review_001090,demo_order_001370,4,Satisfied,Order arrived and matched the request,2018-01-13 18:43:00,2018-01-14 18:43:00
+demo_review_001091,demo_order_001371,4,Satisfied,Order arrived and matched the request,2018-03-23 08:16:00,2018-03-23 08:16:00
+demo_review_001092,demo_order_001372,4,Satisfied,Order arrived and matched the request,2018-04-25 19:30:00,2018-04-26 19:30:00
+demo_review_001093,demo_order_001373,4,Satisfied,Order arrived and matched the request,2017-08-09 09:26:00,2017-08-09 09:26:00
+demo_review_001094,demo_order_001375,5,Satisfied,Order arrived and matched the request,2017-11-27 14:27:00,2017-11-29 14:27:00
+demo_review_001095,demo_order_001377,3,Average experience,The order was acceptable,2018-08-04 21:29:00,2018-08-04 21:29:00
+demo_review_001096,demo_order_001378,5,Satisfied,Order arrived and matched the request,2018-09-10 12:02:00,2018-09-12 12:02:00
+demo_review_001097,demo_order_001379,4,Satisfied,Order arrived and matched the request,2018-05-13 11:30:00,2018-05-14 11:30:00
+demo_review_001098,demo_order_001380,3,Average experience,The order was acceptable,2018-07-31 12:12:00,2018-08-01 12:12:00
+demo_review_001099,demo_order_001381,5,Satisfied,Order arrived and matched the request,2017-03-01 08:30:00,2017-03-01 08:30:00
+demo_review_001100,demo_order_001382,4,Satisfied,Order arrived and matched the request,2017-06-20 14:06:00,2017-06-20 14:06:00
+demo_review_001101,demo_order_001383,5,Satisfied,Order arrived and matched the request,2017-04-09 13:43:00,2017-04-09 13:43:00
+demo_review_001102,demo_order_001384,4,Satisfied,Order arrived and matched the request,2018-01-13 17:25:00,2018-01-15 17:25:00
+demo_review_001103,demo_order_001386,1,Could be better,Delivery took longer than expected,2018-06-30 21:26:00,2018-07-01 21:26:00
+demo_review_001104,demo_order_001387,5,Satisfied,Order arrived and matched the request,2017-04-25 20:47:00,2017-04-27 20:47:00
+demo_review_001105,demo_order_001389,4,Satisfied,Order arrived and matched the request,2017-09-30 14:37:00,2017-09-30 14:37:00
+demo_review_001106,demo_order_001390,4,Satisfied,Order arrived and matched the request,2017-09-23 18:33:00,2017-09-23 18:33:00
+demo_review_001107,demo_order_001391,2,Could be better,Delivery took longer than expected,2018-08-23 11:34:00,2018-08-23 11:34:00
+demo_review_001108,demo_order_001392,5,Satisfied,Order arrived and matched the request,2018-01-10 21:18:00,2018-01-10 21:18:00
+demo_review_001109,demo_order_001393,3,Average experience,The order was acceptable,2018-08-06 14:25:00,2018-08-08 14:25:00
+demo_review_001110,demo_order_001394,1,Could be better,Delivery took longer than expected,2017-06-17 12:53:00,2017-06-18 12:53:00
+demo_review_001111,demo_order_001395,4,Satisfied,Order arrived and matched the request,2017-05-28 20:10:00,2017-05-29 20:10:00
+demo_review_001112,demo_order_001397,5,Satisfied,Order arrived and matched the request,2017-01-23 18:10:00,2017-01-25 18:10:00
+demo_review_001113,demo_order_001398,5,Satisfied,Order arrived and matched the request,2017-03-17 19:05:00,2017-03-18 19:05:00
+demo_review_001114,demo_order_001399,4,Satisfied,Order arrived and matched the request,2016-11-27 19:43:00,2016-11-27 19:43:00
+demo_review_001115,demo_order_001400,4,Satisfied,Order arrived and matched the request,2017-05-17 20:02:00,2017-05-19 20:02:00
+demo_review_001116,demo_order_001401,4,Satisfied,Order arrived and matched the request,2017-08-06 09:00:00,2017-08-08 09:00:00
+demo_review_001117,demo_order_001402,4,Satisfied,Order arrived and matched the request,2018-07-04 15:44:00,2018-07-04 15:44:00
+demo_review_001118,demo_order_001403,2,Could be better,Delivery took longer than expected,2017-03-08 15:41:00,2017-03-10 15:41:00
+demo_review_001119,demo_order_001404,4,Satisfied,Order arrived and matched the request,2018-07-15 13:53:00,2018-07-16 13:53:00
+demo_review_001120,demo_order_001405,4,Satisfied,Order arrived and matched the request,2017-05-17 20:03:00,2017-05-18 20:03:00
+demo_review_001121,demo_order_001406,4,Satisfied,Order arrived and matched the request,2017-01-19 14:58:00,2017-01-19 14:58:00
+demo_review_001122,demo_order_001408,3,Average experience,The order was acceptable,2017-12-08 21:19:00,2017-12-10 21:19:00
+demo_review_001123,demo_order_001409,3,Average experience,The order was acceptable,2018-06-12 16:27:00,2018-06-13 16:27:00
+demo_review_001124,demo_order_001410,5,Satisfied,Order arrived and matched the request,2017-12-12 15:25:00,2017-12-13 15:25:00
+demo_review_001125,demo_order_001411,3,Average experience,The order was acceptable,2017-02-01 16:06:00,2017-02-01 16:06:00
+demo_review_001126,demo_order_001412,4,Satisfied,Order arrived and matched the request,2016-12-28 21:22:00,2016-12-28 21:22:00
+demo_review_001127,demo_order_001413,3,Average experience,The order was acceptable,2017-07-13 19:03:00,2017-07-15 19:03:00
+demo_review_001128,demo_order_001414,4,Satisfied,Order arrived and matched the request,2018-04-11 13:37:00,2018-04-11 13:37:00
+demo_review_001129,demo_order_001415,5,Satisfied,Order arrived and matched the request,2017-11-20 17:03:00,2017-11-22 17:03:00
+demo_review_001130,demo_order_001416,4,Satisfied,Order arrived and matched the request,2017-12-11 18:35:00,2017-12-11 18:35:00
+demo_review_001131,demo_order_001419,3,Average experience,The order was acceptable,2017-02-10 13:20:00,2017-02-10 13:20:00
+demo_review_001132,demo_order_001420,3,Average experience,The order was acceptable,2016-11-30 13:36:00,2016-12-02 13:36:00
+demo_review_001133,demo_order_001421,5,Satisfied,Order arrived and matched the request,2017-05-27 13:26:00,2017-05-29 13:26:00
+demo_review_001134,demo_order_001422,4,Satisfied,Order arrived and matched the request,2018-07-16 15:18:00,2018-07-16 15:18:00
+demo_review_001135,demo_order_001423,4,Satisfied,Order arrived and matched the request,2017-11-03 15:29:00,2017-11-04 15:29:00
+demo_review_001136,demo_order_001424,3,Average experience,The order was acceptable,2017-09-20 20:32:00,2017-09-20 20:32:00
+demo_review_001137,demo_order_001425,3,Average experience,The order was acceptable,2017-06-04 11:52:00,2017-06-04 11:52:00
+demo_review_001138,demo_order_001426,5,Satisfied,Order arrived and matched the request,2017-10-16 20:25:00,2017-10-16 20:25:00
+demo_review_001139,demo_order_001428,4,Satisfied,Order arrived and matched the request,2016-12-12 20:02:00,2016-12-14 20:02:00
+demo_review_001140,demo_order_001429,4,Satisfied,Order arrived and matched the request,2017-01-16 11:03:00,2017-01-16 11:03:00
+demo_review_001141,demo_order_001430,4,Satisfied,Order arrived and matched the request,2018-05-23 16:06:00,2018-05-25 16:06:00
+demo_review_001142,demo_order_001431,1,Could be better,Delivery took longer than expected,2017-05-22 12:32:00,2017-05-24 12:32:00
+demo_review_001143,demo_order_001432,5,Satisfied,Order arrived and matched the request,2018-06-27 14:20:00,2018-06-27 14:20:00
+demo_review_001144,demo_order_001435,3,Average experience,The order was acceptable,2017-01-02 16:06:00,2017-01-04 16:06:00
+demo_review_001145,demo_order_001436,5,Satisfied,Order arrived and matched the request,2018-01-19 20:37:00,2018-01-21 20:37:00
+demo_review_001146,demo_order_001437,5,Satisfied,Order arrived and matched the request,2018-05-08 13:26:00,2018-05-08 13:26:00
+demo_review_001147,demo_order_001438,4,Satisfied,Order arrived and matched the request,2018-01-04 16:26:00,2018-01-04 16:26:00
+demo_review_001148,demo_order_001439,4,Satisfied,Order arrived and matched the request,2017-05-31 21:30:00,2017-05-31 21:30:00
+demo_review_001149,demo_order_001440,5,Satisfied,Order arrived and matched the request,2017-08-30 16:49:00,2017-08-30 16:49:00
+demo_review_001150,demo_order_001441,3,Average experience,The order was acceptable,2016-12-23 13:45:00,2016-12-24 13:45:00
+demo_review_001151,demo_order_001442,4,Satisfied,Order arrived and matched the request,2018-01-19 21:34:00,2018-01-21 21:34:00
+demo_review_001152,demo_order_001443,4,Satisfied,Order arrived and matched the request,2018-07-24 13:17:00,2018-07-24 13:17:00
+demo_review_001153,demo_order_001444,4,Satisfied,Order arrived and matched the request,2017-12-01 08:28:00,2017-12-03 08:28:00
+demo_review_001154,demo_order_001445,4,Satisfied,Order arrived and matched the request,2018-07-13 21:26:00,2018-07-14 21:26:00
+demo_review_001155,demo_order_001446,3,Average experience,The order was acceptable,2017-12-21 18:53:00,2017-12-23 18:53:00
+demo_review_001156,demo_order_001447,5,Satisfied,Order arrived and matched the request,2017-07-06 09:55:00,2017-07-06 09:55:00
+demo_review_001157,demo_order_001448,3,Average experience,The order was acceptable,2018-06-13 09:11:00,2018-06-14 09:11:00
+demo_review_001158,demo_order_001449,5,Satisfied,Order arrived and matched the request,2018-07-29 13:04:00,2018-07-31 13:04:00
+demo_review_001159,demo_order_001450,5,Satisfied,Order arrived and matched the request,2017-09-08 12:50:00,2017-09-08 12:50:00
+demo_review_001160,demo_order_001451,4,Satisfied,Order arrived and matched the request,2017-11-27 12:08:00,2017-11-27 12:08:00
+demo_review_001161,demo_order_001452,4,Satisfied,Order arrived and matched the request,2017-11-10 18:48:00,2017-11-10 18:48:00
+demo_review_001162,demo_order_001453,4,Satisfied,Order arrived and matched the request,2018-07-09 12:29:00,2018-07-11 12:29:00
+demo_review_001163,demo_order_001454,1,Could be better,Delivery took longer than expected,2018-02-26 08:21:00,2018-02-28 08:21:00
+demo_review_001164,demo_order_001455,4,Satisfied,Order arrived and matched the request,2018-07-27 11:56:00,2018-07-27 11:56:00
+demo_review_001165,demo_order_001456,2,Could be better,Delivery took longer than expected,2018-09-19 09:34:00,2018-09-21 09:34:00
+demo_review_001166,demo_order_001458,4,Satisfied,Order arrived and matched the request,2018-08-15 08:11:00,2018-08-17 08:11:00
+demo_review_001167,demo_order_001459,1,Could be better,Delivery took longer than expected,2018-02-08 09:31:00,2018-02-08 09:31:00
+demo_review_001168,demo_order_001460,5,Satisfied,Order arrived and matched the request,2018-01-14 14:26:00,2018-01-15 14:26:00
+demo_review_001169,demo_order_001461,4,Satisfied,Order arrived and matched the request,2016-12-07 14:18:00,2016-12-08 14:18:00
+demo_review_001170,demo_order_001463,5,Satisfied,Order arrived and matched the request,2017-11-17 10:47:00,2017-11-18 10:47:00
+demo_review_001171,demo_order_001464,5,Satisfied,Order arrived and matched the request,2018-05-29 09:56:00,2018-05-31 09:56:00
+demo_review_001172,demo_order_001465,2,Could be better,Delivery took longer than expected,2017-12-28 10:48:00,2017-12-30 10:48:00
+demo_review_001173,demo_order_001466,5,Satisfied,Order arrived and matched the request,2017-11-10 17:49:00,2017-11-11 17:49:00
+demo_review_001174,demo_order_001467,4,Satisfied,Order arrived and matched the request,2016-12-15 13:08:00,2016-12-17 13:08:00
+demo_review_001175,demo_order_001468,1,Could be better,Delivery took longer than expected,2017-08-17 09:39:00,2017-08-17 09:39:00
+demo_review_001176,demo_order_001469,1,Could be better,Delivery took longer than expected,2018-07-11 13:39:00,2018-07-11 13:39:00
+demo_review_001177,demo_order_001470,3,Average experience,The order was acceptable,2017-07-09 20:00:00,2017-07-11 20:00:00
+demo_review_001178,demo_order_001471,4,Satisfied,Order arrived and matched the request,2018-04-11 11:30:00,2018-04-11 11:30:00
+demo_review_001179,demo_order_001472,4,Satisfied,Order arrived and matched the request,2017-01-21 14:13:00,2017-01-22 14:13:00
+demo_review_001180,demo_order_001473,4,Satisfied,Order arrived and matched the request,2018-01-15 21:31:00,2018-01-15 21:31:00
+demo_review_001181,demo_order_001474,4,Satisfied,Order arrived and matched the request,2018-07-18 16:11:00,2018-07-19 16:11:00
+demo_review_001182,demo_order_001475,4,Satisfied,Order arrived and matched the request,2018-08-26 20:09:00,2018-08-28 20:09:00
+demo_review_001183,demo_order_001477,3,Average experience,The order was acceptable,2017-09-16 20:44:00,2017-09-17 20:44:00
+demo_review_001184,demo_order_001478,5,Satisfied,Order arrived and matched the request,2018-04-18 20:58:00,2018-04-20 20:58:00
+demo_review_001185,demo_order_001479,5,Satisfied,Order arrived and matched the request,2017-02-17 13:45:00,2017-02-17 13:45:00
+demo_review_001186,demo_order_001480,5,Satisfied,Order arrived and matched the request,2017-11-16 13:47:00,2017-11-16 13:47:00
+demo_review_001187,demo_order_001482,5,Satisfied,Order arrived and matched the request,2017-05-14 13:18:00,2017-05-16 13:18:00
+demo_review_001188,demo_order_001483,4,Satisfied,Order arrived and matched the request,2018-06-18 13:52:00,2018-06-20 13:52:00
+demo_review_001189,demo_order_001484,5,Satisfied,Order arrived and matched the request,2017-09-26 09:10:00,2017-09-27 09:10:00
+demo_review_001190,demo_order_001485,1,Could be better,Delivery took longer than expected,2016-12-16 17:02:00,2016-12-16 17:02:00
+demo_review_001191,demo_order_001486,4,Satisfied,Order arrived and matched the request,2017-11-18 12:33:00,2017-11-20 12:33:00
+demo_review_001192,demo_order_001488,5,Satisfied,Order arrived and matched the request,2017-05-22 21:05:00,2017-05-23 21:05:00
+demo_review_001193,demo_order_001489,2,Could be better,Delivery took longer than expected,2017-03-08 11:22:00,2017-03-08 11:22:00
+demo_review_001194,demo_order_001490,5,Satisfied,Order arrived and matched the request,2018-03-29 11:16:00,2018-03-30 11:16:00
+demo_review_001195,demo_order_001491,3,Average experience,The order was acceptable,2017-05-28 19:42:00,2017-05-28 19:42:00
+demo_review_001196,demo_order_001492,4,Satisfied,Order arrived and matched the request,2018-05-16 18:10:00,2018-05-18 18:10:00
+demo_review_001197,demo_order_001493,5,Satisfied,Order arrived and matched the request,2018-06-13 10:46:00,2018-06-13 10:46:00
+demo_review_001198,demo_order_001494,5,Satisfied,Order arrived and matched the request,2017-01-06 17:09:00,2017-01-07 17:09:00
+demo_review_001199,demo_order_001495,3,Average experience,The order was acceptable,2017-04-28 12:53:00,2017-04-29 12:53:00
+demo_review_001200,demo_order_001498,5,Satisfied,Order arrived and matched the request,2017-12-07 19:54:00,2017-12-09 19:54:00
+demo_review_001201,demo_order_001499,3,Average experience,The order was acceptable,2018-04-22 08:56:00,2018-04-24 08:56:00
+demo_review_001202,demo_order_001500,5,Satisfied,Order arrived and matched the request,2018-03-28 18:57:00,2018-03-28 18:57:00
+demo_review_001203,demo_order_001501,3,Average experience,The order was acceptable,2018-02-05 13:25:00,2018-02-05 13:25:00
+demo_review_001204,demo_order_001504,4,Satisfied,Order arrived and matched the request,2017-12-20 21:17:00,2017-12-21 21:17:00
+demo_review_001205,demo_order_001505,5,Satisfied,Order arrived and matched the request,2017-05-15 10:27:00,2017-05-17 10:27:00
+demo_review_001206,demo_order_001507,3,Average experience,The order was acceptable,2017-07-02 20:37:00,2017-07-02 20:37:00
+demo_review_001207,demo_order_001508,4,Satisfied,Order arrived and matched the request,2018-07-03 20:03:00,2018-07-05 20:03:00
+demo_review_001208,demo_order_001509,5,Satisfied,Order arrived and matched the request,2018-01-04 20:50:00,2018-01-05 20:50:00
+demo_review_001209,demo_order_001511,3,Average experience,The order was acceptable,2018-04-17 14:00:00,2018-04-18 14:00:00
+demo_review_001210,demo_order_001512,4,Satisfied,Order arrived and matched the request,2017-05-09 18:13:00,2017-05-09 18:13:00
+demo_review_001211,demo_order_001513,5,Satisfied,Order arrived and matched the request,2017-03-15 17:34:00,2017-03-16 17:34:00
+demo_review_001212,demo_order_001514,5,Satisfied,Order arrived and matched the request,2018-04-19 08:00:00,2018-04-20 08:00:00
+demo_review_001213,demo_order_001515,4,Satisfied,Order arrived and matched the request,2018-02-17 08:37:00,2018-02-18 08:37:00
+demo_review_001214,demo_order_001516,5,Satisfied,Order arrived and matched the request,2017-01-07 19:20:00,2017-01-09 19:20:00
+demo_review_001215,demo_order_001517,4,Satisfied,Order arrived and matched the request,2017-08-29 14:22:00,2017-08-31 14:22:00
+demo_review_001216,demo_order_001518,4,Satisfied,Order arrived and matched the request,2017-03-12 10:16:00,2017-03-13 10:16:00
+demo_review_001217,demo_order_001519,3,Average experience,The order was acceptable,2018-06-25 11:29:00,2018-06-25 11:29:00
+demo_review_001218,demo_order_001521,5,Satisfied,Order arrived and matched the request,2017-10-07 19:12:00,2017-10-07 19:12:00
+demo_review_001219,demo_order_001522,4,Satisfied,Order arrived and matched the request,2018-08-20 18:01:00,2018-08-20 18:01:00
+demo_review_001220,demo_order_001523,5,Satisfied,Order arrived and matched the request,2017-03-25 15:31:00,2017-03-27 15:31:00
+demo_review_001221,demo_order_001524,3,Average experience,The order was acceptable,2016-10-27 08:52:00,2016-10-28 08:52:00
+demo_review_001222,demo_order_001525,4,Satisfied,Order arrived and matched the request,2017-11-18 18:34:00,2017-11-20 18:34:00
+demo_review_001223,demo_order_001526,5,Satisfied,Order arrived and matched the request,2017-06-24 17:21:00,2017-06-24 17:21:00
+demo_review_001224,demo_order_001528,4,Satisfied,Order arrived and matched the request,2017-06-05 13:57:00,2017-06-06 13:57:00
+demo_review_001225,demo_order_001531,5,Satisfied,Order arrived and matched the request,2017-04-25 11:00:00,2017-04-27 11:00:00
+demo_review_001226,demo_order_001532,5,Satisfied,Order arrived and matched the request,2018-03-17 18:43:00,2018-03-17 18:43:00
+demo_review_001227,demo_order_001533,5,Satisfied,Order arrived and matched the request,2017-03-29 15:38:00,2017-03-31 15:38:00
+demo_review_001228,demo_order_001534,4,Satisfied,Order arrived and matched the request,2018-03-06 09:26:00,2018-03-06 09:26:00
+demo_review_001229,demo_order_001535,2,Could be better,Delivery took longer than expected,2018-07-31 15:13:00,2018-08-02 15:13:00
+demo_review_001230,demo_order_001536,1,Could be better,Delivery took longer than expected,2017-02-16 12:49:00,2017-02-16 12:49:00
+demo_review_001231,demo_order_001537,4,Satisfied,Order arrived and matched the request,2016-11-04 17:08:00,2016-11-04 17:08:00
+demo_review_001232,demo_order_001539,2,Could be better,Delivery took longer than expected,2018-05-29 08:02:00,2018-05-29 08:02:00
+demo_review_001233,demo_order_001540,5,Satisfied,Order arrived and matched the request,2016-12-05 17:00:00,2016-12-05 17:00:00
+demo_review_001234,demo_order_001541,4,Satisfied,Order arrived and matched the request,2018-07-05 19:54:00,2018-07-05 19:54:00
+demo_review_001235,demo_order_001542,5,Satisfied,Order arrived and matched the request,2017-02-04 14:13:00,2017-02-04 14:13:00
+demo_review_001236,demo_order_001543,4,Satisfied,Order arrived and matched the request,2017-11-21 09:51:00,2017-11-22 09:51:00
+demo_review_001237,demo_order_001544,3,Average experience,The order was acceptable,2017-12-26 08:42:00,2017-12-27 08:42:00
+demo_review_001238,demo_order_001545,5,Satisfied,Order arrived and matched the request,2018-01-24 12:18:00,2018-01-26 12:18:00
+demo_review_001239,demo_order_001546,3,Average experience,The order was acceptable,2017-10-05 17:43:00,2017-10-07 17:43:00
+demo_review_001240,demo_order_001547,4,Satisfied,Order arrived and matched the request,2017-12-14 10:22:00,2017-12-16 10:22:00
+demo_review_001241,demo_order_001548,5,Satisfied,Order arrived and matched the request,2017-04-15 20:22:00,2017-04-16 20:22:00
+demo_review_001242,demo_order_001549,5,Satisfied,Order arrived and matched the request,2017-10-22 11:49:00,2017-10-24 11:49:00
+demo_review_001243,demo_order_001551,5,Satisfied,Order arrived and matched the request,2018-01-04 13:57:00,2018-01-04 13:57:00
+demo_review_001244,demo_order_001552,4,Satisfied,Order arrived and matched the request,2017-11-16 15:01:00,2017-11-18 15:01:00
+demo_review_001245,demo_order_001554,5,Satisfied,Order arrived and matched the request,2018-08-30 16:53:00,2018-08-30 16:53:00
+demo_review_001246,demo_order_001555,3,Average experience,The order was acceptable,2017-07-02 13:33:00,2017-07-03 13:33:00
+demo_review_001247,demo_order_001557,5,Satisfied,Order arrived and matched the request,2017-07-05 21:11:00,2017-07-05 21:11:00
+demo_review_001248,demo_order_001559,5,Satisfied,Order arrived and matched the request,2018-07-18 16:28:00,2018-07-19 16:28:00
+demo_review_001249,demo_order_001560,3,Average experience,The order was acceptable,2017-02-18 14:42:00,2017-02-19 14:42:00
+demo_review_001250,demo_order_001561,3,Average experience,The order was acceptable,2018-04-23 12:44:00,2018-04-23 12:44:00
+demo_review_001251,demo_order_001562,4,Satisfied,Order arrived and matched the request,2017-09-25 10:03:00,2017-09-26 10:03:00
+demo_review_001252,demo_order_001563,5,Satisfied,Order arrived and matched the request,2017-07-19 08:44:00,2017-07-20 08:44:00
+demo_review_001253,demo_order_001564,5,Satisfied,Order arrived and matched the request,2017-02-25 18:24:00,2017-02-27 18:24:00
+demo_review_001254,demo_order_001567,5,Satisfied,Order arrived and matched the request,2017-08-26 17:01:00,2017-08-28 17:01:00
+demo_review_001255,demo_order_001568,5,Satisfied,Order arrived and matched the request,2018-08-09 12:30:00,2018-08-10 12:30:00
+demo_review_001256,demo_order_001570,5,Satisfied,Order arrived and matched the request,2018-06-04 21:29:00,2018-06-04 21:29:00
+demo_review_001257,demo_order_001571,3,Average experience,The order was acceptable,2018-03-04 13:16:00,2018-03-04 13:16:00
+demo_review_001258,demo_order_001573,5,Satisfied,Order arrived and matched the request,2017-03-16 15:40:00,2017-03-18 15:40:00
+demo_review_001259,demo_order_001574,4,Satisfied,Order arrived and matched the request,2018-03-16 13:01:00,2018-03-16 13:01:00
+demo_review_001260,demo_order_001576,5,Satisfied,Order arrived and matched the request,2017-04-08 17:37:00,2017-04-08 17:37:00
+demo_review_001261,demo_order_001577,5,Satisfied,Order arrived and matched the request,2018-06-13 10:41:00,2018-06-14 10:41:00
+demo_review_001262,demo_order_001578,4,Satisfied,Order arrived and matched the request,2017-12-14 08:10:00,2017-12-14 08:10:00
+demo_review_001263,demo_order_001579,4,Satisfied,Order arrived and matched the request,2018-01-22 21:03:00,2018-01-24 21:03:00
+demo_review_001264,demo_order_001580,3,Average experience,The order was acceptable,2017-04-23 08:41:00,2017-04-25 08:41:00
+demo_review_001265,demo_order_001581,4,Satisfied,Order arrived and matched the request,2018-01-12 13:46:00,2018-01-13 13:46:00
+demo_review_001266,demo_order_001582,5,Satisfied,Order arrived and matched the request,2018-01-16 09:33:00,2018-01-18 09:33:00
+demo_review_001267,demo_order_001583,3,Average experience,The order was acceptable,2017-09-17 14:54:00,2017-09-18 14:54:00
+demo_review_001268,demo_order_001584,5,Satisfied,Order arrived and matched the request,2017-01-03 08:09:00,2017-01-04 08:09:00
+demo_review_001269,demo_order_001585,4,Satisfied,Order arrived and matched the request,2017-08-08 11:16:00,2017-08-09 11:16:00
+demo_review_001270,demo_order_001587,5,Satisfied,Order arrived and matched the request,2017-05-15 15:35:00,2017-05-16 15:35:00
+demo_review_001271,demo_order_001588,4,Satisfied,Order arrived and matched the request,2017-04-09 20:30:00,2017-04-11 20:30:00
+demo_review_001272,demo_order_001589,4,Satisfied,Order arrived and matched the request,2016-10-16 13:48:00,2016-10-16 13:48:00
+demo_review_001273,demo_order_001590,4,Satisfied,Order arrived and matched the request,2018-02-25 18:14:00,2018-02-26 18:14:00
+demo_review_001274,demo_order_001591,5,Satisfied,Order arrived and matched the request,2016-12-29 19:04:00,2016-12-29 19:04:00
+demo_review_001275,demo_order_001592,4,Satisfied,Order arrived and matched the request,2017-10-05 11:39:00,2017-10-06 11:39:00
+demo_review_001276,demo_order_001593,4,Satisfied,Order arrived and matched the request,2017-02-05 10:08:00,2017-02-07 10:08:00
+demo_review_001277,demo_order_001594,3,Average experience,The order was acceptable,2018-04-08 19:24:00,2018-04-09 19:24:00
+demo_review_001278,demo_order_001595,4,Satisfied,Order arrived and matched the request,2018-07-22 11:31:00,2018-07-24 11:31:00
+demo_review_001279,demo_order_001596,5,Satisfied,Order arrived and matched the request,2017-06-13 16:42:00,2017-06-13 16:42:00
+demo_review_001280,demo_order_001597,4,Satisfied,Order arrived and matched the request,2016-11-08 21:34:00,2016-11-10 21:34:00
+demo_review_001281,demo_order_001598,5,Satisfied,Order arrived and matched the request,2016-11-21 15:35:00,2016-11-23 15:35:00
+demo_review_001282,demo_order_001599,4,Satisfied,Order arrived and matched the request,2017-04-18 21:37:00,2017-04-18 21:37:00
+demo_review_001283,demo_order_001600,3,Average experience,The order was acceptable,2017-11-29 19:42:00,2017-12-01 19:42:00
+demo_review_001284,demo_order_001601,4,Satisfied,Order arrived and matched the request,2017-06-12 15:14:00,2017-06-13 15:14:00
+demo_review_001285,demo_order_001602,3,Average experience,The order was acceptable,2017-08-08 09:32:00,2017-08-08 09:32:00
+demo_review_001286,demo_order_001603,3,Average experience,The order was acceptable,2017-12-06 19:23:00,2017-12-06 19:23:00
+demo_review_001287,demo_order_001604,5,Satisfied,Order arrived and matched the request,2018-07-24 08:48:00,2018-07-25 08:48:00
+demo_review_001288,demo_order_001605,4,Satisfied,Order arrived and matched the request,2016-12-22 11:52:00,2016-12-23 11:52:00
+demo_review_001289,demo_order_001606,1,Could be better,Delivery took longer than expected,2018-04-19 21:26:00,2018-04-19 21:26:00
+demo_review_001290,demo_order_001607,4,Satisfied,Order arrived and matched the request,2018-02-17 15:05:00,2018-02-18 15:05:00
+demo_review_001291,demo_order_001608,4,Satisfied,Order arrived and matched the request,2018-02-09 14:41:00,2018-02-10 14:41:00
+demo_review_001292,demo_order_001609,4,Satisfied,Order arrived and matched the request,2016-10-29 17:15:00,2016-10-31 17:15:00
+demo_review_001293,demo_order_001610,4,Satisfied,Order arrived and matched the request,2016-11-25 12:08:00,2016-11-25 12:08:00
+demo_review_001294,demo_order_001612,5,Satisfied,Order arrived and matched the request,2016-11-28 10:34:00,2016-11-29 10:34:00
+demo_review_001295,demo_order_001613,5,Satisfied,Order arrived and matched the request,2018-03-20 09:26:00,2018-03-20 09:26:00
+demo_review_001296,demo_order_001615,5,Satisfied,Order arrived and matched the request,2018-07-24 18:19:00,2018-07-25 18:19:00
+demo_review_001297,demo_order_001616,4,Satisfied,Order arrived and matched the request,2017-11-11 09:54:00,2017-11-12 09:54:00
+demo_review_001298,demo_order_001617,5,Satisfied,Order arrived and matched the request,2017-05-31 19:23:00,2017-06-01 19:23:00
+demo_review_001299,demo_order_001618,2,Could be better,The order did not meet expectations,2017-04-28 19:13:00,2017-04-29 19:13:00
+demo_review_001300,demo_order_001619,4,Satisfied,Order arrived and matched the request,2016-12-06 16:43:00,2016-12-07 16:43:00
+demo_review_001301,demo_order_001621,5,Satisfied,Order arrived and matched the request,2018-06-16 08:17:00,2018-06-17 08:17:00
+demo_review_001302,demo_order_001622,5,Satisfied,Order arrived and matched the request,2016-10-12 19:24:00,2016-10-13 19:24:00
+demo_review_001303,demo_order_001623,4,Satisfied,Order arrived and matched the request,2017-05-20 09:40:00,2017-05-21 09:40:00
+demo_review_001304,demo_order_001624,4,Satisfied,Order arrived and matched the request,2017-02-13 18:08:00,2017-02-13 18:08:00
+demo_review_001305,demo_order_001625,5,Satisfied,Order arrived and matched the request,2018-04-14 17:51:00,2018-04-16 17:51:00
+demo_review_001306,demo_order_001628,5,Satisfied,Order arrived and matched the request,2018-05-12 21:26:00,2018-05-12 21:26:00
+demo_review_001307,demo_order_001629,4,Satisfied,Order arrived and matched the request,2017-05-30 20:24:00,2017-06-01 20:24:00
+demo_review_001308,demo_order_001630,4,Satisfied,Order arrived and matched the request,2018-07-09 12:13:00,2018-07-09 12:13:00
+demo_review_001309,demo_order_001632,4,Satisfied,Order arrived and matched the request,2017-03-09 19:13:00,2017-03-11 19:13:00
+demo_review_001310,demo_order_001633,4,Satisfied,Order arrived and matched the request,2018-06-26 14:59:00,2018-06-26 14:59:00
+demo_review_001311,demo_order_001634,5,Satisfied,Order arrived and matched the request,2018-08-29 21:28:00,2018-08-29 21:28:00
+demo_review_001312,demo_order_001635,4,Satisfied,Order arrived and matched the request,2018-07-14 14:20:00,2018-07-16 14:20:00
+demo_review_001313,demo_order_001637,5,Satisfied,Order arrived and matched the request,2018-09-05 20:38:00,2018-09-06 20:38:00
+demo_review_001314,demo_order_001638,3,Average experience,The order was acceptable,2018-04-30 15:33:00,2018-05-01 15:33:00
+demo_review_001315,demo_order_001639,4,Satisfied,Order arrived and matched the request,2017-02-21 16:26:00,2017-02-22 16:26:00
+demo_review_001316,demo_order_001640,3,Average experience,The order was acceptable,2017-11-21 20:10:00,2017-11-23 20:10:00
+demo_review_001317,demo_order_001641,5,Satisfied,Order arrived and matched the request,2017-12-07 19:07:00,2017-12-07 19:07:00
+demo_review_001318,demo_order_001642,4,Satisfied,Order arrived and matched the request,2017-12-13 16:20:00,2017-12-14 16:20:00
+demo_review_001319,demo_order_001643,3,Average experience,The order was acceptable,2017-04-12 18:25:00,2017-04-12 18:25:00
+demo_review_001320,demo_order_001644,3,Average experience,The order was acceptable,2018-06-05 11:27:00,2018-06-06 11:27:00
+demo_review_001321,demo_order_001645,5,Satisfied,Order arrived and matched the request,2018-01-16 21:51:00,2018-01-18 21:51:00
+demo_review_001322,demo_order_001646,5,Satisfied,Order arrived and matched the request,2017-06-16 13:01:00,2017-06-18 13:01:00
+demo_review_001323,demo_order_001647,4,Satisfied,Order arrived and matched the request,2016-12-11 09:34:00,2016-12-12 09:34:00
+demo_review_001324,demo_order_001649,4,Satisfied,Order arrived and matched the request,2018-01-16 10:23:00,2018-01-18 10:23:00
+demo_review_001325,demo_order_001650,5,Satisfied,Order arrived and matched the request,2017-05-27 18:41:00,2017-05-27 18:41:00
+demo_review_001326,demo_order_001651,5,Satisfied,Order arrived and matched the request,2016-12-13 18:57:00,2016-12-13 18:57:00
+demo_review_001327,demo_order_001652,5,Satisfied,Order arrived and matched the request,2017-12-12 21:14:00,2017-12-12 21:14:00
+demo_review_001328,demo_order_001653,5,Satisfied,Order arrived and matched the request,2017-03-05 15:31:00,2017-03-06 15:31:00
+demo_review_001329,demo_order_001657,5,Satisfied,Order arrived and matched the request,2017-11-05 15:24:00,2017-11-05 15:24:00
+demo_review_001330,demo_order_001658,4,Satisfied,Order arrived and matched the request,2017-06-07 20:13:00,2017-06-07 20:13:00
+demo_review_001331,demo_order_001659,5,Satisfied,Order arrived and matched the request,2018-03-28 13:54:00,2018-03-29 13:54:00
+demo_review_001332,demo_order_001661,4,Satisfied,Order arrived and matched the request,2017-04-15 08:57:00,2017-04-17 08:57:00
+demo_review_001333,demo_order_001662,3,Average experience,The order was acceptable,2018-01-23 20:50:00,2018-01-24 20:50:00
+demo_review_001334,demo_order_001663,3,Average experience,The order was acceptable,2018-07-13 08:28:00,2018-07-14 08:28:00
+demo_review_001335,demo_order_001664,5,Satisfied,Order arrived and matched the request,2017-08-08 12:01:00,2017-08-10 12:01:00
+demo_review_001336,demo_order_001666,3,Average experience,The order was acceptable,2017-03-05 20:08:00,2017-03-07 20:08:00
+demo_review_001337,demo_order_001667,5,Satisfied,Order arrived and matched the request,2017-06-07 09:39:00,2017-06-08 09:39:00
+demo_review_001338,demo_order_001668,3,Average experience,The order was acceptable,2017-12-16 14:37:00,2017-12-16 14:37:00
+demo_review_001339,demo_order_001669,4,Satisfied,Order arrived and matched the request,2016-10-31 13:57:00,2016-11-02 13:57:00
+demo_review_001340,demo_order_001670,5,Satisfied,Order arrived and matched the request,2017-12-23 19:22:00,2017-12-24 19:22:00
+demo_review_001341,demo_order_001671,5,Satisfied,Order arrived and matched the request,2018-07-08 20:30:00,2018-07-09 20:30:00
+demo_review_001342,demo_order_001673,5,Satisfied,Order arrived and matched the request,2017-12-29 14:40:00,2017-12-30 14:40:00
+demo_review_001343,demo_order_001674,5,Satisfied,Order arrived and matched the request,2018-06-29 08:04:00,2018-06-29 08:04:00
+demo_review_001344,demo_order_001675,2,Could be better,Delivery took longer than expected,2017-08-26 11:23:00,2017-08-28 11:23:00
+demo_review_001345,demo_order_001676,5,Satisfied,Order arrived and matched the request,2018-06-24 21:21:00,2018-06-26 21:21:00
+demo_review_001346,demo_order_001677,1,Could be better,Delivery took longer than expected,2018-04-16 18:58:00,2018-04-18 18:58:00
+demo_review_001347,demo_order_001678,2,Could be better,The order did not meet expectations,2018-07-31 21:17:00,2018-08-01 21:17:00
+demo_review_001348,demo_order_001679,4,Satisfied,Order arrived and matched the request,2018-08-19 19:07:00,2018-08-21 19:07:00
+demo_review_001349,demo_order_001680,4,Satisfied,Order arrived and matched the request,2017-09-12 21:23:00,2017-09-13 21:23:00
+demo_review_001350,demo_order_001681,5,Satisfied,Order arrived and matched the request,2017-01-21 19:58:00,2017-01-22 19:58:00
+demo_review_001351,demo_order_001683,5,Satisfied,Order arrived and matched the request,2016-12-18 15:43:00,2016-12-18 15:43:00
+demo_review_001352,demo_order_001684,4,Satisfied,Order arrived and matched the request,2018-01-12 14:57:00,2018-01-14 14:57:00
+demo_review_001353,demo_order_001685,5,Satisfied,Order arrived and matched the request,2017-12-24 15:47:00,2017-12-24 15:47:00
+demo_review_001354,demo_order_001687,5,Satisfied,Order arrived and matched the request,2018-08-19 19:56:00,2018-08-21 19:56:00
+demo_review_001355,demo_order_001688,5,Satisfied,Order arrived and matched the request,2017-12-10 16:19:00,2017-12-12 16:19:00
+demo_review_001356,demo_order_001689,5,Satisfied,Order arrived and matched the request,2017-01-30 10:53:00,2017-01-30 10:53:00
+demo_review_001357,demo_order_001690,5,Satisfied,Order arrived and matched the request,2017-01-28 16:14:00,2017-01-29 16:14:00
+demo_review_001358,demo_order_001691,3,Average experience,The order was acceptable,2018-09-03 10:01:00,2018-09-03 10:01:00
+demo_review_001359,demo_order_001692,1,Could be better,Delivery took longer than expected,2017-05-05 09:28:00,2017-05-06 09:28:00
+demo_review_001360,demo_order_001693,4,Satisfied,Order arrived and matched the request,2017-05-20 19:38:00,2017-05-21 19:38:00
+demo_review_001361,demo_order_001694,5,Satisfied,Order arrived and matched the request,2017-06-12 19:58:00,2017-06-12 19:58:00
+demo_review_001362,demo_order_001696,4,Satisfied,Order arrived and matched the request,2018-04-28 08:56:00,2018-04-28 08:56:00
+demo_review_001363,demo_order_001697,3,Average experience,The order was acceptable,2017-04-29 16:13:00,2017-04-30 16:13:00
+demo_review_001364,demo_order_001698,5,Satisfied,Order arrived and matched the request,2017-03-07 21:06:00,2017-03-08 21:06:00
+demo_review_001365,demo_order_001699,4,Satisfied,Order arrived and matched the request,2017-08-14 19:46:00,2017-08-15 19:46:00
+demo_review_001366,demo_order_001700,5,Satisfied,Order arrived and matched the request,2017-01-28 20:22:00,2017-01-30 20:22:00
+demo_review_001367,demo_order_001701,4,Satisfied,Order arrived and matched the request,2018-03-23 20:36:00,2018-03-23 20:36:00
+demo_review_001368,demo_order_001702,5,Satisfied,Order arrived and matched the request,2018-08-25 17:47:00,2018-08-27 17:47:00
+demo_review_001369,demo_order_001703,5,Satisfied,Order arrived and matched the request,2018-09-10 16:33:00,2018-09-12 16:33:00
+demo_review_001370,demo_order_001704,4,Satisfied,Order arrived and matched the request,2017-01-29 21:03:00,2017-01-30 21:03:00
+demo_review_001371,demo_order_001705,3,Average experience,The order was acceptable,2018-03-12 13:31:00,2018-03-12 13:31:00
+demo_review_001372,demo_order_001706,4,Satisfied,Order arrived and matched the request,2018-01-05 09:39:00,2018-01-06 09:39:00
+demo_review_001373,demo_order_001707,5,Satisfied,Order arrived and matched the request,2018-05-12 15:56:00,2018-05-13 15:56:00
+demo_review_001374,demo_order_001709,3,Average experience,The order was acceptable,2017-07-20 08:00:00,2017-07-21 08:00:00
+demo_review_001375,demo_order_001710,3,Average experience,The order was acceptable,2018-08-31 16:29:00,2018-09-01 16:29:00
+demo_review_001376,demo_order_001711,5,Satisfied,Order arrived and matched the request,2018-02-06 20:12:00,2018-02-08 20:12:00
+demo_review_001377,demo_order_001713,4,Satisfied,Order arrived and matched the request,2018-04-24 13:39:00,2018-04-26 13:39:00
+demo_review_001378,demo_order_001715,2,Could be better,Delivery took longer than expected,2018-09-01 21:43:00,2018-09-01 21:43:00
+demo_review_001379,demo_order_001716,5,Satisfied,Order arrived and matched the request,2018-06-28 11:09:00,2018-06-28 11:09:00
+demo_review_001380,demo_order_001717,5,Satisfied,Order arrived and matched the request,2018-03-19 10:05:00,2018-03-19 10:05:00
+demo_review_001381,demo_order_001718,5,Satisfied,Order arrived and matched the request,2016-11-09 13:24:00,2016-11-11 13:24:00
+demo_review_001382,demo_order_001719,4,Satisfied,Order arrived and matched the request,2018-07-28 11:32:00,2018-07-30 11:32:00
+demo_review_001383,demo_order_001720,3,Average experience,The order was acceptable,2017-05-04 20:18:00,2017-05-06 20:18:00
+demo_review_001384,demo_order_001721,5,Satisfied,Order arrived and matched the request,2018-01-12 19:23:00,2018-01-14 19:23:00
+demo_review_001385,demo_order_001722,5,Satisfied,Order arrived and matched the request,2017-08-09 16:07:00,2017-08-09 16:07:00
+demo_review_001386,demo_order_001723,4,Satisfied,Order arrived and matched the request,2017-12-30 10:49:00,2017-12-31 10:49:00
+demo_review_001387,demo_order_001724,5,Satisfied,Order arrived and matched the request,2018-06-27 18:26:00,2018-06-27 18:26:00
+demo_review_001388,demo_order_001725,4,Satisfied,Order arrived and matched the request,2017-12-22 17:35:00,2017-12-24 17:35:00
+demo_review_001389,demo_order_001726,3,Average experience,The order was acceptable,2017-12-06 08:33:00,2017-12-07 08:33:00
+demo_review_001390,demo_order_001727,4,Satisfied,Order arrived and matched the request,2017-04-16 11:35:00,2017-04-16 11:35:00
+demo_review_001391,demo_order_001729,4,Satisfied,Order arrived and matched the request,2017-12-17 17:18:00,2017-12-19 17:18:00
+demo_review_001392,demo_order_001730,2,Could be better,Delivery took longer than expected,2018-09-17 09:59:00,2018-09-17 09:59:00
+demo_review_001393,demo_order_001731,3,Average experience,The order was acceptable,2017-08-30 20:52:00,2017-08-30 20:52:00
+demo_review_001394,demo_order_001732,4,Satisfied,Order arrived and matched the request,2018-02-22 19:15:00,2018-02-22 19:15:00
+demo_review_001395,demo_order_001733,4,Satisfied,Order arrived and matched the request,2016-11-17 16:43:00,2016-11-18 16:43:00
+demo_review_001396,demo_order_001735,3,Average experience,The order was acceptable,2018-03-02 18:05:00,2018-03-03 18:05:00
+demo_review_001397,demo_order_001737,4,Satisfied,Order arrived and matched the request,2018-04-15 12:51:00,2018-04-16 12:51:00
+demo_review_001398,demo_order_001739,3,Average experience,The order was acceptable,2017-03-13 16:10:00,2017-03-14 16:10:00
+demo_review_001399,demo_order_001740,4,Satisfied,Order arrived and matched the request,2017-09-18 20:47:00,2017-09-19 20:47:00
+demo_review_001400,demo_order_001742,3,Average experience,The order was acceptable,2017-03-01 17:11:00,2017-03-02 17:11:00
+demo_review_001401,demo_order_001743,4,Satisfied,Order arrived and matched the request,2016-12-23 10:25:00,2016-12-25 10:25:00
+demo_review_001402,demo_order_001745,4,Satisfied,Order arrived and matched the request,2017-04-29 08:14:00,2017-04-29 08:14:00
+demo_review_001403,demo_order_001746,4,Satisfied,Order arrived and matched the request,2018-01-20 21:27:00,2018-01-21 21:27:00
+demo_review_001404,demo_order_001747,4,Satisfied,Order arrived and matched the request,2017-04-19 12:10:00,2017-04-21 12:10:00
+demo_review_001405,demo_order_001748,4,Satisfied,Order arrived and matched the request,2017-04-27 17:20:00,2017-04-29 17:20:00
+demo_review_001406,demo_order_001749,5,Satisfied,Order arrived and matched the request,2017-12-26 13:35:00,2017-12-26 13:35:00
+demo_review_001407,demo_order_001750,5,Satisfied,Order arrived and matched the request,2017-01-21 09:04:00,2017-01-21 09:04:00
+demo_review_001408,demo_order_001751,3,Average experience,The order was acceptable,2017-04-06 17:26:00,2017-04-08 17:26:00
+demo_review_001409,demo_order_001752,3,Average experience,The order was acceptable,2018-08-08 08:15:00,2018-08-08 08:15:00
+demo_review_001410,demo_order_001754,3,Average experience,The order was acceptable,2018-05-20 19:52:00,2018-05-22 19:52:00
+demo_review_001411,demo_order_001755,5,Satisfied,Order arrived and matched the request,2018-03-03 09:48:00,2018-03-04 09:48:00
+demo_review_001412,demo_order_001756,3,Average experience,The order was acceptable,2018-05-30 08:21:00,2018-05-31 08:21:00
+demo_review_001413,demo_order_001757,5,Satisfied,Order arrived and matched the request,2018-06-05 17:51:00,2018-06-05 17:51:00
+demo_review_001414,demo_order_001758,5,Satisfied,Order arrived and matched the request,2018-02-13 21:25:00,2018-02-13 21:25:00
+demo_review_001415,demo_order_001759,1,Could be better,Delivery took longer than expected,2017-08-22 16:05:00,2017-08-23 16:05:00
+demo_review_001416,demo_order_001760,5,Satisfied,Order arrived and matched the request,2017-11-25 13:18:00,2017-11-27 13:18:00
+demo_review_001417,demo_order_001761,5,Satisfied,Order arrived and matched the request,2017-02-27 12:34:00,2017-02-28 12:34:00
+demo_review_001418,demo_order_001762,4,Satisfied,Order arrived and matched the request,2017-06-30 13:31:00,2017-07-01 13:31:00
+demo_review_001419,demo_order_001763,3,Average experience,The order was acceptable,2017-01-04 11:53:00,2017-01-05 11:53:00
+demo_review_001420,demo_order_001764,4,Satisfied,Order arrived and matched the request,2018-02-09 18:28:00,2018-02-09 18:28:00
+demo_review_001421,demo_order_001766,4,Satisfied,Order arrived and matched the request,2018-08-02 18:45:00,2018-08-04 18:45:00
+demo_review_001422,demo_order_001767,5,Satisfied,Order arrived and matched the request,2017-03-20 20:22:00,2017-03-21 20:22:00
+demo_review_001423,demo_order_001768,3,Average experience,The order was acceptable,2018-01-28 13:19:00,2018-01-28 13:19:00
+demo_review_001424,demo_order_001769,5,Satisfied,Order arrived and matched the request,2018-07-26 11:45:00,2018-07-26 11:45:00
+demo_review_001425,demo_order_001770,5,Satisfied,Order arrived and matched the request,2018-09-02 12:48:00,2018-09-02 12:48:00
+demo_review_001426,demo_order_001771,4,Satisfied,Order arrived and matched the request,2017-03-19 17:00:00,2017-03-21 17:00:00
+demo_review_001427,demo_order_001772,4,Satisfied,Order arrived and matched the request,2018-04-14 09:18:00,2018-04-15 09:18:00
+demo_review_001428,demo_order_001773,2,Could be better,Delivery took longer than expected,2018-07-24 14:07:00,2018-07-26 14:07:00
+demo_review_001429,demo_order_001774,4,Satisfied,Order arrived and matched the request,2016-11-13 14:03:00,2016-11-13 14:03:00
+demo_review_001430,demo_order_001776,4,Satisfied,Order arrived and matched the request,2017-10-27 10:36:00,2017-10-28 10:36:00
+demo_review_001431,demo_order_001778,2,Could be better,Delivery took longer than expected,2017-12-24 10:11:00,2017-12-25 10:11:00
+demo_review_001432,demo_order_001780,5,Satisfied,Order arrived and matched the request,2018-07-23 13:56:00,2018-07-23 13:56:00
+demo_review_001433,demo_order_001781,5,Satisfied,Order arrived and matched the request,2018-02-20 10:34:00,2018-02-22 10:34:00
+demo_review_001434,demo_order_001783,5,Satisfied,Order arrived and matched the request,2016-12-30 20:35:00,2016-12-30 20:35:00
+demo_review_001435,demo_order_001784,4,Satisfied,Order arrived and matched the request,2018-07-30 14:35:00,2018-07-31 14:35:00
+demo_review_001436,demo_order_001786,5,Satisfied,Order arrived and matched the request,2017-07-23 16:13:00,2017-07-23 16:13:00
+demo_review_001437,demo_order_001788,4,Satisfied,Order arrived and matched the request,2017-11-07 17:25:00,2017-11-09 17:25:00
+demo_review_001438,demo_order_001790,5,Satisfied,Order arrived and matched the request,2018-01-10 12:10:00,2018-01-12 12:10:00
+demo_review_001439,demo_order_001791,4,Satisfied,Order arrived and matched the request,2018-03-07 20:41:00,2018-03-09 20:41:00
+demo_review_001440,demo_order_001792,3,Average experience,The order was acceptable,2017-08-28 21:34:00,2017-08-28 21:34:00
+demo_review_001441,demo_order_001793,5,Satisfied,Order arrived and matched the request,2017-01-10 11:27:00,2017-01-10 11:27:00
+demo_review_001442,demo_order_001794,3,Average experience,The order was acceptable,2017-08-23 19:49:00,2017-08-23 19:49:00
+demo_review_001443,demo_order_001795,4,Satisfied,Order arrived and matched the request,2016-10-18 16:22:00,2016-10-18 16:22:00
+demo_review_001444,demo_order_001796,2,Could be better,Delivery took longer than expected,2018-09-12 15:47:00,2018-09-14 15:47:00
+demo_review_001445,demo_order_001797,3,Average experience,The order was acceptable,2017-03-31 08:29:00,2017-04-02 08:29:00
+demo_review_001446,demo_order_001798,3,Average experience,The order was acceptable,2016-11-20 13:40:00,2016-11-20 13:40:00
+demo_review_001447,demo_order_001799,4,Satisfied,Order arrived and matched the request,2017-07-18 16:47:00,2017-07-19 16:47:00
+demo_review_001448,demo_order_001800,3,Average experience,The order was acceptable,2017-08-04 16:07:00,2017-08-06 16:07:00

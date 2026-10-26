@@ -1,0 +1,10 @@
+check,value,interpretation
+orders_rows,1800.0,Expected one row per order.
+duplicate_order_ids,0.0,Should be zero.
+items_without_order,0.0,Item lines without a matching order.
+orders_without_items,0.0,May be valid for canceled or unavailable orders; inspect before treating as missing revenue.
+delivered_orders_missing_delivery_date,0.0,A delivered status without a delivery timestamp needs attention.
+delivered_orders_missing_estimate,0.0,Cannot assess promise performance for these orders.
+reviews_without_order,0.0,Reviews without a matching order.
+orders_with_multiple_review_rows,0.0,Review rows grouped to order-level average for this analysis.
+median_abs_payment_vs_item_plus_freight_gap_brl,0.31,"Differences can arise from data issues, installments, or source-table conventions; investigate large gaps."

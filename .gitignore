@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Original downloaded source files are kept out of Git by default.
+data/raw/*.csv
+data/raw/*.zip
+data/raw/*.7z
+data/raw/*.gz
+!data/raw/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test and generated SQLite journal files
+.pytest_cache/
+*.db-journal

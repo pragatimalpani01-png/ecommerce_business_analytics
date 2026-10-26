@@ -1,0 +1,5 @@
+payment_type,payment_rows,payment_value_brl,payment_rows_on_delivered_orders
+boleto,394,98659.81,371
+credit_card,1220,308659.35,1165
+debit_card,83,20981.93,81
+voucher,103,26035.54,96

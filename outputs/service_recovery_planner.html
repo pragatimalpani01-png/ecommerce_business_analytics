@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Service Recovery Budget Planner</title>
+<style>
+:root{--navy:#17324d;--teal:#168c8c;--orange:#e28b43;--muted:#64748b;--line:#e3eaf0;--paper:#f7f9fb}
+body{margin:0;background:var(--paper);font:16px/1.5 Arial, sans-serif;color:var(--navy)}
+main{max-width:920px;margin:40px auto;padding:0 20px}h1{font-size:30px;line-height:1.2;margin:10px 0}.label{font-size:12px;text-transform:uppercase;letter-spacing:.1em;color:var(--teal);font-weight:bold}
+.banner{border-left:4px solid var(--orange);background:#fff5e9;padding:12px 16px;margin:20px 0;border-radius:4px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px;margin:22px 0}
+.card{background:white;border:1px solid var(--line);border-radius:12px;padding:18px;box-shadow:0 2px 7px #17324d0b}
+.value{font-size:28px;font-weight:bold;margin-top:6px}.muted{color:var(--muted);font-size:13px}
+label{display:block;font-weight:bold;margin:18px 0 8px}input[type=range]{width:100%;accent-color:var(--teal)}input[type=number]{padding:10px;border:1px solid var(--line);border-radius:8px;font-size:16px;width:120px}
+.row{display:flex;gap:16px;align-items:center;flex-wrap:wrap}.result{background:var(--navy);color:white;border-radius:12px;padding:20px;margin-top:18px}.result .muted{color:#d8e2eb}footer{margin-top:26px;color:var(--muted);font-size:13px}
+</style></head><body><main>
+<div class="label">E-commerce operations | Planning tool</div><h1>Service recovery budget planner</h1>
+<p>Use this page to estimate the cost of contacting a subset of orders that were both delivered late and rated 1 or 2. It is a workload and budget estimate, not a forecast of recovered revenue.</p>
+<div class="banner"><strong>DEMO DATA - illustrative only</strong><br>The figures on this page come from the current project run. Run the analysis again after changing the dataset to refresh them.</div>
+<div class="grid"><div class="card"><div class="muted">Orders meeting the flag</div><div class="value" id="flaggedOrders">103</div><div class="muted">Late delivery and review score of 1 or 2</div></div>
+<div class="card"><div class="muted">Item value linked to these orders</div><div class="value" id="flaggedValue">R$ 21,691</div><div class="muted">Not a financial loss or recoverable revenue</div></div></div>
+<div class="card"><label for="coverage">Share of flagged orders to contact: <span id="coverageLabel">50%</span></label>
+<input id="coverage" type="range" min="0" max="100" step="5" value="50">
+<div class="row"><div><label for="unitCost">Cost per contact (R$)</label><input id="unitCost" type="number" min="0" max="1000" value="5" step="0.5"></div><div class="muted">Include staff time, messaging and any service credit if your team uses one. Keep the estimate consistent with your own cost assumptions.</div></div>
+<div class="result"><div class="muted">Estimated contact workload</div><div class="value" id="contactCount">52 orders</div><div class="muted" style="margin-top:12px">Indicative budget</div><div class="value" id="budget">R$ 257.50</div><div class="muted" style="margin-top:12px">Item value associated with the selected cases</div><div class="value" id="associatedValue">R$ 10,845</div></div></div>
+<footer>Use this to compare coverage and cost assumptions before a pilot. To assess whether outreach pays off, track customer response, repeat purchases and actual intervention costs against a comparable group.</footer>
+</main><script>
+const flaggedOrders = 103; const flaggedValue = 21690.600000;
+const coverage = document.getElementById('coverage'); const cost = document.getElementById('unitCost');
+const money = n => new Intl.NumberFormat('en-US', {style:'currency',currency:'BRL',maximumFractionDigits:2}).format(n);
+function update() { const rate = Number(coverage.value)/100; const n = Math.round(flaggedOrders*rate); const c = Math.max(0, Number(cost.value)||0);
+ document.getElementById('coverageLabel').textContent = coverage.value+'%';
+ document.getElementById('contactCount').textContent = n.toLocaleString('en-US')+' orders';
+ document.getElementById('budget').textContent = money(n*c);
+ document.getElementById('associatedValue').textContent = money(flaggedValue*rate);
+}
+coverage.addEventListener('input',update); cost.addEventListener('input',update); update();
+</script></body></html>
